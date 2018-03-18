@@ -189,7 +189,8 @@ venv.bak/
 
 .deps/
 autom4te.cache/
-deps/
+deps/*
+!deps/AD3-2.0.2.tar.gz
 pretrained_models/
 working_dir/
 
@@ -197,9 +198,9 @@ config.log
 config.status
 configure
 Makefile
+pretrained_models.tar.gz
 stamp-h1
 TurboParser
 TurboTagger
 
 *.pyc
-*.tar.gz
