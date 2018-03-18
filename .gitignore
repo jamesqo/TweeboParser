@@ -195,10 +195,10 @@ working_dir/
 # We can't ignore deps/ if we want to include deps/AD3-2.0.2.tar.gz.
 # For some reason, ignoring deps/* does not properly ignore its subdirectories.
 # So we have to ignore each individual dependency.
-deps/AD3-2.0.2/
-deps/gflags/
-deps/glog/
-deps/local/
+AD3-2.0.2/
+gflags/
+glog/
+local/
 
 config.log
 Makefile
