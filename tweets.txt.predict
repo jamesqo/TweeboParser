@@ -243,8 +243,8 @@
 1	"	_	,	,	_	-1	_
 2	@ROlivaresH	_	@	@	_	-1	_
 3	:	_	~	~	_	-1	_
-4	creo	_	G	G	_	8	MWE
-5	que	_	G	G	_	4	MWE
+4	creo	_	G	G	_	5	MWE
+5	que	_	G	G	_	8	_
 6	no	_	!	!	_	0	_
 7	existe	_	N	N	_	12	_
 8	nada	_	G	G	_	9	_
@@ -463,8 +463,8 @@
 1	"	_	,	,	_	-1	_
 2	ANÚNCIO	_	^	^	_	0	_
 3	:	_	,	,	_	-1	_
-4	quem	_	G	G	_	7	MWE
-5	tiver	_	G	G	_	4	MWE
+4	quem	_	G	G	_	5	MWE
+5	tiver	_	G	G	_	9	_
 6	piercing	_	V	V	_	0	_
 7	e	_	G	G	_	8	_
 8	tatuagem	_	G	G	_	11	_
@@ -499,7 +499,7 @@
 12	tan	_	^	^	_	13	MWE
 13	difícil	_	^	^	_	18	MWE
 14	pegarle	_	^	^	_	19	MWE
-15	entre	_	^	^	_	19	MWE
+15	entre	_	^	^	_	18	MWE
 16	todos	_	^	^	_	18	MWE
 17	al	_	^	^	_	18	MWE
 18	que	_	^	^	_	0	_
@@ -738,9 +738,9 @@
 5	get	_	V	V	_	3	_
 6	bullied	_	V	V	_	5	_
 7	so	_	R	R	_	8	_
-8	much	_	R	R	_	0	_
+8	much	_	R	R	_	10	_
 9	you	_	O	O	_	10	_
-10	die	_	V	V	_	8	_
+10	die	_	V	V	_	0	_
 11	!	_	,	,	_	-1	_
 12	"	_	,	,	_	-1	_
 13	-	_	,	,	_	-1	_
@@ -948,8 +948,8 @@
 14	:S	_	E	E	_	0	_
 15	a	_	D	D	_	16	_
 16	nadie	_	G	G	_	18	_
-17	le	_	G	G	_	21	_
-18	gustaría	_	G	G	_	21	_
+17	le	_	G	G	_	18	_
+18	gustaría	_	G	G	_	19	_
 19	que	_	G	G	_	22	_
 20	le	_	G	G	_	22	_
 21	hicieran	_	G	G	_	22	_
@@ -1062,12 +1062,12 @@
 14	se	_	G	G	_	13	_
 15	for	_	P	P	_	9	_
 16	com	_	N	N	_	15	_
-17	a	_	D	D	_	22	_
+17	a	_	D	D	_	18	_
 18	merda	_	N	N	_	9	_
 19	"	_	,	,	_	-1	_
 20	.	_	,	,	_	-1	_
-21	KKKKKKKKKKKKKKKK	_	!	!	_	22	_
-22	rachei	_	N	N	_	0	_
+21	KKKKKKKKKKKKKKKK	_	!	!	_	0	_
+22	rachei	_	N	N	_	21	_
 23	.	_	,	,	_	-1	_
 
 1	"	_	,	,	_	-1	_
@@ -1729,7 +1729,7 @@
 15	I	_	O	O	_	16	_
 16	will	_	V	V	_	0	_
 17	not	_	R	R	_	16	_
-18	bully	_	N	N	_	16	_
+18	bully	_	N	N	_	19	CONJ
 19	or	_	&	&	_	16	_
 20	hate	_	V	V	_	19	CONJ
 21	.	_	,	,	_	-1	_
@@ -1814,7 +1814,7 @@
 6	and	_	&	&	_	3	_
 7	Success	_	N	N	_	6	CONJ
 8	Stories	_	N	N	_	3	_
-9	http://t.co/VV5KXUK	_	U	U	_	8	_
+9	http://t.co/VV5KXUK	_	U	U	_	7	_
 10	Bully	_	V	V	_	0	_
 11	Prevention	_	N	N	_	10	_
 
@@ -2034,19 +2034,19 @@
 
 1	#BullyingIsForLOSERS	_	#	#	_	-1	_
 2	;)	_	E	E	_	-1	_
-3	if	_	P	P	_	0	_
+3	if	_	P	P	_	11	_
 4	you	_	O	O	_	5	_
 5	notice	_	V	V	_	3	_
 6	,	_	,	,	_	-1	_
 7	the	_	D	D	_	8	_
-8	ones	_	N	N	_	5	_
+8	ones	_	N	N	_	11	_
 9	who	_	O	O	_	10	_
 10	bully	_	V	V	_	8	_
 11	are	_	V	V	_	15	CONJ
 12	the	_	D	D	_	13	_
 13	most	_	R	R	_	14	_
 14	insecure	_	A	A	_	11	_
-15	and	_	&	&	_	10	_
+15	and	_	&	&	_	0	_
 16	broken	_	V	V	_	15	CONJ
 17	down	_	T	T	_	16	MWE
 18	.	_	,	,	_	-1	_
@@ -2234,7 +2234,7 @@
 9	o	_	P	P	_	10	_
 10	bullying	_	V	V	_	0	_
 11	?	_	,	,	_	-1	_
-12	Só	_	G	G	_	10	_
+12	Só	_	G	G	_	14	_
 13	sair	_	G	G	_	14	_
 14	acompanhada	_	G	G	_	0	_
 15	|Levar	_	^	^	_	17	MWE
@@ -2431,7 +2431,7 @@
 17	know	_	V	V	_	0	_
 18	whyy	_	R	R	_	17	_
 19	?	_	,	,	_	-1	_
-20	Cuz	_	P	P	_	10	_
+20	Cuz	_	P	P	_	0	_
 21	KARMA	_	^	^	_	22	_
 22	is	_	V	V	_	20	_
 23	a	_	D	D	_	24	_
@@ -2551,7 +2551,7 @@
 11	that	_	P	P	_	10	_
 12	their	_	D	D	_	13	_
 13	better	_	A	A	_	11	_
-14	then	_	R	R	_	5	_
+14	then	_	R	R	_	0	_
 15	anyone	_	N	N	_	13	_
 16	else	_	R	R	_	15	_
 17	.	_	,	,	_	-1	_
@@ -2646,15 +2646,15 @@
 9	of	_	P	P	_	7	_
 10	.	_	,	,	_	-1	_
 11	2	_	$	$	_	12	_
-12	rookies	_	N	N	_	9	_
+12	rookies	_	N	N	_	18	CONJ
 13	in	_	P	P	_	12	_
 14	this	_	D	D	_	13	_
 15	#Arsenal	_	#	#	_	0	_
-16	back	_	R	R	_	18	CONJ
-17	4	_	$	$	_	18	CONJ
+16	back	_	R	R	_	12	_
+17	4	_	$	$	_	16	_
 18	and	_	&	&	_	0	_
 19	Carroll	_	^	^	_	20	_
-20	needs	_	V	V	_	0	_
+20	needs	_	V	V	_	18	CONJ
 21	to	_	P	P	_	20	_
 22	bully	_	V	V	_	21	_
 23	them	_	O	O	_	22	_
@@ -2831,7 +2831,7 @@
 9	BULLY	_	V	V	_	0	_
 10	THE	_	D	D	_	11	_
 11	GAME-	_	N	N	_	9	_
-12	PRODUCED	_	V	V	_	11	_
+12	PRODUCED	_	V	V	_	0	_
 13	BY	_	P	P	_	12	_
 14	-	_	,	,	_	-1	_
 15	http://t.co/TLwSRez	_	U	U	_	-1	_
@@ -2894,9 +2894,9 @@
 
 1	#NoHate	_	#	#	_	-1	_
 2	please	_	V	V	_	0	_
-3	@haileybaldwin	_	@	@	_	2	_
-4	she	_	O	O	_	5	_
-5	sweet	_	A	A	_	2	_
+3	@haileybaldwin	_	@	@	_	4	_
+4	she	_	O	O	_	2	_
+5	sweet	_	A	A	_	8	CONJ
 6	amazing	_	A	A	_	7	_
 7	cool	_	A	A	_	8	CONJ
 8	and	_	&	&	_	4	_
@@ -2906,10 +2906,10 @@
 12	said	_	V	V	_	10	_
 13	she	_	O	O	_	14	_
 14	cool	_	A	A	_	12	_
-15	please	_	V	V	_	16	_
-16	stop	_	V	V	_	0	_
+15	please	_	V	V	_	14	_
+16	stop	_	V	V	_	15	_
 17	that	_	O	O	_	16	_
-18	like	_	P	P	_	16	_
+18	like	_	P	P	_	17	_
 19	bullying	_	N	N	_	18	_
 
 1	#Np	_	#	#	_	-1	_
@@ -2941,7 +2941,7 @@
 8	fi	_	P	P	_	7	_
 9	avoid	_	V	V	_	8	_
 10	di	_	N	N	_	11	_
-11	gingi	_	N	N	_	12	_
+11	gingi	_	N	N	_	9	_
 12	fly	_	V	V	_	0	_
 13	dem	_	N	N	_	12	_
 14	frm	_	P	P	_	12	_
@@ -2951,10 +2951,10 @@
 
 1	#Orlando	_	#	#	_	-1	_
 2	area	_	N	N	_	3	_
-3	schools	_	N	N	_	0	_
+3	schools	_	N	N	_	11	CONJ
 4	,	_	,	,	_	-1	_
 5	their	_	D	D	_	6	_
-6	struggles	_	N	N	_	0	_
+6	struggles	_	N	N	_	11	CONJ
 7	with	_	P	P	_	6	_
 8	BULLYING	_	^	^	_	9	_
 9	#kids	_	N	N	_	7	_
@@ -2996,14 +2996,14 @@
 23	which	_	D	D	_	24	_
 24	it	_	O	O	_	26	_
 25	liberally	_	R	R	_	26	_
-26	applies	_	V	V	_	0	_
+26	applies	_	V	V	_	18	_
 27	.	_	,	,	_	-1	_
 
 1	#PodeCrerQue	_	#	#	_	-1	_
 2	no	_	!	!	_	0	_
 3	mundo	_	N	N	_	0	_
-4	da	_	D	D	_	5	_
-5	Adele	_	^	^	_	7	MWE
+4	da	_	D	D	_	7	_
+5	Adele	_	^	^	_	4	_
 6	existe	_	G	G	_	5	MWE
 7	o	_	P	P	_	8	_
 8	Rolling	_	V	V	_	0	_
@@ -3045,8 +3045,8 @@
 9	and	_	&	&	_	0	_
 10	hurt	_	V	V	_	9	CONJ
 11	,	_	,	,	_	-1	_
-12	after	_	P	P	_	10	_
-13	you	_	O	O	_	12	_
+12	after	_	P	P	_	0	_
+13	you	_	O	O	_	15	_
 14	basically	_	R	R	_	15	_
 15	cyber	_	A	A	_	12	_
 16	bully	_	N	N	_	0	_
@@ -3173,7 +3173,7 @@
 3	Si	_	^	^	_	5	MWE
 4	eres	_	^	^	_	5	MWE
 5	víctima	_	^	^	_	0	_
-6	o	_	P	P	_	0	_
+6	o	_	P	P	_	5	_
 7	conoces	_	V	V	_	6	_
 8	algún	_	N	N	_	7	_
 9	caso	_	G	G	_	10	_
@@ -3580,10 +3580,10 @@
 
 1	#bulinar	_	#	#	_	-1	_
 2	e	_	G	G	_	3	MWE
-3	o	_	G	G	_	4	MWE
+3	o	_	G	G	_	6	_
 4	ato	_	G	G	_	6	_
 5	de	_	P	P	_	0	_
-6	praticar	_	G	G	_	0	_
+6	praticar	_	G	G	_	5	_
 7	o	_	P	P	_	5	_
 8	#bullying	_	#	#	_	-1	_
 
@@ -3677,9 +3677,9 @@
 7	DE	_	^	^	_	10	_
 8	COMPROMISSO	_	^	^	_	9	MWE
 9	CONTRA	_	^	^	_	10	_
-10	BULLYING	_	N	N	_	12	_
+10	BULLYING	_	N	N	_	0	_
 11	(	_	,	,	_	-1	_
-12	cpp	_	N	N	_	0	_
+12	cpp	_	N	N	_	10	_
 13	)	_	,	,	_	-1	_
 14	http://t.co/NXvngnT	_	U	U	_	-1	_
 
@@ -3744,10 +3744,10 @@
 2	Oh	_	!	!	_	0	_
 3	gather	_	V	V	_	0	_
 4	round	_	V	V	_	3	_
-5	me	_	O	O	_	6	_
+5	me	_	O	O	_	4	_
 6	bully	_	V	V	_	8	CONJ
 7	boys	_	N	N	_	6	_
-8	And	_	&	&	_	4	_
+8	And	_	&	&	_	0	_
 9	I'll	_	L	L	_	8	CONJ
 10	zing	_	V	V	_	9	_
 11	you	_	O	O	_	10	_
@@ -3820,8 +3820,8 @@
 
 1	#flashback	_	#	#	_	-1	_
 2	dulu	_	G	G	_	3	MWE
-3	sering	_	G	G	_	4	MWE
-4	di	_	G	G	_	0	_
+3	sering	_	G	G	_	0	_
+4	di	_	G	G	_	3	MWE
 5	bully	_	N	N	_	7	_
 6	sama	_	G	G	_	9	_
 7	@victorjonathanm	_	@	@	_	6	_
@@ -3900,7 +3900,7 @@
 20	new	_	A	A	_	18	_
 21	soon	_	R	R	_	18	_
 22	!	_	,	,	_	-1	_
-23	Or	_	&	&	_	5	_
+23	Or	_	&	&	_	0	_
 24	just	_	R	R	_	25	_
 25	bully	_	V	V	_	23	CONJ
 26	hers	_	O	O	_	25	_
@@ -3928,11 +3928,11 @@
 7	bullied	_	V	V	_	6	_
 
 1	#itreallymakesmemad	_	#	#	_	-1	_
-2	when	_	R	R	_	0	_
+2	when	_	R	R	_	6	_
 3	I	_	O	O	_	4	_
 4	see	_	V	V	_	2	_
 5	people	_	N	N	_	4	_
-6	bully	_	V	V	_	4	_
+6	bully	_	V	V	_	0	_
 7	others	_	N	N	_	6	_
 
 1	#itreallymakesmemad	_	#	#	_	-1	_
@@ -4014,7 +4014,7 @@
 10	of	_	P	P	_	9	_
 11	I	_	O	O	_	13	_
 12	never	_	R	R	_	13	_
-13	understood	_	V	V	_	9	_
+13	understood	_	V	V	_	0	_
 14	why	_	R	R	_	13	_
 15	but	_	&	&	_	0	_
 16	some	_	D	D	_	17	_
@@ -4393,7 +4393,7 @@
 22	it	_	O	O	_	21	_
 23	around	_	P	P	_	21	_
 24	4	_	$	$	_	25	_
-25	students	_	N	N	_	23	_
+25	students	_	N	N	_	21	_
 26	.	_	,	,	_	-1	_
 
 1	#school	_	N	N	_	2	_
@@ -4633,7 +4633,7 @@
 4	bullied	_	V	V	_	2	_
 5	any	_	D	D	_	4	_
 6	of	_	P	P	_	5	_
-7	the	_	D	D	_	4	_
+7	the	_	D	D	_	6	_
 8	@ICONicBoyz	_	@	@	_	-1	_
 
 1	$INTC	_	^	^	_	0	_
@@ -4980,8 +4980,8 @@
 2	im	_	L	L	_	0	_
 3	gonna	_	V	V	_	2	_
 4	b	_	V	V	_	3	_
-5	ln	_	N	N	_	7	_
-6	bully	_	N	N	_	7	_
+5	ln	_	N	N	_	4	_
+6	bully	_	N	N	_	4	_
 7	beatdown	_	N	N	_	4	_
 
 1	-	_	,	,	_	-1	_
@@ -5094,10 +5094,10 @@
 12	French	_	^	^	_	10	_
 13	for	_	P	P	_	10	_
 14	being	_	V	V	_	13	_
-15	unbearable	_	A	A	_	16	_
+15	unbearable	_	A	A	_	17	_
 16	smug	_	A	A	_	17	_
-17	twattes	_	N	N	_	14	_
-18	whom	_	O	O	_	14	_
+17	twattes	_	N	N	_	19	_
+18	whom	_	O	O	_	19	_
 19	shruggeth	_	N	N	_	14	_
 20	too	_	R	R	_	21	_
 21	much	_	A	A	_	0	_
@@ -5416,7 +5416,7 @@
 3	qe	_	G	G	_	0	_
 4	la	_	G	G	_	3	_
 5	falta	_	G	G	_	4	_
-6	de	_	P	P	_	2	_
+6	de	_	P	P	_	0	_
 7	#valores	_	#	#	_	-1	_
 8	en	_	P	P	_	0	_
 9	casa	_	^	^	_	10	_
@@ -5539,7 +5539,7 @@
 7	School	_	N	N	_	6	_
 8	=>	_	G	G	_	0	_
 9	http://t.co/dAdyUj9	_	U	U	_	7	_
-10	#bullying	_	V	V	_	8	_
+10	#bullying	_	V	V	_	4	_
 11	#cyberbullying	_	#	#	_	-1	_
 
 1	6th	_	A	A	_	2	_
@@ -5692,7 +5692,7 @@
 11	also	_	R	R	_	10	_
 12	a	_	D	D	_	13	_
 13	#heartbeat	_	N	N	_	10	_
-14	im	_	L	L	_	8	_
+14	im	_	L	L	_	11	_
 15	sorry	_	A	A	_	14	_
 16	,	_	,	,	_	-1	_
 17	they	_	O	O	_	18	_
@@ -6111,7 +6111,7 @@
 4	masa	_	G	G	_	5	MWE
 5	iya	_	G	G	_	6	MWE
 6	di	_	G	G	_	0	_
-7	bully	_	N	N	_	6	_
+7	bully	_	N	N	_	0	_
 8	,	_	,	,	_	-1	_
 9	:|	_	E	E	_	-1	_
 
@@ -6308,7 +6308,7 @@
 16	de	_	G	G	_	17	_
 17	músicas	_	G	G	_	0	_
 18	sobre	_	G	G	_	17	_
-19	bullying	_	V	V	_	0	_
+19	bullying	_	V	V	_	18	_
 20	!	_	,	,	_	-1	_
 21	http://ow.ly/5ZQH9	_	U	U	_	-1	_
 
@@ -6528,10 +6528,10 @@
 9	positive	_	A	A	_	10	_
 10	messg	_	N	N	_	6	_
 11	"	_	,	,	_	-1	_
-12	Live	_	V	V	_	17	_
+12	Live	_	V	V	_	0	_
 13	"	_	,	,	_	-1	_
 14	Health	_	N	N	_	15	_
-15	Awareness	_	N	N	_	12	_
+15	Awareness	_	N	N	_	0	_
 16	,	_	,	,	_	-1	_
 17	stop	_	V	V	_	0	_
 18	,	_	,	,	_	-1	_
@@ -6677,8 +6677,8 @@
 6	UP	_	T	T	_	5	MWE
 7	!!	_	,	,	_	-1	_
 8	Although	_	P	P	_	0	_
-9	not	_	R	R	_	10	_
-10	on	_	P	P	_	8	_
+9	not	_	R	R	_	8	_
+10	on	_	P	P	_	9	_
 11	that	_	D	D	_	12	_
 12	scale	_	N	N	_	10	_
 13	I	_	O	O	_	14	_
@@ -6943,7 +6943,7 @@
 12	Defeat	_	^	^	_	11	_
 13	the	_	D	D	_	14	_
 14	label	_	N	N	_	12	_
-15	and	_	&	&	_	0	_
+15	and	_	&	&	_	11	_
 16	stop	_	V	V	_	15	CONJ
 17	cyber	_	N	N	_	18	_
 18	bullying	_	V	V	_	16	_
@@ -7161,7 +7161,7 @@
 1	@BelieberHoe	_	@	@	_	-1	_
 2	follow	_	V	V	_	0	_
 3	plz	_	V	V	_	2	_
-4	help	_	V	V	_	0	_
+4	help	_	V	V	_	3	_
 5	put	_	V	V	_	4	_
 6	a	_	D	D	_	7	_
 7	stop	_	N	N	_	5	_
@@ -7236,7 +7236,7 @@
 6	cyberbullied	_	R	R	_	7	CONJ
 7	&	_	&	&	_	5	_
 8	actually	_	R	R	_	9	_
-9	bullied	_	V	V	_	7	CONJ
+9	bullied	_	V	V	_	5	_
 10	but	_	&	&	_	0	_
 11	it's	_	L	L	_	10	CONJ
 12	fine	_	A	A	_	11	_
@@ -7472,8 +7472,8 @@
 15	with	_	P	P	_	6	_
 
 1	@Binattiscoito	_	@	@	_	-1	_
-2	tava	_	G	G	_	3	_
-3	falando	_	G	G	_	0	_
+2	tava	_	G	G	_	0	_
+3	falando	_	G	G	_	2	MWE
 4	sobre	_	G	G	_	3	_
 5	bullying	_	V	V	_	4	_
 6	Má	_	N	N	_	5	_
@@ -7580,15 +7580,15 @@
 6	eu	_	^	^	_	7	MWE
 7	entrei	_	^	^	_	4	_
 8	?	_	,	,	_	-1	_
-9	isso	_	G	G	_	10	MWE
-10	e	_	G	G	_	12	_
+9	isso	_	G	G	_	0	_
+10	e	_	G	G	_	9	_
 11	bullying	_	V	V	_	0	_
 12	sabia	_	G	G	_	11	_
 13	?	_	,	,	_	-1	_
 
 1	@Brulins	_	@	@	_	-1	_
-2	você	_	G	G	_	3	_
-3	faltou	_	G	G	_	0	_
+2	você	_	G	G	_	0	_
+3	faltou	_	G	G	_	2	_
 4	hoje	_	^	^	_	0	_
 5	,	_	,	,	_	-1	_
 6	eu	_	^	^	_	7	MWE
@@ -7869,7 +7869,7 @@
 18	team	_	N	N	_	16	_
 19	to	_	P	P	_	18	_
 20	success	_	N	N	_	19	_
-21	with	_	P	P	_	20	_
+21	with	_	P	P	_	16	_
 22	a	_	D	D	_	25	_
 23	little	_	A	A	_	25	_
 24	tough	_	A	A	_	25	_
@@ -7965,7 +7965,7 @@
 9	cyber	_	N	N	_	10	_
 10	bully	_	N	N	_	6	_
 11	here	_	R	R	_	6	_
-12	sunshine	_	N	N	_	0	_
+12	sunshine	_	N	N	_	10	_
 
 1	@CataVDePuelles	_	@	@	_	-1	_
 2	@Shortoguns	_	@	@	_	0	_
@@ -8208,7 +8208,7 @@
 5	can	_	V	V	_	4	CONJ
 6	I	_	O	O	_	7	_
 7	please	_	V	V	_	5	_
-8	ask	_	V	V	_	7	_
+8	ask	_	V	V	_	10	CONJ
 9	u	_	O	O	_	8	_
 10	and	_	&	&	_	5	_
 11	@grreeey	_	@	@	_	10	CONJ
@@ -8251,11 +8251,11 @@
 1	@Chlowweee	_	@	@	_	-1	_
 2	nvr	_	R	R	_	3	_
 3	bully	_	V	V	_	0	_
-4	its	_	L	L	_	0	_
-5	for	_	P	P	_	3	_
-6	your	_	D	D	_	5	_
-7	own	_	A	A	_	8	_
-8	good	_	A	A	_	5	_
+4	its	_	L	L	_	3	_
+5	for	_	P	P	_	4	_
+6	your	_	D	D	_	7	_
+7	own	_	A	A	_	4	_
+8	good	_	A	A	_	0	_
 
 1	@ChooseFamilia	_	@	@	_	-1	_
 2	HSUAHUSHAUIHSUAIHSUAHUi	_	^	^	_	7	MWE
@@ -8266,7 +8266,7 @@
 7	Dri	_	^	^	_	0	_
 8	kkkk	_	!	!	_	0	_
 9	fazem	_	G	G	_	10	_
-10	sim	_	G	G	_	0	_
+10	sim	_	G	G	_	12	_
 11	,	_	,	,	_	-1	_
 12	você	_	G	G	_	0	_
 13	todas	_	G	G	_	12	_
@@ -8306,7 +8306,7 @@
 9	and	_	&	&	_	7	_
 10	tbh	_	N	N	_	9	CONJ
 11	I	_	O	O	_	12	_
-12	don't	_	V	V	_	0	_
+12	don't	_	V	V	_	9	CONJ
 13	really	_	R	R	_	12	_
 14	wanna	_	V	V	_	12	_
 15	talk	_	V	V	_	14	_
@@ -8430,12 +8430,12 @@
 10	IT	_	O	O	_	11	_
 11	WAS	_	V	V	_	0	_
 12	SOO	_	R	R	_	13	_
-13	GOOD	_	A	A	_	11	_
+13	GOOD	_	A	A	_	14	_
 14	CONNOR	_	^	^	_	11	_
 15	:D	_	E	E	_	0	_
 16	the	_	D	D	_	17	_
 17	one	_	$	$	_	14	MWE
-18	abiut	_	P	P	_	17	_
+18	abiut	_	P	P	_	11	_
 19	the	_	D	D	_	20	_
 20	cyber	_	N	N	_	21	_
 21	bulling	_	V	V	_	18	_
@@ -8559,7 +8559,7 @@
 21	a	_	D	D	_	23	_
 22	high-vis	_	A	A	_	23	_
 23	jacket	_	N	N	_	24	_
-24	gives	_	V	V	_	0	_
+24	gives	_	V	V	_	16	_
 25	them	_	O	O	_	24	_
 26	.	_	,	,	_	-1	_
 
@@ -8720,11 +8720,11 @@
 1	@CuteMadeleine	_	@	@	_	-1	_
 2	Hay	_	^	^	_	3	MWE
 3	niños	_	^	^	_	0	_
-4	de	_	P	P	_	5	_
+4	de	_	P	P	_	0	_
 5	12	_	$	$	_	6	_
-6	años	_	N	N	_	0	_
+6	años	_	N	N	_	4	_
 7	que	_	G	G	_	8	_
-8	sufren	_	G	G	_	12	_
+8	sufren	_	G	G	_	4	_
 9	de	_	P	P	_	10	_
 10	bullying	_	V	V	_	0	_
 11	por	_	G	G	_	10	_
@@ -9308,9 +9308,9 @@
 16	tuits	_	^	^	_	17	MWE
 17	copiados	_	^	^	_	15	_
 18	y	_	R	R	_	15	_
-19	te	_	P	P	_	15	_
+19	te	_	P	P	_	18	_
 20	pinte	_	A	A	_	19	MWE
-21	las	_	N	N	_	18	_
+21	las	_	N	N	_	22	_
 22	paredes	_	^	^	_	20	_
 23	de	_	P	P	_	15	_
 24	tu	_	G	G	_	23	_
@@ -9428,8 +9428,8 @@
 12	qe	_	G	G	_	13	_
 13	te	_	G	G	_	15	MWE
 14	dije	_	G	G	_	16	MWE
-15	qe	_	G	G	_	16	_
-16	el	_	G	G	_	0	_
+15	qe	_	G	G	_	0	_
+16	el	_	G	G	_	15	_
 17	bully	_	V	V	_	0	_
 18	ganaba	_	^	^	_	17	_
 19	.	_	,	,	_	-1	_
@@ -9619,7 +9619,7 @@
 10	holidays	_	N	N	_	11	CONJ
 11	and	_	&	&	_	9	_
 12	cars	_	N	N	_	13	CONJ
-13	and	_	&	&	_	9	_
+13	and	_	&	&	_	11	COORD
 14	cameras	_	N	N	_	15	CONJ
 15	and	_	&	&	_	7	_
 16	speedboats	_	N	N	_	15	CONJ
@@ -9701,7 +9701,7 @@
 11	plethora	_	N	N	_	9	_
 12	of	_	P	P	_	11	_
 13	categories	_	N	N	_	12	_
-14	2	_	$	$	_	15	_
+14	2	_	$	$	_	13	_
 15	many	_	A	A	_	17	_
 16	2	_	P	P	_	15	_
 17	name	_	N	N	_	9	_
@@ -9853,8 +9853,8 @@
 1	@El_Universal_Mx	_	@	@	_	-1	_
 2	en	_	G	G	_	3	_
 3	cuanto	_	G	G	_	4	MWE
-4	le	_	G	G	_	0	_
-5	sigan	_	G	G	_	4	_
+4	le	_	G	G	_	5	_
+5	sigan	_	G	G	_	0	_
 6	dando	_	^	^	_	7	_
 7	propaganda	_	N	N	_	0	_
 8	en	_	P	P	_	7	_
@@ -9886,7 +9886,7 @@
 12	http://t.co/wMmOmzd	_	U	U	_	-1	_
 13	/	_	,	,	_	-1	_
 14	ha	_	!	!	_	0	_
-15	existido	_	^	^	_	17	MWE
+15	existido	_	^	^	_	16	MWE
 16	durante	_	^	^	_	17	MWE
 17	ciantos	_	^	^	_	19	_
 18	de	_	P	P	_	0	_
@@ -10172,7 +10172,7 @@
 10	lo	_	N	N	_	0	_
 11	,	_	,	,	_	-1	_
 12	lo	_	!	!	_	0	_
-13	dah	_	!	!	_	0	_
+13	dah	_	!	!	_	12	MWE
 14	pnuh	_	!	!	_	0	_
 15	dg	_	N	N	_	16	_
 16	bully	_	V	V	_	0	_
@@ -10415,7 +10415,7 @@
 19	of	_	P	P	_	17	_
 20	closets	_	N	N	_	19	_
 21	,	_	,	,	_	-1	_
-22	played	_	V	V	_	0	_
+22	played	_	V	V	_	29	CONJ
 23	me	_	O	O	_	22	_
 24	with	_	P	P	_	22	_
 25	like	_	P	P	_	24	_
@@ -10907,7 +10907,7 @@
 9	is	_	V	V	_	5	_
 10	...	_	,	,	_	-1	_
 11	she	_	O	O	_	12	_
-12	terrible	_	A	A	_	0	_
+12	terrible	_	A	A	_	9	_
 13	doe	_	P	P	_	12	_
 14	..	_	,	,	_	-1	_
 15	n	_	&	&	_	0	_
@@ -10927,7 +10927,7 @@
 9	!	_	,	,	_	-1	_
 10	;D	_	E	E	_	-1	_
 11	sabe	_	^	^	_	0	_
-12	pra	_	G	G	_	16	MWE
+12	pra	_	G	G	_	11	MWE
 13	onde	_	G	G	_	16	_
 14	eu	_	G	G	_	16	MWE
 15	vou	_	G	G	_	16	_
@@ -10946,8 +10946,8 @@
 3	that	_	P	P	_	2	_
 4	gets	_	V	V	_	3	_
 5	bullied	_	V	V	_	4	_
-6	probably	_	R	R	_	5	_
-7	deserves	_	V	V	_	6	_
+6	probably	_	R	R	_	7	_
+7	deserves	_	V	V	_	5	_
 8	it	_	O	O	_	7	_
 
 1	@HenryMarshFRCS	_	@	@	_	-1	_
@@ -10956,7 +10956,7 @@
 4	you	_	O	O	_	5	_
 5	thought	_	V	V	_	3	_
 6	you	_	O	O	_	7	_
-7	could	_	V	V	_	5	_
+7	could	_	V	V	_	0	_
 8	silently	_	R	R	_	7	_
 9	get	_	V	V	_	7	_
 10	away	_	R	R	_	9	_
@@ -11072,9 +11072,9 @@
 2	@michaelbush29	_	@	@	_	-1	_
 3	was	_	V	V	_	0	_
 4	wondering	_	V	V	_	3	_
-5	how	_	R	R	_	4	_
+5	how	_	R	R	_	7	_
 6	we	_	O	O	_	7	_
-7	were	_	V	V	_	5	_
+7	were	_	V	V	_	4	_
 8	gonna	_	V	V	_	7	_
 9	build	_	V	V	_	8	_
 10	a	_	D	D	_	11	_
@@ -11190,7 +11190,7 @@
 20	cuz	_	P	P	_	18	_
 21	of	_	P	P	_	20	_
 22	bullying	_	N	N	_	21	_
-23	and	_	&	&	_	16	_
+23	and	_	&	&	_	19	_
 24	she	_	O	O	_	25	_
 25	was	_	V	V	_	23	CONJ
 26	a	_	D	D	_	27	_
@@ -11231,7 +11231,7 @@
 7	it	_	O	O	_	6	_
 8	then	_	R	R	_	6	_
 9	ppl	_	N	N	_	10	_
-10	bully	_	V	V	_	0	_
+10	bully	_	V	V	_	8	_
 11	me	_	O	O	_	10	_
 12	cuz	_	P	P	_	10	_
 13	of	_	P	P	_	12	_
@@ -11649,7 +11649,7 @@
 4	with	_	P	P	_	3	_
 5	Ballymun	_	^	^	_	4	_
 6	???.	_	,	,	_	-1	_
-7	Apart	_	R	R	_	0	_
+7	Apart	_	R	R	_	2	_
 8	from	_	P	P	_	7	_
 9	the	_	D	D	_	10	_
 10	fact	_	N	N	_	8	_
@@ -11704,8 +11704,8 @@
 3	can't	_	V	V	_	0	_
 4	sleep	_	V	V	_	3	_
 5	lol	_	!	!	_	0	_
-6	how	_	R	R	_	8	_
-7	ima	_	L	L	_	0	_
+6	how	_	R	R	_	0	_
+7	ima	_	L	L	_	6	_
 8	bully	_	V	V	_	7	_
 
 1	@JBkidrauhlBR	_	@	@	_	-1	_
@@ -11812,16 +11812,16 @@
 
 1	@J_RiqueXD	_	@	@	_	-1	_
 2	@raymassulo_	_	@	@	_	-1	_
-3	kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk	_	^	^	_	0	_
+3	kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk	_	^	^	_	10	_
 4	#todoschoram	_	#	#	_	-1	_
 5	vamo	_	G	G	_	6	_
 6	para	_	G	G	_	7	_
 7	q	_	G	G	_	0	_
 8	isso	_	G	G	_	9	_
-9	é	_	G	G	_	0	_
+9	é	_	G	G	_	12	_
 10	bulling	_	V	V	_	0	_
 11	tem	_	G	G	_	10	_
-12	q	_	G	G	_	10	_
+12	q	_	G	G	_	0	_
 13	adoça	_	G	G	_	12	_
 14	a	_	D	D	_	16	_
 15	vida	_	N	N	_	16	_
@@ -11972,7 +11972,7 @@
 17	of	_	P	P	_	15	_
 18	that	_	D	D	_	19	_
 19	reason	_	N	N	_	17	_
-20	whic	_	P	P	_	15	_
+20	whic	_	P	P	_	19	_
 21	I	_	O	O	_	22	_
 22	will	_	V	V	_	20	_
 23	only	_	R	R	_	22	_
@@ -12081,9 +12081,9 @@
 
 1	@JeffCastroGomez	_	@	@	_	-1	_
 2	lmao	_	!	!	_	0	_
-3	you	_	O	O	_	0	_
+3	you	_	O	O	_	5	_
 4	so	_	R	R	_	5	_
-5	dumb	_	A	A	_	3	_
+5	dumb	_	A	A	_	0	_
 6	:')	_	E	E	_	-1	_
 7	.	_	,	,	_	-1	_
 8	I'm	_	L	L	_	0	_
@@ -12152,7 +12152,7 @@
 7	how	_	R	R	_	8	_
 8	much	_	A	A	_	4	_
 9	you	_	O	O	_	10	_
-10	bully	_	V	V	_	0	_
+10	bully	_	V	V	_	8	_
 11	him	_	O	O	_	10	_
 12	!	_	,	,	_	-1	_
 13	hahah	_	!	!	_	0	_
@@ -12223,12 +12223,12 @@
 31	!!!!	_	,	,	_	-1	_
 
 1	@JlNCHAN	_	@	@	_	-1	_
-2	He's	_	L	L	_	10	CONJ
-3	always	_	R	R	_	4	_
+2	He's	_	L	L	_	0	_
+3	always	_	R	R	_	2	_
 4	bullied	_	V	V	_	0	_
 5	because	_	P	P	_	4	_
 6	of	_	P	P	_	5	_
-7	that	_	O	O	_	6	_
+7	that	_	O	O	_	10	CONJ
 8	though	_	R	R	_	10	CONJ
 9	.	_	,	,	_	-1	_
 10	And	_	&	&	_	0	_
@@ -12295,7 +12295,7 @@
 7	xD	_	E	E	_	-1	_
 
 1	@JohnCena	_	@	@	_	-1	_
-2	dude	_	N	N	_	4	_
+2	dude	_	N	N	_	6	CONJ
 3	I'm	_	L	L	_	10	CONJ
 4	getting	_	V	V	_	6	CONJ
 5	bullied	_	V	V	_	4	_
@@ -12322,7 +12322,7 @@
 26	I'm	_	L	L	_	15	CONJ
 27	talking	_	V	V	_	25	_
 28	to	_	P	P	_	27	_
-29	u	_	O	O	_	28	_
+29	u	_	O	O	_	30	CONJ
 30	and	_	&	&	_	28	_
 
 1	@JohnCena	_	@	@	_	-1	_
@@ -12435,18 +12435,18 @@
 10	is	_	V	V	_	12	CONJ
 11	there	_	R	R	_	10	_
 12	and	_	&	&	_	2	_
-13	takes	_	V	V	_	17	CONJ
+13	takes	_	V	V	_	12	CONJ
 14	his	_	D	D	_	16	_
 15	lunch	_	N	N	_	16	_
-16	money	_	N	N	_	13	_
-17	and	_	&	&	_	12	COORD
-18	busfare	_	^	^	_	17	CONJ
+16	money	_	N	N	_	17	CONJ
+17	and	_	&	&	_	13	_
+18	busfare	_	^	^	_	13	_
 19	.	_	,	,	_	-1	_
 
 1	@Johnnylicious	_	@	@	_	-1	_
 2	stop	_	V	V	_	0	_
 3	cyber	_	N	N	_	4	_
-4	bullying	_	V	V	_	0	_
+4	bullying	_	V	V	_	2	_
 5	me	_	O	O	_	4	_
 6	-_____________-'	_	E	E	_	-1	_
 
@@ -12501,7 +12501,7 @@
 11	the	_	D	D	_	12	_
 12	bullying	_	N	N	_	10	_
 13	I	_	O	O	_	14	_
-14	get	_	V	V	_	12	_
+14	get	_	V	V	_	0	_
 15	from	_	P	P	_	14	_
 16	@iBatman1307	_	@	@	_	17	CONJ
 17	and	_	&	&	_	15	_
@@ -12696,7 +12696,7 @@
 9	..	_	,	,	_	-1	_
 10	so	_	R	R	_	0	_
 11	Trey	_	^	^	_	12	_
-12	is	_	V	V	_	0	_
+12	is	_	V	V	_	10	_
 13	my	_	D	D	_	14	_
 14	guy	_	N	N	_	12	_
 
@@ -12847,7 +12847,7 @@
 16	bully	_	N	N	_	14	_
 17	.	_	,	,	_	-1	_
 18	Still	_	R	R	_	19	_
-19	trying	_	V	V	_	0	_
+19	trying	_	V	V	_	14	_
 20	to	_	P	P	_	19	_
 21	cut	_	V	V	_	20	_
 22	ties	_	V	V	_	21	_
@@ -13569,7 +13569,7 @@
 16	the	_	D	D	_	18	_
 17	other	_	A	A	_	18	_
 18	way	_	N	N	_	15	_
-19	around	_	P	P	_	15	_
+19	around	_	P	P	_	18	_
 20	xxx	_	E	E	_	-1	_
 
 1	@LifeAsSharon	_	@	@	_	-1	_
@@ -13742,7 +13742,7 @@
 16	wuzn't	_	V	V	_	19	CONJ
 17	cyber	_	A	A	_	18	_
 18	bullying	_	N	N	_	16	_
-19	but	_	&	&	_	14	_
+19	but	_	&	&	_	0	_
 20	he	_	O	O	_	21	_
 21	wuz	_	V	V	_	19	CONJ
 22	!	_	,	,	_	-1	_
@@ -13913,11 +13913,11 @@
 26	todas	_	G	G	_	-1	_
 
 1	@LuaMinhaLinda	_	@	@	_	-1	_
-2	Me	_	O	O	_	0	_
+2	Me	_	O	O	_	3	_
 3	deixar	_	R	R	_	7	_
 4	falando	_	G	G	_	2	_
-5	sozinha	_	G	G	_	6	_
-6	é	_	G	G	_	0	_
+5	sozinha	_	G	G	_	4	_
+6	é	_	G	G	_	5	_
 7	Bullying	_	V	V	_	0	_
 8	tá	_	N	N	_	7	_
 9	.	_	,	,	_	-1	_
@@ -13992,9 +13992,9 @@
 9	su	_	G	G	_	10	MWE
 10	historia	_	G	G	_	11	_
 11	y	_	G	G	_	0	_
-12	el	_	G	G	_	14	MWE
-13	porque	_	G	G	_	14	MWE
-14	lo	_	G	G	_	0	_
+12	el	_	G	G	_	13	_
+13	porque	_	G	G	_	0	_
+14	lo	_	G	G	_	13	MWE
 15	dice	_	N	N	_	14	_
 16	jaja	_	!	!	_	0	_
 17	:/	_	E	E	_	-1	_
@@ -14015,7 +14015,7 @@
 14	thts	_	L	L	_	0	_
 15	just	_	R	R	_	16	_
 16	bull	_	N	N	_	14	_
-17	how	_	R	R	_	14	_
+17	how	_	R	R	_	8	_
 18	ppl	_	N	N	_	19	_
 19	bully	_	V	V	_	17	_
 20	selena	_	^	^	_	19	_
@@ -14262,10 +14262,10 @@
 5	todos	_	V	V	_	0	_
 6	me	_	O	O	_	5	_
 7	hacen	_	^	^	_	8	_
-8	bullying	_	V	V	_	6	_
-9	porr	_	P	P	_	0	_
+8	bullying	_	V	V	_	0	_
+9	porr	_	P	P	_	8	_
 10	no	_	D	D	_	11	_
-11	tomar	_	N	N	_	9	_
+11	tomar	_	N	N	_	8	_
 12	ojaojaojaoajoajoja	_	G	G	_	-1	_
 
 1	@MadaraNuggets	_	@	@	_	-1	_
@@ -14504,7 +14504,7 @@
 12	bullying	_	N	N	_	13	CONJ
 13	and	_	&	&	_	11	_
 14	abuse	_	N	N	_	13	CONJ
-15	ty	_	N	N	_	0	_
+15	ty	_	N	N	_	11	_
 16	for	_	P	P	_	8	_
 17	supporting	_	V	V	_	16	_
 18	this	_	D	D	_	19	_
@@ -14518,8 +14518,8 @@
 5	finger	_	N	N	_	6	_
 6	hun	_	N	N	_	3	_
 7	.	_	,	,	_	-1	_
-8	Any	_	D	D	_	13	_
-9	better	_	A	A	_	8	_
+8	Any	_	D	D	_	9	_
+9	better	_	A	A	_	13	_
 10	.	_	,	,	_	-1	_
 11	Also	_	R	R	_	12	_
 12	good	_	A	A	_	13	_
@@ -14684,7 +14684,7 @@
 23	?	_	,	,	_	-1	_
 
 1	@MeandTig	_	@	@	_	-1	_
-2	looks	_	V	V	_	10	CONJ
+2	looks	_	V	V	_	0	_
 3	like	_	P	P	_	2	_
 4	your	_	D	D	_	5	_
 5	the	_	D	D	_	8	_
@@ -14700,7 +14700,7 @@
 15	"	_	,	,	_	-1	_
 16	.	_	,	,	_	-1	_
 17	Let	_	V	V	_	0	_
-18	it	_	O	O	_	17	_
+18	it	_	O	O	_	19	_
 19	go	_	V	V	_	17	_
 20	...	_	,	,	_	-1	_
 21	it's	_	L	L	_	0	_
@@ -14799,7 +14799,7 @@
 12	LGBT	_	A	A	_	13	_
 13	students	_	N	N	_	11	_
 14	now	_	R	R	_	11	_
-15	that	_	P	P	_	11	_
+15	that	_	P	P	_	14	_
 16	@m_rhee	_	@	@	_	17	_
 17	is	_	V	V	_	15	_
 18	gone	_	A	A	_	17	_
@@ -14844,12 +14844,12 @@
 9	.	_	,	,	_	-1	_
 10	Helped	_	V	V	_	0	_
 11	me	_	O	O	_	10	_
-12	stand	_	V	V	_	17	CONJ
+12	stand	_	V	V	_	10	_
 13	up	_	T	T	_	12	MWE
 14	to	_	P	P	_	12	_
 15	workplace	_	N	N	_	16	_
 16	bully	_	N	N	_	14	_
-17	and	_	&	&	_	0	_
+17	and	_	&	&	_	10	_
 18	become	_	V	V	_	17	CONJ
 19	published	_	A	A	_	20	_
 20	writer	_	N	N	_	18	_
@@ -14893,9 +14893,9 @@
 8	delito	_	V	V	_	5	_
 9	ya	_	O	O	_	8	_
 10	q	_	G	G	_	8	_
-11	llega	_	G	G	_	9	_
+11	llega	_	G	G	_	10	_
 12	al	_	G	G	_	13	_
-13	grado	_	^	^	_	10	_
+13	grado	_	^	^	_	8	_
 14	de	_	P	P	_	5	_
 15	herir	_	N	N	_	16	_
 16	físicamente	_	N	N	_	17	_
@@ -14933,7 +14933,7 @@
 15	burn	_	V	V	_	14	_
 16	in	_	P	P	_	15	_
 17	hell	_	N	N	_	16	_
-18	is	_	V	V	_	16	_
+18	is	_	V	V	_	11	_
 19	bullying	_	V	V	_	18	_
 20	though	_	P	P	_	19	_
 21	.	_	,	,	_	-1	_
@@ -15115,7 +15115,7 @@
 17	him	_	O	O	_	16	_
 18	so	_	P	P	_	16	_
 19	I	_	O	O	_	20	_
-20	fort	_	V	V	_	16	_
+20	fort	_	V	V	_	18	_
 21	I'd	_	L	L	_	0	_
 22	start	_	V	V	_	21	_
 23	bein	_	V	V	_	22	_
@@ -15885,7 +15885,7 @@
 11	oras	_	G	G	_	-1	_
 12	bolas	_	G	G	_	-1	_
 13	'	_	,	,	_	-1	_
-14	nemri	_	^	^	_	0	_
+14	nemri	_	^	^	_	9	_
 
 1	@NatyCopi	_	@	@	_	-1	_
 2	@clari_Em	_	@	@	_	-1	_
@@ -15906,11 +15906,11 @@
 11	viu	_	G	G	_	12	MWE
 12	o	_	G	G	_	0	_
 13	negocio	_	^	^	_	15	MWE
-14	que	_	^	^	_	16	MWE
+14	que	_	^	^	_	15	MWE
 15	te	_	^	^	_	16	MWE
-16	mandei	_	^	^	_	18	_
+16	mandei	_	^	^	_	0	_
 17	no	_	D	D	_	18	_
-18	fb	_	N	N	_	0	_
+18	fb	_	N	N	_	16	_
 19	?	_	,	,	_	-1	_
 
 1	@Naureena_x	_	@	@	_	-1	_
@@ -16019,7 +16019,7 @@
 18	round	_	N	N	_	14	_
 19	to	_	P	P	_	14	_
 20	you	_	O	O	_	21	_
-21	lot	_	N	N	_	0	_
+21	lot	_	N	N	_	19	_
 
 1	@NickMiller89	_	@	@	_	-1	_
 2	wrong	_	A	A	_	3	_
@@ -16268,7 +16268,7 @@
 6	bully	_	N	N	_	0	_
 7	!!!	_	,	,	_	-1	_
 8	You	_	O	O	_	9	_
-9	won	_	V	V	_	0	_
+9	won	_	V	V	_	13	CONJ
 10	this	_	D	D	_	11	_
 11	battle	_	N	N	_	9	_
 12	,	_	,	,	_	-1	_
@@ -16493,8 +16493,8 @@
 
 1	@PalaciosSantana	_	@	@	_	-1	_
 2	aff	_	G	G	_	4	_
-3	isso	_	G	G	_	0	_
-4	é	_	G	G	_	3	_
+3	isso	_	G	G	_	4	_
+4	é	_	G	G	_	0	_
 5	bulling	_	V	V	_	0	_
 6	!	_	,	,	_	-1	_
 7	rs	_	G	G	_	8	MWE
@@ -16794,8 +16794,8 @@
 2	@leandro_co	_	@	@	_	-1	_
 3	agora	_	G	G	_	4	_
 4	Rolândia	_	G	G	_	5	_
-5	vai	_	G	G	_	6	_
-6	sofrer	_	G	G	_	0	_
+5	vai	_	G	G	_	0	_
+6	sofrer	_	G	G	_	5	_
 7	bullying	_	V	V	_	6	_
 8	do	_	V	V	_	7	_
 9	país	_	^	^	_	10	MWE
@@ -17463,7 +17463,7 @@
 6	it	_	O	O	_	5	_
 7	up	_	T	T	_	5	MWE
 8	u	_	O	O	_	9	_
-9	c	_	V	V	_	0	_
+9	c	_	V	V	_	5	_
 10	we	_	O	O	_	9	_
 11	da	_	D	D	_	13	_
 12	only	_	A	A	_	13	_
@@ -17472,7 +17472,7 @@
 15	coats	_	N	N	_	14	_
 16	on	_	P	P	_	13	_
 17	u	_	O	O	_	16	_
-18	kno	_	V	V	_	9	_
+18	kno	_	V	V	_	13	_
 19	we	_	O	O	_	20	_
 20	was	_	V	V	_	18	_
 21	on	_	P	P	_	20	_
@@ -17844,7 +17844,7 @@
 15	bullied	_	V	V	_	13	_
 16	you	_	O	O	_	15	_
 17	,	_	,	,	_	-1	_
-18	why	_	R	R	_	19	_
+18	why	_	R	R	_	15	_
 19	would	_	V	V	_	0	_
 20	you	_	O	O	_	19	_
 21	be	_	V	V	_	19	_
@@ -18202,8 +18202,8 @@
 19	had	_	V	V	_	0	_
 20	a	_	D	D	_	21	_
 21	bully	_	N	N	_	19	_
-22	in	_	P	P	_	19	_
-23	elementary	_	A	A	_	24	CONJ
+22	in	_	P	P	_	21	_
+23	elementary	_	A	A	_	22	_
 24	&	_	&	&	_	21	_
 25	jr	_	^	^	_	24	CONJ
 26	high	_	A	A	_	24	CONJ
@@ -18238,7 +18238,7 @@
 28	.	_	,	,	_	-1	_
 
 1	@SiriuslyAmazin7	_	@	@	_	-1	_
-2	YOU	_	O	O	_	3	_
+2	YOU	_	O	O	_	0	_
 3	ARROGANT	_	A	A	_	0	_
 4	,	_	,	,	_	-1	_
 5	BULLYING	_	V	V	_	0	_
@@ -18457,10 +18457,10 @@
 2	Recebemos	_	^	^	_	3	MWE
 3	convite	_	^	^	_	0	_
 4	da	_	D	D	_	5	_
-5	Caixa	_	^	^	_	7	MWE
+5	Caixa	_	^	^	_	8	MWE
 6	Cultural	_	^	^	_	7	MWE
 7	para	_	^	^	_	8	MWE
-8	apresentarmos	_	^	^	_	0	_
+8	apresentarmos	_	^	^	_	10	MWE
 9	"	_	,	,	_	-1	_
 10	Chega	_	^	^	_	12	MWE
 11	de	_	^	^	_	12	MWE
@@ -18492,8 +18492,8 @@
 16	bully	_	V	V	_	0	_
 17	kids	_	N	N	_	16	_
 18	:D	_	E	E	_	0	_
-19	mnogo	_	^	^	_	16	_
-20	mu	_	G	G	_	0	_
+19	mnogo	_	^	^	_	0	_
+20	mu	_	G	G	_	19	MWE
 21	se	_	G	G	_	25	_
 22	smeem	_	G	G	_	25	_
 23	chak	_	G	G	_	25	_
@@ -18602,9 +18602,9 @@
 
 1	@StefaniangeL16	_	@	@	_	-1	_
 2	emank	_	G	G	_	3	_
-3	dlo	_	G	G	_	4	MWE
-4	gw	_	G	G	_	0	_
-5	polos	_	N	N	_	0	_
+3	dlo	_	G	G	_	0	_
+4	gw	_	G	G	_	3	MWE
+5	polos	_	N	N	_	4	_
 6	,	_	,	,	_	-1	_
 7	tp	_	G	G	_	8	MWE
 8	di	_	G	G	_	9	_
@@ -18959,7 +18959,7 @@
 2	did	_	V	V	_	0	_
 3	bully	_	N	N	_	2	_
 4	just	_	R	R	_	5	_
-5	wish	_	V	V	_	2	_
+5	wish	_	V	V	_	0	_
 6	me	_	O	O	_	5	_
 7	happy	_	A	A	_	8	_
 8	birthday	_	N	N	_	5	_
@@ -20093,9 +20093,9 @@
 10	D:	_	E	E	_	-1	_
 
 1	@VivaLaCB	_	@	@	_	-1	_
-2	adele	_	^	^	_	0	_
+2	adele	_	^	^	_	4	MWE
 3	,	_	,	,	_	-1	_
-4	pitbull	_	^	^	_	0	_
+4	pitbull	_	^	^	_	6	_
 5	,	_	,	,	_	-1	_
 6	rumor	_	N	N	_	0	_
 7	to	_	P	P	_	6	_
@@ -20409,9 +20409,9 @@
 20	cyber	_	N	N	_	21	MWE
 21	bully	_	N	N	_	0	_
 22	,	_	,	,	_	-1	_
-23	and	_	&	&	_	18	_
+23	and	_	&	&	_	0	_
 24	woot	_	!	!	_	0	_
-25	into	_	P	P	_	18	_
+25	into	_	P	P	_	23	_
 26	Websters	_	^	^	_	25	_
 27	.	_	,	,	_	-1	_
 
@@ -20501,8 +20501,8 @@
 11	next	_	A	A	_	12	_
 12	time	_	N	N	_	9	_
 13	i	_	O	O	_	14	_
-14	see	_	V	V	_	12	_
-15	im	_	L	L	_	0	_
+14	see	_	V	V	_	0	_
+15	im	_	L	L	_	14	_
 16	going	_	V	V	_	15	_
 17	to	_	P	P	_	16	_
 18	throw	_	V	V	_	17	_
@@ -20886,7 +20886,7 @@
 9	hun	_	N	N	_	7	_
 10	u	_	O	O	_	12	_
 11	just	_	R	R	_	12	_
-12	cant	_	V	V	_	0	_
+12	cant	_	V	V	_	9	_
 13	handle	_	V	V	_	12	_
 14	me	_	O	O	_	13	_
 15	:p	_	E	E	_	-1	_
@@ -20947,7 +20947,7 @@
 5	myself	_	O	O	_	4	_
 6	as	_	P	P	_	4	_
 7	anything	_	N	N	_	6	_
-8	else	_	R	R	_	2	_
+8	else	_	R	R	_	7	_
 9	I	_	O	O	_	10	_
 10	guess	_	V	V	_	8	_
 11	being	_	V	V	_	10	_
@@ -21119,8 +21119,8 @@
 11	?!	_	,	,	_	-1	_
 
 1	@_huii_	_	@	@	_	-1	_
-2	10	_	$	$	_	0	_
-3	of	_	P	P	_	2	_
+2	10	_	$	$	_	3	_
+3	of	_	P	P	_	0	_
 4	me	_	O	O	_	3	_
 5	??	_	,	,	_	-1	_
 6	Nono	_	N	N	_	0	_
@@ -21171,7 +21171,7 @@
 8	falei	_	^	^	_	11	_
 9	q	_	G	G	_	10	_
 10	eh	_	G	G	_	0	_
-11	bullying	_	N	N	_	13	CONJ
+11	bullying	_	N	N	_	10	_
 12	(	_	,	,	_	-1	_
 13	n	_	&	&	_	0	_
 14	sei	_	G	G	_	15	_
@@ -21436,7 +21436,7 @@
 20	I	_	O	O	_	21	_
 21	glad	_	A	A	_	0	_
 22	no	_	D	D	_	23	_
-23	one	_	$	$	_	24	_
+23	one	_	$	$	_	0	_
 24	with	_	P	P	_	21	_
 25	bully	_	V	V	_	24	_
 26	me	_	O	O	_	25	_
@@ -21472,7 +21472,7 @@
 17	by	_	P	P	_	16	_
 18	the	_	D	D	_	19	_
 19	self	_	N	N	_	17	_
-20	professed	_	V	V	_	11	_
+20	professed	_	V	V	_	10	_
 21	chosen	_	V	V	_	20	_
 22	ones	_	N	N	_	21	_
 23	(	_	,	,	_	-1	_
@@ -21749,7 +21749,7 @@
 11	ALONE	_	R	R	_	0	_
 12	aqui	_	G	G	_	13	MWE
 13	por	_	G	G	_	14	_
-14	causa	_	G	G	_	17	_
+14	causa	_	G	G	_	0	_
 15	da	_	D	D	_	16	_
 16	professora	_	N	N	_	19	_
 17	que	_	G	G	_	0	_
@@ -21835,8 +21835,8 @@
 8	people	_	N	N	_	7	_
 9	!	_	,	,	_	-1	_
 10	Sick	_	A	A	_	0	_
-11	more	_	R	R	_	10	_
-12	k	_	^	^	_	11	_
+11	more	_	R	R	_	12	_
+12	k	_	^	^	_	10	_
 13	,	_	,	,	_	-1	_
 14	die	_	V	V	_	0	_
 15	soon	_	R	R	_	14	_
@@ -22334,7 +22334,7 @@
 2	@koreainmylife	_	@	@	_	-1	_
 3	aaah	_	!	!	_	0	_
 4	,	_	,	,	_	-1	_
-5	careca	_	^	^	_	7	MWE
+5	careca	_	^	^	_	8	MWE
 6	e	_	^	^	_	8	MWE
 7	fedido	_	^	^	_	8	MWE
 8	pode	_	^	^	_	0	_
@@ -22415,7 +22415,7 @@
 5	threw	_	V	V	_	4	_
 6	out	_	T	T	_	5	MWE
 7	that	_	O	O	_	8	_
-8	is	_	V	V	_	5	_
+8	is	_	V	V	_	0	_
 9	disgusting	_	A	A	_	8	_
 10	#sweatgate	_	#	#	_	-1	_
 11	#bully	_	#	#	_	-1	_
@@ -22687,7 +22687,7 @@
 2	I	_	O	O	_	3	_
 3	am	_	V	V	_	0	_
 4	hard	_	A	A	_	3	_
-5	on	_	P	P	_	4	_
+5	on	_	P	P	_	3	_
 6	myself	_	O	O	_	5	_
 7	because	_	P	P	_	3	_
 8	I've	_	L	L	_	9	_
@@ -22733,20 +22733,20 @@
 10	me	_	O	O	_	9	_
 11	cool	_	A	A	_	12	_
 12	things	_	N	N	_	5	_
-13	to	_	P	P	_	12	_
+13	to	_	P	P	_	5	_
 14	take	_	V	V	_	13	_
 15	care	_	N	N	_	14	_
 16	of	_	P	P	_	14	_
 17	my	_	D	D	_	19	_
 18	bullying	_	N	N	_	19	_
 19	probs	_	N	N	_	16	_
-20	in	_	P	P	_	5	_
+20	in	_	P	P	_	14	_
 21	K-12	_	^	^	_	20	_
 22	.	_	,	,	_	-1	_
 
 1	@biancagabardo	_	@	@	_	-1	_
-2	bullying	_	V	V	_	0	_
-3	detected	_	V	V	_	2	_
+2	bullying	_	V	V	_	3	_
+3	detected	_	V	V	_	0	_
 
 1	@bibicosta_	_	@	@	_	-1	_
 2	faria	_	G	G	_	3	_
@@ -22764,7 +22764,7 @@
 14	muito	_	G	G	_	11	_
 15	bullying	_	V	V	_	0	_
 16	de	_	P	P	_	15	_
-17	volta	_	N	N	_	0	_
+17	volta	_	N	N	_	16	_
 
 1	@bibigrassi	_	@	@	_	-1	_
 2	ficaram	_	V	V	_	0	_
@@ -22981,7 +22981,7 @@
 20	i	_	O	O	_	21	_
 21	get	_	V	V	_	23	CONJ
 22	bullied	_	V	V	_	21	_
-23	&	_	&	&	_	19	_
+23	&	_	&	&	_	17	_
 24	shit	_	N	N	_	23	CONJ
 25	.	_	,	,	_	-1	_
 26	What	_	O	O	_	27	_
@@ -23363,7 +23363,7 @@
 3	bueno	_	V	V	_	0	_
 4	no	_	R	R	_	3	_
 5	a	_	D	D	_	6	_
-6	muchos	_	N	N	_	3	_
+6	muchos	_	N	N	_	0	_
 7	les	_	^	^	_	8	MWE
 8	pregunto	_	^	^	_	6	_
 9	pero	_	G	G	_	8	_
@@ -23389,9 +23389,9 @@
 4	bully	_	N	N	_	0	_
 5	,	_	,	,	_	-1	_
 6	fuiste	_	^	^	_	8	MWE
-7	el	_	^	^	_	8	MWE
+7	el	_	^	^	_	9	MWE
 8	unico	_	^	^	_	9	MWE
-9	en	_	^	^	_	11	MWE
+9	en	_	^	^	_	14	MWE
 10	#Debatemesta	_	^	^	_	11	MWE
 11	que	_	^	^	_	14	MWE
 12	dio	_	^	^	_	14	MWE
@@ -23435,12 +23435,12 @@
 
 1	@bullysteria	_	@	@	_	-1	_
 2	pero	_	G	G	_	0	_
-3	es	_	G	G	_	2	_
-4	que	_	G	G	_	7	_
-5	te	_	G	G	_	7	_
-6	vez	_	G	G	_	7	_
-7	hermosooooooo	_	G	G	_	0	_
-8	bully	_	N	N	_	0	_
+3	es	_	G	G	_	4	_
+4	que	_	G	G	_	5	_
+5	te	_	G	G	_	6	MWE
+6	vez	_	G	G	_	0	_
+7	hermosooooooo	_	G	G	_	6	_
+8	bully	_	N	N	_	7	_
 9	☺	_	E	E	_	-1	_
 
 1	@bullysteria	_	@	@	_	-1	_
@@ -23556,7 +23556,7 @@
 11	help	_	V	V	_	10	_
 12	.	_	,	,	_	-1	_
 13	Kids	_	N	N	_	14	_
-14	bully	_	N	N	_	0	_
+14	bully	_	N	N	_	11	_
 15	from	_	P	P	_	14	_
 16	having	_	V	V	_	15	_
 17	low	_	A	A	_	19	_
@@ -23574,8 +23574,8 @@
 8	hit	_	V	V	_	7	_
 9	back	_	R	R	_	8	_
 10	if	_	P	P	_	8	_
-11	they've	_	L	L	_	10	_
-12	been	_	V	V	_	10	_
+11	they've	_	L	L	_	0	_
+12	been	_	V	V	_	11	_
 13	bullied	_	V	V	_	12	_
 14	for	_	P	P	_	13	_
 15	a	_	D	D	_	16	_
@@ -23701,7 +23701,7 @@
 9	past	_	A	A	_	7	_
 10	where	_	R	R	_	4	_
 11	people	_	N	N	_	12	_
-12	would	_	V	V	_	0	_
+12	would	_	V	V	_	10	_
 13	treat	_	V	V	_	12	_
 14	me	_	O	O	_	13	_
 15	like	_	P	P	_	13	_
@@ -23709,7 +23709,7 @@
 17	kid	_	N	N	_	15	_
 18	the	_	D	D	_	20	_
 19	same	_	A	A	_	20	_
-20	way	_	N	N	_	12	_
+20	way	_	N	N	_	15	_
 21	,	_	,	,	_	-1	_
 22	so	_	P	P	_	0	_
 23	it	_	O	O	_	24	_
@@ -23735,7 +23735,7 @@
 3	BULLYING	_	V	V	_	2	_
 4	YOUR	_	D	D	_	5	_
 5	MUM	_	N	N	_	3	_
-6	ABOUT	_	P	P	_	5	_
+6	ABOUT	_	P	P	_	3	_
 7	HER	_	D	D	_	8	_
 8	GUMS	_	N	N	_	6	_
 
@@ -23977,7 +23977,7 @@
 2	that	_	O	O	_	3	_
 3	hurts	_	V	V	_	0	_
 4	!	_	,	,	_	-1	_
-5	Bully	_	N	N	_	0	_
+5	Bully	_	N	N	_	3	_
 6	!	_	,	,	_	-1	_
 
 1	@chrisjballard	_	@	@	_	-1	_
@@ -24166,17 +24166,17 @@
 13	hated	_	V	V	_	10	_
 14	me	_	O	O	_	13	_
 15	:(	_	E	E	_	-1	_
-16	bully	_	N	N	_	13	_
+16	bully	_	N	N	_	0	_
 17	!	_	,	,	_	-1	_
 18	xxx	_	E	E	_	-1	_
 
 1	@cspanwj	_	@	@	_	-1	_
 2	oh	_	!	!	_	0	_
-3	please	_	V	V	_	0	_
+3	please	_	V	V	_	7	_
 4	the	_	D	D	_	6	_
 5	bullying	_	N	N	_	6	_
-6	issue	_	N	N	_	7	_
-7	is	_	V	V	_	3	_
+6	issue	_	N	N	_	3	_
+7	is	_	V	V	_	0	_
 8	all	_	D	D	_	7	_
 9	about	_	P	P	_	8	_
 10	special	_	A	A	_	11	_
@@ -24260,7 +24260,7 @@
 8	led	_	V	V	_	9	CONJ
 9	or	_	&	&	_	5	_
 10	bullied	_	V	V	_	9	CONJ
-11	then	_	R	R	_	10	_
+11	then	_	R	R	_	5	_
 12	:P	_	E	E	_	0	_
 13	going	_	V	V	_	11	_
 14	cycling	_	N	N	_	15	_
@@ -24288,7 +24288,7 @@
 12	:S	_	E	E	_	-1	_
 13	T_T	_	E	E	_	-1	_
 14	i	_	O	O	_	15	_
-15	wont	_	V	V	_	10	_
+15	wont	_	V	V	_	23	CONJ
 16	bully	_	V	V	_	15	_
 17	kyuhyun	_	^	^	_	16	_
 18	anymore	_	R	R	_	16	_
@@ -24296,7 +24296,7 @@
 20	wait	_	V	V	_	0	_
 21	i	_	O	O	_	22	_
 22	will	_	V	V	_	20	_
-23	but	_	&	&	_	22	_
+23	but	_	&	&	_	0	_
 24	only	_	R	R	_	25	_
 25	for	_	P	P	_	23	CONJ
 26	tomo	_	N	N	_	25	_
@@ -24410,7 +24410,7 @@
 21	u	_	O	O	_	22	_
 22	are	_	V	V	_	0	_
 23	perfect	_	A	A	_	22	_
-24	for	_	P	P	_	23	_
+24	for	_	P	P	_	22	_
 25	that	_	O	O	_	24	_
 26	!	_	,	,	_	-1	_
 27	i	_	O	O	_	28	_
@@ -24740,7 +24740,7 @@
 14	,	_	,	,	_	-1	_
 15	tapi	_	N	N	_	16	_
 16	stop	_	V	V	_	0	_
-17	cyber	_	N	N	_	18	_
+17	cyber	_	N	N	_	19	_
 18	bullying	_	N	N	_	19	_
 19	terhadap	_	N	N	_	16	_
 20	seseorang	_	G	G	_	0	_
@@ -25355,7 +25355,7 @@
 4	hecho	_	R	R	_	5	_
 5	cutthroat	_	A	A	_	7	_
 6	primero	_	N	N	_	7	_
-7	bully	_	N	N	_	2	_
+7	bully	_	N	N	_	0	_
 
 1	@flovivi	_	@	@	_	-1	_
 2	@miqzzz	_	@	@	_	-1	_
@@ -25400,10 +25400,10 @@
 22	deve	_	G	G	_	0	_
 23	te	_	G	G	_	27	_
 24	nada	_	G	G	_	28	_
-25	e	_	G	G	_	28	_
-26	diz	_	G	G	_	28	_
-27	q	_	G	G	_	28	_
-28	tem	_	G	G	_	0	_
+25	e	_	G	G	_	27	_
+26	diz	_	G	G	_	27	_
+27	q	_	G	G	_	0	_
+28	tem	_	G	G	_	27	_
 29	corpo	_	G	G	_	-1	_
 
 1	@friska_jia2	_	@	@	_	-1	_
@@ -25466,7 +25466,7 @@
 6	o	_	P	P	_	0	_
 7	respeito	_	N	N	_	6	_
 8	,	_	,	,	_	-1	_
-9	as	_	P	P	_	0	_
+9	as	_	P	P	_	2	_
 10	diferenças	_	N	N	_	11	_
 11	é	_	G	G	_	9	_
 12	a	_	D	D	_	13	_
@@ -25599,11 +25599,11 @@
 1	@gazetaweb	_	@	@	_	-1	_
 2	confiram	_	N	N	_	0	_
 3	a	_	D	D	_	4	_
-4	passeata	_	N	N	_	2	_
+4	passeata	_	N	N	_	6	_
 5	#quebrandoosilencio	_	#	#	_	-1	_
 6	contra	_	^	^	_	0	_
-7	o	_	P	P	_	4	_
-8	#bullying	_	V	V	_	7	_
+7	o	_	P	P	_	8	_
+8	#bullying	_	V	V	_	0	_
 9	na	_	P	P	_	8	_
 10	pajucara	_	^	^	_	9	_
 11	,	_	,	,	_	-1	_
@@ -25673,8 +25673,8 @@
 14	have	_	V	V	_	12	_
 15	on	_	P	P	_	14	_
 16	there	_	X	X	_	17	_
-17	are	_	V	V	_	15	_
-18	WAY	_	R	R	_	20	_
+17	are	_	V	V	_	0	_
+18	WAY	_	R	R	_	17	_
 19	more	_	R	R	_	20	_
 20	active	_	A	A	_	17	_
 21	than	_	P	P	_	20	_
@@ -25692,8 +25692,8 @@
 8	suicidio	_	^	^	_	9	MWE
 9	social	_	A	A	_	10	_
 10	si	_	^	^	_	11	MWE
-11	tienes	_	^	^	_	13	MWE
-12	acné	_	^	^	_	13	MWE
+11	tienes	_	^	^	_	14	MWE
+12	acné	_	^	^	_	14	MWE
 13	te	_	^	^	_	14	MWE
 14	lo	_	^	^	_	15	MWE
 15	jurp	_	^	^	_	0	_
@@ -25764,8 +25764,8 @@
 3	yeah	_	!	!	_	0	_
 4	im	_	L	L	_	0	_
 5	wide	_	A	A	_	6	_
-6	ass	_	N	N	_	4	_
-7	woke	_	V	V	_	0	_
+6	ass	_	N	N	_	7	_
+7	woke	_	V	V	_	4	_
 8	now	_	R	R	_	7	_
 9	my	_	D	D	_	11	_
 10	ghetto	_	A	A	_	11	_
@@ -26000,7 +26000,7 @@
 9	bullied	_	V	V	_	8	_
 10	!.	_	,	,	_	-1	_
 11	Sucks	_	V	V	_	0	_
-12	huh	_	!	!	_	0	_
+12	huh	_	!	!	_	11	_
 13	?	_	,	,	_	-1	_
 
 1	@hannahmcialwain	_	@	@	_	-1	_
@@ -26190,7 +26190,7 @@
 2	Bullying	_	V	V	_	0	_
 3	nada	_	^	^	_	2	_
 4	,	_	,	,	_	-1	_
-5	o	_	P	P	_	2	_
+5	o	_	P	P	_	3	MWE
 6	moleque	_	^	^	_	5	_
 7	é	_	G	G	_	8	_
 8	um	_	G	G	_	9	_
@@ -26276,7 +26276,7 @@
 4	u	_	O	O	_	3	_
 5	being	_	V	V	_	3	_
 6	so	_	P	P	_	5	_
-7	mean	_	A	A	_	5	_
+7	mean	_	A	A	_	6	_
 8	!	_	,	,	_	-1	_
 9	Ur	_	L	L	_	0	_
 10	a	_	D	D	_	11	_
@@ -26367,7 +26367,7 @@
 2	not	_	R	R	_	3	_
 3	forgetting	_	V	V	_	0	_
 4	hUixiang	_	,	,	_	-1	_
-5	too	_	R	R	_	3	_
+5	too	_	R	R	_	0	_
 6	!!!	_	,	,	_	-1	_
 7	Yay	_	!	!	_	0	_
 8	!!!	_	,	,	_	-1	_
@@ -26793,7 +26793,7 @@
 26	dpet	_	G	G	_	27	_
 27	follback	_	G	G	_	0	_
 28	dr	_	G	G	_	29	MWE
-29	MS	_	^	^	_	0	_
+29	MS	_	^	^	_	27	_
 30	..	_	,	,	_	-1	_
 31	:(	_	E	E	_	-1	_
 
@@ -26813,7 +26813,7 @@
 14	as	_	P	P	_	13	_
 15	me	_	O	O	_	14	_
 16	for	_	P	P	_	13	_
-17	once	_	R	R	_	14	_
+17	once	_	R	R	_	16	_
 18	!	_	,	,	_	-1	_
 19	xD	_	E	E	_	-1	_
 
@@ -26883,10 +26883,10 @@
 19	don't	_	V	V	_	0	_
 20	let	_	V	V	_	19	_
 21	her	_	D	D	_	22	_
-22	guilt	_	N	N	_	20	_
+22	guilt	_	N	N	_	23	_
 23	trip	_	V	V	_	20	_
 24	you	_	O	O	_	25	CONJ
-25	or	_	&	&	_	23	_
+25	or	_	&	&	_	20	_
 26	bully	_	V	V	_	25	CONJ
 27	you	_	O	O	_	26	_
 28	,	_	,	,	_	-1	_
@@ -26919,7 +26919,7 @@
 4	aloneee	_	R	R	_	2	_
 5	!	_	,	,	_	-1	_
 6	Biggest	_	A	A	_	7	_
-7	bully	_	N	N	_	11	_
+7	bully	_	N	N	_	0	_
 8	ever	_	R	R	_	11	_
 9	right	_	R	R	_	10	_
 10	now	_	R	R	_	11	_
@@ -26968,7 +26968,7 @@
 4	know	_	V	V	_	2	_
 5	any	_	D	D	_	6	_
 6	body	_	N	N	_	4	_
-7	that	_	P	P	_	4	_
+7	that	_	P	P	_	6	_
 8	would	_	V	V	_	7	_
 9	want	_	V	V	_	8	_
 10	a	_	D	D	_	12	_
@@ -27334,7 +27334,7 @@
 11	digo	_	G	G	_	12	MWE
 12	que	_	G	G	_	13	_
 13	debemos	_	G	G	_	14	_
-14	hacer	_	G	G	_	16	_
+14	hacer	_	G	G	_	18	_
 15	un	_	G	G	_	18	_
 16	fogón	_	G	G	_	18	_
 17	de	_	P	P	_	5	_
@@ -27637,9 +27637,9 @@
 12	demand	_	N	N	_	10	_
 13	..	_	,	,	_	-1	_
 14	Your	_	L	L	_	0	_
-15	so	_	P	P	_	14	_
+15	so	_	P	P	_	0	_
 16	an	_	D	D	_	17	_
-17	inspiration	_	N	N	_	15	_
+17	inspiration	_	N	N	_	14	_
 18	.	_	,	,	_	-1	_
 19	I've	_	L	L	_	0	_
 20	been	_	V	V	_	19	_
@@ -27700,7 +27700,7 @@
 10	more	_	R	R	_	9	_
 11	about	_	P	P	_	9	_
 12	bullying	_	N	N	_	11	_
-13	without	_	P	P	_	12	_
+13	without	_	P	P	_	9	_
 14	specifically	_	R	R	_	15	_
 15	referring	_	V	V	_	13	_
 16	to	_	P	P	_	15	_
@@ -28075,8 +28075,8 @@
 8	ela	_	G	G	_	6	_
 9	?	_	,	,	_	-1	_
 10	eu	_	^	^	_	11	_
-11	era	_	N	N	_	12	_
-12	o	_	P	P	_	0	_
+11	era	_	N	N	_	0	_
+12	o	_	P	P	_	11	_
 13	que	_	G	G	_	14	MWE
 14	menos	_	G	G	_	12	_
 15	a	_	D	D	_	16	_
@@ -28137,7 +28137,7 @@
 7	bulling	_	V	V	_	0	_
 8	comigo	_	G	G	_	9	_
 9	só	_	G	G	_	10	_
-10	pq	_	G	G	_	7	_
+10	pq	_	G	G	_	13	_
 11	eu	_	G	G	_	13	_
 12	sou	_	G	G	_	13	_
 13	gaúcha	_	G	G	_	0	_
@@ -28377,7 +28377,7 @@
 9	A	_	D	D	_	10	_
 10	tri	_	N	N	_	12	MWE
 11	Mas	_	^	^	_	12	MWE
-12	eu	_	^	^	_	17	MWE
+12	eu	_	^	^	_	14	MWE
 13	tô	_	^	^	_	15	MWE
 14	ligado	_	^	^	_	15	MWE
 15	infelizmente	_	^	^	_	17	MWE
@@ -28586,7 +28586,7 @@
 2	bullying	_	V	V	_	0	_
 3	kalian	_	^	^	_	4	MWE
 4	kmrn	_	^	^	_	2	_
-5	udh	_	G	G	_	6	_
+5	udh	_	G	G	_	4	MWE
 6	cukup	_	G	G	_	7	_
 7	menjadi	_	G	G	_	0	_
 8	surprise	_	V	V	_	0	_
@@ -29180,7 +29180,7 @@
 9	my	_	D	D	_	11	_
 10	child	_	N	N	_	11	_
 11	hood	_	N	N	_	8	_
-12	being	_	V	V	_	16	CONJ
+12	being	_	V	V	_	6	_
 13	bullied	_	V	V	_	12	_
 14	,	_	,	,	_	-1	_
 15	although	_	P	P	_	24	_
@@ -29294,11 +29294,11 @@
 10	they	_	O	O	_	11	_
 11	are	_	V	V	_	8	_
 12	)	_	,	,	_	-1	_
-13	been	_	V	V	_	0	_
-14	doing	_	V	V	_	17	CONJ
+13	been	_	V	V	_	17	CONJ
+14	doing	_	V	V	_	13	_
 15	racial	_	A	A	_	16	_
 16	bullying	_	N	N	_	14	_
-17	and	_	&	&	_	13	_
+17	and	_	&	&	_	0	_
 18	eating	_	V	V	_	17	CONJ
 19	other	_	A	A	_	20	_
 20	people's	_	S	S	_	21	_
@@ -29385,10 +29385,10 @@
 3	mesmo	_	G	G	_	2	_
 4	foi	_	G	G	_	5	_
 5	você	_	G	G	_	6	_
-6	falando	_	G	G	_	9	_
+6	falando	_	G	G	_	8	_
 7	que	_	G	G	_	8	_
-8	parecia	_	G	G	_	9	_
-9	que	_	G	G	_	0	_
+8	parecia	_	G	G	_	0	_
+9	que	_	G	G	_	8	_
 10	a	_	D	D	_	13	_
 11	menina	_	G	G	_	13	MWE
 12	tava	_	G	G	_	13	MWE
@@ -29588,9 +29588,9 @@
 6	dia	_	G	G	_	7	_
 7	juga	_	G	G	_	0	_
 8	?	_	,	,	_	-1	_
-9	Gue	_	^	^	_	10	MWE
+9	Gue	_	^	^	_	11	MWE
 10	kira	_	^	^	_	11	MWE
-11	pada	_	^	^	_	13	MWE
+11	pada	_	^	^	_	12	MWE
 12	demen	_	^	^	_	13	MWE
 13	si	_	^	^	_	15	MWE
 14	jiejie	_	^	^	_	15	MWE
@@ -29618,7 +29618,7 @@
 12	no	_	!	!	_	13	MWE
 13	lugar	_	N	N	_	9	_
 14	da	_	D	D	_	15	_
-15	baleia	_	N	N	_	9	_
+15	baleia	_	N	N	_	13	_
 16	UHAIUHAIUHAIUHAIUA	_	G	G	_	-1	_
 
 1	@luvsthejacksons	_	@	@	_	-1	_
@@ -29675,9 +29675,9 @@
 3	aah	_	!	!	_	0	_
 4	meu	_	!	!	_	0	_
 5	,	_	,	,	_	-1	_
-6	isso	_	G	G	_	0	_
-7	é	_	G	G	_	6	_
-8	bullying	_	N	N	_	7	_
+6	isso	_	G	G	_	7	_
+7	é	_	G	G	_	0	_
+8	bullying	_	N	N	_	0	_
 9	.	_	,	,	_	-1	_
 
 1	@macstein	_	@	@	_	-1	_
@@ -30028,7 +30028,7 @@
 7	MINHA	_	^	^	_	9	MWE
 8	MÃE	_	^	^	_	9	MWE
 9	QUE	_	^	^	_	10	MWE
-10	VOCÊS	_	^	^	_	14	MWE
+10	VOCÊS	_	^	^	_	11	MWE
 11	TÃO	_	^	^	_	14	MWE
 12	DE	_	^	^	_	13	MWE
 13	BULLYING	_	^	^	_	14	MWE
@@ -30055,9 +30055,9 @@
 3	episódio	_	N	N	_	4	_
 4	matam	_	N	N	_	5	_
 5	ele	_	G	G	_	0	_
-6	de	_	P	P	_	13	_
+6	de	_	P	P	_	8	_
 7	uma	_	O	O	_	8	_
-8	maneira	_	V	V	_	6	_
+8	maneira	_	V	V	_	0	_
 9	diferente	_	V	V	_	8	_
 10	HAHA	_	!	!	_	0	_
 11	isso	_	!	!	_	0	_
@@ -30505,7 +30505,7 @@
 15	@	_	P	P	_	14	_
 16	roma	_	^	^	_	15	_
 17	wit	_	P	P	_	14	_
-18	out	_	P	P	_	20	_
+18	out	_	P	P	_	14	_
 19	totti's	_	Z	Z	_	20	_
 20	help	_	V	V	_	17	_
 
@@ -30558,18 +30558,18 @@
 8	it	_	O	O	_	7	_
 9	today	_	N	N	_	6	_
 10	and	_	&	&	_	0	_
-11	I'm	_	L	L	_	0	_
+11	I'm	_	L	L	_	10	CONJ
 12	still	_	R	R	_	11	_
-13	not	_	R	R	_	11	_
+13	not	_	R	R	_	15	_
 14	even	_	R	R	_	15	_
 15	sure	_	A	A	_	0	_
 16	what	_	O	O	_	18	_
 17	it	_	O	O	_	18	_
-18	was	_	V	V	_	10	CONJ
+18	was	_	V	V	_	15	_
 19	about	_	R	R	_	18	_
 20	,	_	,	,	_	-1	_
 21	I	_	O	O	_	22	_
-22	didn't	_	V	V	_	10	CONJ
+22	didn't	_	V	V	_	0	_
 23	know	_	V	V	_	22	_
 24	it	_	O	O	_	25	_
 25	was	_	V	V	_	23	_
@@ -30585,7 +30585,7 @@
 7	bout	_	P	P	_	5	_
 8	time	_	N	N	_	7	_
 9	she	_	O	O	_	10	_
-10	fuck	_	V	V	_	8	_
+10	fuck	_	V	V	_	0	_
 11	up	_	T	T	_	10	MWE
 12	the	_	D	D	_	13	_
 13	square	_	N	N	_	10	_
@@ -30623,8 +30623,8 @@
 13	que	_	G	G	_	14	_
 14	siente	_	G	G	_	0	_
 15	@Anana_bananas12	_	@	@	_	14	_
-16	sobre	_	G	G	_	17	MWE
-17	JB	_	^	^	_	0	_
+16	sobre	_	G	G	_	15	_
+17	JB	_	^	^	_	16	_
 18	:D	_	E	E	_	-1	_
 
 1	@mooloosam	_	@	@	_	-1	_
@@ -30669,7 +30669,7 @@
 11	aporta	_	^	^	_	12	MWE
 12	con	_	^	^	_	13	_
 13	ideas	_	N	N	_	15	_
-14	y	_	R	R	_	6	_
+14	y	_	R	R	_	0	_
 15	propuestas	_	N	N	_	6	_
 16	.	_	,	,	_	-1	_
 17	Sugiero	_	G	G	_	21	_
@@ -30725,7 +30725,7 @@
 6	bully	_	V	V	_	5	_
 7	him	_	O	O	_	6	_
 8	deep	_	A	A	_	6	_
-9	in	_	P	P	_	6	_
+9	in	_	P	P	_	8	_
 10	my	_	D	D	_	11	_
 11	heart	_	N	N	_	9	_
 12	the	_	D	D	_	13	_
@@ -30763,7 +30763,7 @@
 7	cat	_	N	N	_	5	_
 8	&	_	&	&	_	0	_
 9	has	_	V	V	_	8	CONJ
-10	been	_	V	V	_	13	CONJ
+10	been	_	V	V	_	9	_
 11	very	_	R	R	_	12	_
 12	scarce	_	A	A	_	10	_
 13	&	_	&	&	_	0	_
@@ -30790,7 +30790,7 @@
 10	diri	_	^	^	_	0	_
 11	.	_	,	,	_	-1	_
 12	Kunci	_	^	^	_	13	MWE
-13	sukses	_	^	^	_	19	_
+13	sukses	_	^	^	_	17	_
 14	aq	_	G	G	_	16	_
 15	nga	_	G	G	_	16	_
 16	ikut2tan	_	G	G	_	0	_
@@ -30876,15 +30876,15 @@
 6	turns	_	V	V	_	5	CONJ
 7	out	_	T	T	_	6	MWE
 8	it	_	O	O	_	9	_
-9	was	_	V	V	_	6	_
-10	alll	_	X	X	_	12	_
+9	was	_	V	V	_	15	CONJ
+10	alll	_	X	X	_	9	_
 11	a	_	D	D	_	12	_
 12	missunderstanding	_	N	N	_	13	_
-13	guesss	_	V	V	_	9	_
+13	guesss	_	V	V	_	10	_
 14	;)	_	E	E	_	-1	_
-15	and	_	&	&	_	13	_
+15	and	_	&	&	_	17	_
 16	yes	_	!	!	_	0	_
-17	maaam	_	N	N	_	15	CONJ
+17	maaam	_	N	N	_	0	_
 18	you	_	O	O	_	19	_
 19	did	_	V	V	_	0	_
 20	,	_	,	,	_	-1	_
@@ -30942,7 +30942,7 @@
 4	vai	_	G	G	_	5	_
 5	deixar	_	G	G	_	6	_
 6	naty	_	G	G	_	0	_
-7	a	_	D	D	_	8	_
+7	a	_	D	D	_	10	_
 8	bruna	_	^	^	_	10	MWE
 9	tah	_	P	P	_	10	_
 10	fazendo	_	^	^	_	11	_
@@ -30950,9 +30950,9 @@
 12	com	_	N	N	_	11	_
 13	vc	_	G	G	_	14	_
 14	hasuhasusahusau	_	G	G	_	11	_
-15	tah	_	P	P	_	11	_
+15	tah	_	P	P	_	0	_
 16	te	_	P	P	_	15	_
-17	excluindo	_	G	G	_	16	_
+17	excluindo	_	G	G	_	15	_
 18	da	_	D	D	_	19	_
 19	sociedade	_	N	N	_	16	_
 
@@ -31240,7 +31240,7 @@
 5	:	_	~	~	_	-1	_
 6	#ClassAward	_	#	#	_	-1	_
 7	Temen	_	^	^	_	0	_
-8	sekelas	_	G	G	_	7	MWE
+8	sekelas	_	G	G	_	12	_
 9	kalian	_	G	G	_	12	_
 10	yang	_	G	G	_	12	_
 11	sering	_	G	G	_	12	_
@@ -31317,10 +31317,10 @@
 3	ya	_	O	O	_	2	_
 4	,	_	,	,	_	-1	_
 5	kalau	_	G	G	_	6	MWE
-6	ada	_	G	G	_	9	MWE
+6	ada	_	G	G	_	8	_
 7	bully	_	N	N	_	8	_
-8	yang	_	G	G	_	9	MWE
-9	gak	_	G	G	_	0	_
+8	yang	_	G	G	_	0	_
+9	gak	_	G	G	_	8	MWE
 10	diterima	_	N	N	_	12	_
 11	.	_	,	,	_	-1	_
 12	ikhlasin	_	V	V	_	0	_
@@ -31378,9 +31378,9 @@
 20	aku	_	G	G	_	-1	_
 21	juga	_	G	G	_	-1	_
 22	:((	_	E	E	_	-1	_
-23	sedih	_	G	G	_	25	MWE
-24	bgt	_	G	G	_	25	_
-25	belum	_	G	G	_	0	_
+23	sedih	_	G	G	_	26	MWE
+24	bgt	_	G	G	_	26	MWE
+25	belum	_	G	G	_	26	_
 26	liat	_	G	G	_	27	MWE
 27	taemin	_	^	^	_	0	_
 28	:((	_	E	E	_	-1	_
@@ -31432,7 +31432,7 @@
 5	y	_	R	R	_	0	_
 6	así	_	G	G	_	7	_
 7	le	_	G	G	_	0	_
-8	haces	_	V	V	_	7	_
+8	haces	_	V	V	_	5	_
 9	bullying	_	V	V	_	8	_
 10	a	_	D	D	_	11	_
 11	alguien	_	^	^	_	9	_
@@ -31783,8 +31783,8 @@
 18	esa	_	G	G	_	19	_
 19	manera	_	G	G	_	17	_
 20	!!!!!!!	_	,	,	_	-1	_
-21	Es	_	V	V	_	22	_
-22	bulling	_	V	V	_	0	_
+21	Es	_	V	V	_	0	_
+22	bulling	_	V	V	_	21	_
 23	xD	_	E	E	_	-1	_
 
 1	@pepe_auth	_	@	@	_	-1	_
@@ -31902,7 +31902,7 @@
 1	@pookie21bear	_	@	@	_	-1	_
 2	u	_	O	O	_	0	_
 3	a	_	D	D	_	4	_
-4	bully	_	N	N	_	2	_
+4	bully	_	N	N	_	0	_
 5	!!	_	,	,	_	-1	_
 
 1	@poonspoon	_	@	@	_	-1	_
@@ -32030,7 +32030,7 @@
 14	best	_	A	A	_	15	_
 15	moves	_	N	N	_	11	_
 16	,	_	,	,	_	-1	_
-17	from	_	P	P	_	11	_
+17	from	_	P	P	_	15	_
 18	the	_	D	D	_	19	_
 19	masters	_	N	N	_	17	_
 20	.	_	,	,	_	-1	_
@@ -32544,8 +32544,8 @@
 4	,	_	,	,	_	-1	_
 5	tou	_	G	G	_	6	_
 6	sendo	_	G	G	_	7	_
-7	gongada	_	G	G	_	0	_
-8	por	_	G	G	_	7	_
+7	gongada	_	G	G	_	8	_
+8	por	_	G	G	_	9	MWE
 9	estar	_	G	G	_	10	_
 10	em	_	O	O	_	0	_
 11	casa	_	^	^	_	12	MWE
@@ -32595,7 +32595,7 @@
 11	than	_	P	P	_	10	_
 12	"	_	,	,	_	-1	_
 13	internet	_	N	N	_	14	MWE
-14	rape	_	N	N	_	11	_
+14	rape	_	N	N	_	0	_
 15	"	_	,	,	_	-1	_
 16	?	_	,	,	_	-1	_
 
@@ -32759,7 +32759,7 @@
 14	positivity	_	N	N	_	15	CONJ
 15	&	_	&	&	_	13	_
 16	less	_	A	A	_	15	CONJ
-17	on	_	P	P	_	11	_
+17	on	_	P	P	_	16	_
 18	me	_	O	O	_	17	_
 19	..	_	,	,	_	-1	_
 20	internet	_	N	N	_	21	_
@@ -32827,13 +32827,13 @@
 7	The	_	D	D	_	8	_
 8	Slob	_	N	N	_	5	_
 9	-	_	,	,	_	-1	_
-10	Fozzie	_	^	^	_	18	_
+10	Fozzie	_	^	^	_	0	_
 11	,	_	,	,	_	-1	_
 12	The	_	D	D	_	13	_
 13	Bully	_	N	N	_	0	_
 14	-	_	,	,	_	-1	_
 15	Miss	_	^	^	_	16	MWE
-16	Piggy	_	^	^	_	18	_
+16	Piggy	_	^	^	_	0	_
 17	.	_	,	,	_	-1	_
 18	Was	_	V	V	_	0	_
 19	that	_	O	O	_	18	_
@@ -32929,9 +32929,9 @@
 3	qué	_	G	G	_	4	_
 4	pena	_	G	G	_	0	_
 5	que	_	G	G	_	6	_
-6	mañana	_	G	G	_	7	_
+6	mañana	_	G	G	_	0	_
 7	tienen	_	G	G	_	0	_
-8	clases	_	N	N	_	7	_
+8	clases	_	N	N	_	0	_
 9	AJAJA	_	!	!	_	0	_
 10	:	_	,	,	_	-1	_
 11	sin	_	N	N	_	12	_
@@ -33702,7 +33702,7 @@
 17	wkwk	_	!	!	_	0	_
 
 1	@tbsempere	_	@	@	_	-1	_
-2	me	_	O	O	_	3	_
+2	me	_	O	O	_	0	_
 3	voy	_	R	R	_	0	_
 4	a	_	D	D	_	5	_
 5	ensayar	_	N	N	_	3	_
@@ -33971,8 +33971,8 @@
 11	sofrendo	_	^	^	_	12	_
 12	bullying	_	V	V	_	0	_
 13	.	_	,	,	_	-1	_
-14	O	_	G	G	_	15	MWE
-15	povo	_	G	G	_	0	_
+14	O	_	G	G	_	12	_
+15	povo	_	G	G	_	12	_
 16	so	_	P	P	_	0	_
 17	vive	_	G	G	_	16	_
 18	#bulindo	_	#	#	_	-1	_
@@ -34172,7 +34172,7 @@
 3	not	_	R	R	_	2	_
 4	a	_	D	D	_	5	_
 5	bully	_	N	N	_	2	_
-6	just	_	R	R	_	5	_
+6	just	_	R	R	_	2	_
 7	an	_	D	D	_	9	_
 8	obvious	_	A	A	_	9	_
 9	stater	_	N	N	_	6	_
@@ -34391,7 +34391,7 @@
 
 1	@verrelrivaldi	_	@	@	_	-1	_
 2	@Prisil_prisil	_	@	@	_	-1	_
-3	apaan	_	G	G	_	0	_
+3	apaan	_	G	G	_	5	_
 4	coba	_	G	G	_	5	_
 5	ktnya	_	G	G	_	0	_
 6	males	_	N	N	_	7	_
@@ -34530,13 +34530,13 @@
 5	should	_	V	V	_	0	_
 6	unfollow	_	V	V	_	5	_
 7	@belieber_quotee	_	@	@	_	6	_
-8	she's	_	L	L	_	0	_
+8	she's	_	L	L	_	14	CONJ
 9	a	_	D	D	_	10	_
 10	hater	_	N	N	_	11	CONJ
 11	and	_	&	&	_	8	_
 12	a	_	D	D	_	13	_
 13	bully	_	N	N	_	11	CONJ
-14	and	_	&	&	_	8	_
+14	and	_	&	&	_	5	_
 15	u	_	O	O	_	17	_
 16	prob	_	R	R	_	17	_
 17	dont	_	V	V	_	14	CONJ
@@ -35521,7 +35521,7 @@
 8	the	_	D	D	_	9	_
 9	desktop	_	N	N	_	6	_
 10	:	_	,	,	_	-1	_
-11	By	_	P	P	_	7	_
+11	By	_	P	P	_	6	_
 12	CAROLINE	_	^	^	_	13	MWE
 13	GABRIEL	_	^	^	_	14	_
 14	Rumors	_	N	N	_	15	_
@@ -35601,11 +35601,11 @@
 4	o	_	G	G	_	3	MWE
 5	@wallace_mancha	_	@	@	_	4	_
 6	tiramos	_	^	^	_	0	_
-7	o	_	P	P	_	6	_
+7	o	_	P	P	_	0	_
 8	dia	_	G	G	_	10	_
 9	pra	_	G	G	_	10	_
 10	praticar	_	G	G	_	7	_
-11	bullying	_	V	V	_	0	_
+11	bullying	_	V	V	_	10	_
 12	com	_	N	N	_	11	_
 13	a	_	D	D	_	11	_
 14	@helove_	_	@	@	_	-1	_
@@ -35833,11 +35833,11 @@
 14	bullying	_	V	V	_	0	_
 15	é	_	G	G	_	14	_
 16	normal	_	A	A	_	14	_
-17	na	_	P	P	_	16	_
+17	na	_	P	P	_	14	_
 18	cidade	_	G	G	_	20	_
 19	mais	_	G	G	_	20	_
 20	provinciana	_	G	G	_	0	_
-21	do	_	V	V	_	0	_
+21	do	_	V	V	_	17	_
 22	País	_	^	^	_	21	_
 23	...	_	,	,	_	-1	_
 24	#eumere	_	#	#	_	-1	_
@@ -35903,8 +35903,8 @@
 12	...	_	~	~	_	-1	_
 13	é	_	G	G	_	14	_
 14	homofobia	_	G	G	_	15	_
-15	ofender	_	G	G	_	16	_
-16	coxa	_	G	G	_	0	_
+15	ofender	_	G	G	_	0	_
+16	coxa	_	G	G	_	15	_
 17	branca	_	^	^	_	16	_
 18	....	_	,	,	_	-1	_
 19	desacato	_	V	V	_	0	_
@@ -36075,8 +36075,8 @@
 5	"	_	,	,	_	-1	_
 6	homofobia	_	N	N	_	0	_
 7	"	_	,	,	_	-1	_
-8	tem	_	G	G	_	9	MWE
-9	sido	_	G	G	_	0	_
+8	tem	_	G	G	_	0	_
+9	sido	_	G	G	_	8	MWE
 10	usado	_	V	V	_	0	_
 11	em	_	O	O	_	10	_
 12	grande	_	N	N	_	13	_
@@ -36196,7 +36196,7 @@
 15	bully's	_	Z	Z	_	16	_
 16	zouden	_	^	^	_	17	MWE
 17	je	_	^	^	_	18	MWE
-18	verwoesten	_	^	^	_	0	_
+18	verwoesten	_	^	^	_	14	_
 19	..	_	,	,	_	-1	_
 
 1	Als	_	^	^	_	2	_
@@ -36226,14 +36226,14 @@
 3	video	_	N	N	_	1	_
 4	about	_	P	P	_	3	_
 5	Turdis	_	^	^	_	6	_
-6	was	_	V	V	_	4	_
+6	was	_	V	V	_	0	_
 7	in	_	P	P	_	6	_
 8	direct	_	A	A	_	9	_
 9	response	_	N	N	_	7	_
 10	to	_	P	P	_	9	_
-11	him	_	O	O	_	10	_
+11	him	_	O	O	_	12	_
 12	abusing	_	V	V	_	13	CONJ
-13	and	_	&	&	_	0	_
+13	and	_	&	&	_	10	_
 14	bullying	_	V	V	_	13	CONJ
 15	a(	_	D	D	_	14	_
 16	@YouTube	_	@	@	_	-1	_
@@ -36271,7 +36271,7 @@
 4	do	_	V	V	_	0	_
 5	RN	_	R	R	_	4	_
 6	lançam	_	G	G	_	7	_
-7	campanha	_	G	G	_	4	_
+7	campanha	_	G	G	_	0	_
 8	contra	_	^	^	_	9	_
 9	bullying	_	N	N	_	4	_
 10	http://t.co/oGJmIZO	_	U	U	_	-1	_
@@ -36514,7 +36514,7 @@
 4	a	_	D	D	_	5	_
 5	bully	_	N	N	_	2	_
 6	...	_	,	,	_	-1	_
-7	if	_	P	P	_	5	_
+7	if	_	P	P	_	0	_
 8	the	_	D	D	_	9	_
 9	hoes	_	N	N	_	10	_
 10	aint	_	V	V	_	7	_
@@ -36629,7 +36629,7 @@
 26	http://bit.ly/quVhWD	_	U	U	_	-1	_
 
 1	Anoda	_	D	D	_	2	_
-2	day	_	N	N	_	0	_
+2	day	_	N	N	_	11	CONJ
 3	2	_	P	P	_	2	_
 4	be	_	V	V	_	3	_
 5	a	_	D	D	_	6	_
@@ -36638,13 +36638,13 @@
 8	'	_	,	,	_	-1	_
 9	em	_	O	O	_	10	_
 10	suckaz	_	N	N	_	11	CONJ
-11	n	_	&	&	_	7	_
+11	n	_	&	&	_	0	_
 12	a	_	D	D	_	13	_
 13	bully	_	N	N	_	11	CONJ
 14	2	_	P	P	_	13	_
 15	'	_	,	,	_	-1	_
 16	em	_	O	O	_	17	_
-17	lames	_	N	N	_	14	_
+17	lames	_	N	N	_	0	_
 18	...	_	,	,	_	-1	_
 19	#legoooo	_	#	#	_	-1	_
 
@@ -36709,8 +36709,8 @@
 15	includes	_	V	V	_	14	_
 16	everyone	_	N	N	_	15	_
 17	,	_	,	,	_	-1	_
-18	please	_	V	V	_	19	_
-19	check	_	V	V	_	0	_
+18	please	_	V	V	_	0	_
+19	check	_	V	V	_	18	_
 20	out	_	T	T	_	19	MWE
 21	this	_	D	D	_	22	_
 22	site	_	N	N	_	19	_
@@ -36730,10 +36730,10 @@
 
 1	Apple	_	^	^	_	2	_
 2	accuses	_	V	V	_	0	_
-3	Motorola	_	^	^	_	5	MWE
+3	Motorola	_	^	^	_	2	_
 4	,	_	,	,	_	-1	_
-5	Samsung	_	^	^	_	2	_
-6	of	_	P	P	_	5	_
+5	Samsung	_	^	^	_	6	_
+6	of	_	P	P	_	0	_
 7	monopolizing	_	V	V	_	6	_
 8	markets	_	N	N	_	7	_
 9	with	_	P	P	_	8	_
@@ -37067,7 +37067,7 @@
 4	bullying	_	V	V	_	0	_
 5	de	_	P	P	_	4	_
 6	@BernieViverosG	_	@	@	_	5	_
-7	y	_	R	R	_	4	_
+7	y	_	R	R	_	0	_
 8	@FranGreave	_	@	@	_	-1	_
 9	xD	_	E	E	_	-1	_
 
@@ -37246,11 +37246,11 @@
 14	leave	_	V	V	_	0	_
 15	,	_	,	,	_	-1	_
 16	wage	_	N	N	_	17	MWE
-17	rises	_	N	N	_	0	_
+17	rises	_	N	N	_	14	_
 18	,	_	,	,	_	-1	_
 19	interest	_	N	N	_	20	MWE
 20	rate	_	N	N	_	21	MWE
-21	rises	_	N	N	_	0	_
+21	rises	_	N	N	_	14	_
 22	:	_	,	,	_	-1	_
 23	http://bit.ly/qLg9br	_	U	U	_	-1	_
 
@@ -37512,7 +37512,7 @@
 4	-	_	,	,	_	-1	_
 5	Walk	_	V	V	_	7	CONJ
 6	away	_	R	R	_	5	_
-7	and	_	&	&	_	0	_
+7	and	_	&	&	_	3	_
 8	get	_	V	V	_	7	CONJ
 9	help	_	V	V	_	8	_
 10	.	_	,	,	_	-1	_
@@ -38039,7 +38039,7 @@
 7	bully	_	N	N	_	6	_
 8	anak	_	G	G	_	0	_
 9	kecil	_	G	G	_	8	MWE
-10	cc	_	N	N	_	1	MWE
+10	cc	_	N	N	_	0	_
 11	:	_	,	,	_	-1	_
 12	@fajarpriandhika	_	@	@	_	-1	_
 13	ahahaha	_	!	!	_	0	_
@@ -38174,7 +38174,7 @@
 4	rubber	_	N	N	_	5	_
 5	bullets	_	N	N	_	2	_
 6	I	_	O	O	_	7	_
-7	say	_	V	V	_	0	_
+7	say	_	V	V	_	5	_
 8	!	_	,	,	_	-1	_
 9	The	_	D	D	_	11	_
 10	police	_	N	N	_	11	_
@@ -38295,10 +38295,10 @@
 13	bullying	_	V	V	_	0	_
 14	,	_	,	,	_	-1	_
 15	aunque	_	^	^	_	18	MWE
-16	sea	_	^	^	_	18	MWE
+16	sea	_	^	^	_	17	MWE
 17	una	_	^	^	_	18	MWE
-18	película	_	^	^	_	0	_
-19	traumática	_	G	G	_	18	_
+18	película	_	^	^	_	13	_
+19	traumática	_	G	G	_	0	_
 20	...	_	~	~	_	-1	_
 21	#StopBullying	_	#	#	_	-1	_
 22	:/	_	E	E	_	-1	_
@@ -38311,7 +38311,7 @@
 6	.	_	,	,	_	-1	_
 7	Se	_	G	G	_	0	_
 8	diz	_	G	G	_	7	_
-9	de	_	P	P	_	1	_
+9	de	_	P	P	_	18	_
 10	pessoas	_	G	G	_	13	_
 11	que	_	G	G	_	13	_
 12	são	_	G	G	_	13	_
@@ -38378,7 +38378,7 @@
 7	.	_	,	,	_	-1	_
 
 1	Bulling	_	V	V	_	0	_
-2	ftw	_	!	!	_	0	_
+2	ftw	_	!	!	_	1	_
 3	!!	_	,	,	_	-1	_
 4	http://t.co/8rS2Yq7	_	U	U	_	-1	_
 
@@ -38406,9 +38406,9 @@
 5	vendo	_	G	G	_	0	_
 6	na	_	P	P	_	1	_
 7	tv	_	N	N	_	6	_
-8	a	_	D	D	_	10	_
+8	a	_	D	D	_	9	_
 9	menina	_	N	N	_	10	_
-10	tomo	_	N	N	_	1	_
+10	tomo	_	N	N	_	0	_
 11	um	_	!	!	_	0	_
 12	pal	_	N	N	_	13	_
 13	poorqe	_	G	G	_	14	_
@@ -38860,7 +38860,7 @@
 9	of	_	P	P	_	8	_
 10	Parental	_	A	A	_	11	_
 11	concerns	_	N	N	_	9	_
-12	for	_	P	P	_	1	_
+12	for	_	P	P	_	8	_
 13	#kids	_	N	N	_	12	_
 14	,	_	,	,	_	-1	_
 15	students	_	N	N	_	18	_
@@ -38941,7 +38941,7 @@
 7	Schools	_	N	N	_	8	_
 8	Students	_	N	N	_	5	_
 9	http://t.co/ljpIOVG	_	U	U	_	8	_
-10	#bullying	_	V	V	_	0	_
+10	#bullying	_	V	V	_	2	_
 11	#cyberbullying	_	#	#	_	-1	_
 
 1	Bullying	_	V	V	_	0	_
@@ -39075,7 +39075,7 @@
 3	Being	_	V	V	_	1	_
 4	Taken	_	V	V	_	3	_
 5	More	_	R	R	_	6	_
-6	Seriously	_	R	R	_	1	_
+6	Seriously	_	R	R	_	4	_
 7	as	_	P	P	_	4	_
 8	Students	_	N	N	_	9	_
 9	Prepare	_	V	V	_	7	_
@@ -39257,7 +39257,7 @@
 1	Bullying	_	V	V	_	0	_
 2	a	_	D	D	_	7	_
 3	Giorgio	_	^	^	_	7	_
-4	por	_	G	G	_	3	MWE
+4	por	_	G	G	_	5	_
 5	que	_	G	G	_	6	MWE
 6	se	_	G	G	_	0	_
 7	llama	_	N	N	_	8	_
@@ -39876,7 +39876,7 @@
 16	te	_	G	G	_	18	MWE
 17	parece	_	G	G	_	18	MWE
 18	esta	_	G	G	_	0	_
-19	idea	_	N	N	_	21	_
+19	idea	_	N	N	_	18	_
 20	..?	_	,	,	_	-1	_
 21	inscribete	_	V	V	_	0	_
 22	www.colegiosporbogota.com	_	U	U	_	-1	_
@@ -40126,7 +40126,7 @@
 12	PETCO	_	^	^	_	13	MWE
 13	REDLANDS	_	^	^	_	0	_
 14	,	_	,	,	_	-1	_
-15	CA	_	^	^	_	13	MWE
+15	CA	_	^	^	_	0	_
 16	10-3	_	$	$	_	15	MWE
 17	http://ow.ly/1e8go9	_	U	U	_	-1	_
 
@@ -40181,11 +40181,11 @@
 14	strapping	_	V	V	_	13	_
 15	?	_	,	,	_	-1	_
 16	Or	_	&	&	_	0	_
-17	will	_	V	V	_	16	CONJ
+17	will	_	V	V	_	21	CONJ
 18	they	_	D	D	_	20	_
 19	sense	_	N	N	_	20	_
-20	weakness	_	N	N	_	17	_
-21	and	_	&	&	_	20	_
+20	weakness	_	N	N	_	21	CONJ
+21	and	_	&	&	_	16	COORD
 22	bully	_	V	V	_	21	CONJ
 23	me	_	O	O	_	22	_
 24	.	_	,	,	_	-1	_
@@ -40227,9 +40227,9 @@
 4	real	_	A	A	_	5	_
 5	nigga	_	N	N	_	2	_
 
-1	Canciones	_	^	^	_	3	_
+1	Canciones	_	^	^	_	0	_
 2	,	_	,	,	_	-1	_
-3	afiches	_	^	^	_	0	_
+3	afiches	_	^	^	_	1	_
 4	y	_	R	R	_	5	_
 5	cuentos	_	N	N	_	0	_
 6	:	_	,	,	_	-1	_
@@ -40494,9 +40494,9 @@
 1	Chegueei	_	^	^	_	0	_
 2	,	_	,	,	_	-1	_
 3	depois	_	V	V	_	0	_
-4	da	_	D	D	_	5	_
-5	escola	_	G	G	_	3	_
-6	fui	_	G	G	_	5	MWE
+4	da	_	D	D	_	9	_
+5	escola	_	G	G	_	6	_
+6	fui	_	G	G	_	3	_
 7	pro	_	A	A	_	9	_
 8	aterro	_	N	N	_	9	_
 9	com	_	N	N	_	3	_
@@ -40919,7 +40919,7 @@
 15	en	_	P	P	_	14	_
 16	el	_	^	^	_	17	MWE
 17	baño	_	^	^	_	15	_
-18	de	_	P	P	_	17	_
+18	de	_	P	P	_	19	MWE
 19	damas	_	^	^	_	24	MWE
 20	y	_	R	R	_	15	_
 21	le	_	G	G	_	22	_
@@ -41041,7 +41041,7 @@
 20	for	_	P	P	_	18	_
 21	who	_	O	O	_	23	_
 22	I	_	O	O	_	23	_
-23	am	_	V	V	_	0	_
+23	am	_	V	V	_	20	_
 24	on	_	P	P	_	23	_
 25	here	_	R	R	_	23	_
 26	.	_	,	,	_	-1	_
@@ -41101,9 +41101,9 @@
 22	http://t.co/L5u4q6W	_	U	U	_	-1	_
 
 1	Cyber	_	^	^	_	2	_
-2	bullying	_	V	V	_	3	_
-3	cases	_	N	N	_	4	_
-4	growing	_	V	V	_	0	_
+2	bullying	_	V	V	_	0	_
+3	cases	_	N	N	_	2	_
+4	growing	_	V	V	_	3	_
 5	with	_	P	P	_	4	_
 6	new	_	A	A	_	7	_
 7	technologies	_	N	N	_	5	_
@@ -41125,13 +41125,13 @@
 2	bullying	_	N	N	_	0	_
 3	,	_	,	,	_	-1	_
 4	ga	_	^	^	_	5	MWE
-5	lagi	_	^	^	_	2	_
+5	lagi	_	^	^	_	0	_
 6	.	_	,	,	_	-1	_
 7	Nyewotin	_	^	^	_	8	MWE
 8	org	_	^	^	_	13	_
 9	,	_	,	,	_	-1	_
 10	ga	_	^	^	_	11	MWE
-11	lagi	_	^	^	_	0	_
+11	lagi	_	^	^	_	13	_
 12	.	_	,	,	_	-1	_
 13	Nyirikin	_	V	V	_	0	_
 14	org	_	N	N	_	13	_
@@ -41214,9 +41214,9 @@
 
 1	Cómo	_	^	^	_	2	MWE
 2	webearán	_	^	^	_	0	_
-3	a	_	D	D	_	5	_
+3	a	_	D	D	_	4	_
 4	los	_	N	N	_	5	_
-5	hijos	_	N	N	_	2	_
+5	hijos	_	N	N	_	0	_
 6	de	_	P	P	_	2	_
 7	la	_	^	^	_	9	MWE
 8	Alejandra	_	^	^	_	9	MWE
@@ -41234,14 +41234,14 @@
 1	D:	_	E	E	_	-1	_
 2	Bulling	_	V	V	_	0	_
 3	por	_	G	G	_	4	_
-4	faceboook	_	G	G	_	2	_
-5	para	_	G	G	_	4	_
+4	faceboook	_	G	G	_	5	_
+5	para	_	G	G	_	2	_
 6	mí	_	G	G	_	5	_
 7	D:	_	E	E	_	0	_
 8	Mis	_	^	^	_	9	MWE
 9	mierdas	_	^	^	_	6	_
-10	de	_	P	P	_	2	_
-11	amigos	_	V	V	_	10	_
+10	de	_	P	P	_	11	_
+11	amigos	_	V	V	_	0	_
 12	me	_	O	O	_	13	_
 13	llenan	_	V	V	_	11	_
 14	a	_	D	D	_	15	_
@@ -41263,9 +41263,9 @@
 1	DOJ	_	^	^	_	2	_
 2	alert	_	N	N	_	0	_
 3	:	_	,	,	_	-1	_
-4	Bullying	_	V	V	_	0	_
+4	Bullying	_	V	V	_	5	_
 5	epidemic	_	N	N	_	6	_
-6	spreads	_	V	V	_	4	_
+6	spreads	_	V	V	_	0	_
 7	to	_	P	P	_	6	_
 8	#cat	_	V	V	_	7	_
 9	world	_	N	N	_	8	_
@@ -41418,7 +41418,7 @@
 11	for	_	P	P	_	9	_
 12	him	_	O	O	_	11	_
 13	u	_	O	O	_	14	_
-14	don't	_	V	V	_	3	_
+14	don't	_	V	V	_	9	_
 15	think	_	V	V	_	14	_
 16	.	_	,	,	_	-1	_
 
@@ -41623,8 +41623,8 @@
 14	problema	_	G	G	_	15	_
 15	em	_	O	O	_	0	_
 16	sua	_	G	G	_	15	_
-17	organização	_	G	G	_	15	_
-18	contra	_	^	^	_	17	_
+17	organização	_	G	G	_	18	_
+18	contra	_	^	^	_	0	_
 19	o	_	P	P	_	18	MWE
 20	Bullying	_	N	N	_	19	_
 21	.	_	,	,	_	-1	_
@@ -41677,9 +41677,9 @@
 3	arma	_	^	^	_	4	MWE
 4	para	_	^	^	_	8	_
 5	acabar	_	G	G	_	4	MWE
-6	con	_	G	G	_	5	MWE
-7	el	_	G	G	_	6	MWE
-8	bullying	_	N	N	_	1	_
+6	con	_	G	G	_	7	MWE
+7	el	_	G	G	_	0	_
+8	bullying	_	N	N	_	7	_
 9	:	_	,	,	_	-1	_
 10	PAN	_	^	^	_	0	_
 11	http://t.co/890kt4W	_	U	U	_	-1	_
@@ -41901,7 +41901,7 @@
 5	)	_	,	,	_	-1	_
 6	,	_	,	,	_	-1	_
 7	NL	_	^	^	_	8	_
-8	DUB	_	N	N	_	14	CONJ
+8	DUB	_	N	N	_	12	_
 9	,	_	,	,	_	-1	_
 10	1035-1045	_	$	$	_	7	MWE
 11	(	_	,	,	_	-1	_
@@ -41987,7 +41987,7 @@
 3	bullying	_	N	N	_	2	_
 4	of	_	P	P	_	3	_
 5	gays	_	N	N	_	4	_
-6	showing	_	V	V	_	0	_
+6	showing	_	V	V	_	5	_
 7	at	_	P	P	_	6	_
 8	Newbury	_	^	^	_	9	MWE
 9	Park	_	^	^	_	11	_
@@ -42114,7 +42114,7 @@
 16	is	_	V	V	_	0	_
 17	one	_	$	$	_	16	_
 18	.	_	,	,	_	-1	_
-19	dont	_	V	V	_	26	CONJ
+19	dont	_	V	V	_	0	_
 20	diss	_	V	V	_	19	_
 21	anyone	_	N	N	_	20	_
 22	.	_	,	,	_	-1	_
@@ -42136,8 +42136,8 @@
 8	ser	_	G	G	_	9	_
 9	cheio	_	G	G	_	0	_
 10	demais	_	G	G	_	11	_
-11	pode	_	G	G	_	12	MWE
-12	ser	_	G	G	_	0	_
+11	pode	_	G	G	_	0	_
+12	ser	_	G	G	_	11	MWE
 13	considerado	_	N	N	_	14	_
 14	bullying	_	N	N	_	0	_
 15	?	_	,	,	_	-1	_
@@ -42202,7 +42202,7 @@
 19	›	_	G	G	_	-1	_
 20	SOCIEDADE	_	^	^	_	0	_
 21	:	_	,	,	_	-1	_
-22	Bullying	_	N	N	_	20	_
+22	Bullying	_	N	N	_	0	_
 23	!	_	,	,	_	-1	_
 24	http://t.co/09hVKp5	_	U	U	_	-1	_
 
@@ -42296,13 +42296,13 @@
 13	›	_	G	G	_	-1	_
 14	EU	_	^	^	_	0	_
 15	:	_	,	,	_	-1	_
-16	empurrão	_	N	N	_	14	_
+16	empurrão	_	N	N	_	0	_
 17	.	_	,	,	_	-1	_
 18	›	_	G	G	_	-1	_
 19	›	_	G	G	_	-1	_
 20	SOCIEDADE	_	^	^	_	0	_
 21	:	_	,	,	_	-1	_
-22	bullying	_	N	N	_	0	_
+22	bullying	_	N	N	_	14	_
 23	!	_	,	,	_	-1	_
 24	http://tumblr.com/xqe3ygygsa	_	U	U	_	-1	_
 
@@ -42321,13 +42321,13 @@
 13	›	_	G	G	_	-1	_
 14	EU	_	^	^	_	0	_
 15	:	_	,	,	_	-1	_
-16	empurrão	_	N	N	_	14	_
+16	empurrão	_	N	N	_	0	_
 17	.	_	,	,	_	-1	_
 18	›	_	G	G	_	-1	_
 19	›	_	G	G	_	-1	_
 20	SOCIEDADE	_	^	^	_	0	_
 21	:	_	,	,	_	-1	_
-22	bullying	_	N	N	_	0	_
+22	bullying	_	N	N	_	14	_
 23	!	_	,	,	_	-1	_
 24	http://tumblr.com/xrh3yi30wo	_	U	U	_	-1	_
 
@@ -42346,7 +42346,7 @@
 13	›	_	G	G	_	-1	_
 14	EU	_	^	^	_	0	_
 15	:	_	,	,	_	-1	_
-16	empurrão	_	N	N	_	14	_
+16	empurrão	_	N	N	_	0	_
 17	.	_	,	,	_	-1	_
 18	›	_	G	G	_	-1	_
 19	›	_	G	G	_	-1	_
@@ -42499,7 +42499,7 @@
 10	aja	_	G	G	_	9	MWE
 11	.	_	,	,	_	-1	_
 12	Pas	_	G	G	_	13	MWE
-13	mrk	_	G	G	_	14	_
+13	mrk	_	G	G	_	15	_
 14	beralih	_	G	G	_	18	_
 15	ke	_	G	G	_	18	_
 16	fisik	_	G	G	_	18	_
@@ -42602,12 +42602,12 @@
 13	bullying	_	V	V	_	0	_
 14	dos	_	N	N	_	13	_
 15	meus	_	G	G	_	16	_
-16	amigos	_	G	G	_	20	_
-17	e	_	G	G	_	20	MWE
-18	amigas	_	G	G	_	20	MWE
-19	por	_	G	G	_	20	_
-20	causa	_	G	G	_	0	_
-21	disso	_	G	G	_	20	MWE
+16	amigos	_	G	G	_	13	_
+17	e	_	G	G	_	21	MWE
+18	amigas	_	G	G	_	21	MWE
+19	por	_	G	G	_	21	MWE
+20	causa	_	G	G	_	21	MWE
+21	disso	_	G	G	_	0	_
 22	@mateus_dosanjos	_	@	@	_	-1	_
 23	:/	_	E	E	_	-1	_
 
@@ -42793,9 +42793,9 @@
 13	daña	_	^	^	_	15	MWE
 14	más	_	^	^	_	15	MWE
 15	que	_	^	^	_	9	_
-16	a	_	D	D	_	17	_
+16	a	_	D	D	_	18	_
 17	los	_	N	N	_	18	_
-18	niños	_	N	N	_	0	_
+18	niños	_	N	N	_	9	_
 19	en	_	P	P	_	18	_
 20	las	_	^	^	_	21	MWE
 21	escuelas	_	^	^	_	19	_
@@ -42818,9 +42818,9 @@
 15	y	_	R	R	_	16	_
 16	secundaria	_	A	A	_	17	_
 17	coinciden	_	N	N	_	18	_
-18	que	_	G	G	_	0	_
-19	la	_	G	G	_	18	_
-20	v	_	G	G	_	19	_
+18	que	_	G	G	_	19	_
+19	la	_	G	G	_	20	_
+20	v	_	G	G	_	0	_
 21	...	_	~	~	_	-1	_
 22	http://t.co/qmxY516	_	U	U	_	-1	_
 
@@ -42846,7 +42846,7 @@
 12	fomentemos	_	^	^	_	14	MWE
 13	en	_	^	^	_	14	MWE
 14	los	_	^	^	_	16	MWE
-15	alumnos	_	^	^	_	17	MWE
+15	alumnos	_	^	^	_	16	MWE
 16	desde	_	^	^	_	17	MWE
 17	el	_	^	^	_	18	MWE
 18	inicio	_	^	^	_	19	MWE
@@ -42886,7 +42886,7 @@
 9	ansiedad	_	G	G	_	8	_
 10	con	_	G	G	_	9	_
 11	la	_	^	^	_	13	MWE
-12	presión	_	^	^	_	14	MWE
+12	presión	_	^	^	_	13	MWE
 13	de	_	^	^	_	14	MWE
 14	que	_	^	^	_	15	MWE
 15	salga	_	^	^	_	0	_
@@ -43113,13 +43113,13 @@
 15	da	_	D	D	_	16	_
 16	babaca	_	G	G	_	0	_
 17	da	_	D	D	_	18	_
-18	eliça	_	N	N	_	0	_
+18	eliça	_	N	N	_	11	_
 
 1	Espero	_	^	^	_	0	_
 2	que	_	G	G	_	1	MWE
 3	ele	_	G	G	_	4	_
-4	fique	_	G	G	_	0	_
-5	bem	_	G	G	_	4	_
+4	fique	_	G	G	_	5	_
+5	bem	_	G	G	_	0	_
 6	!	_	,	,	_	-1	_
 7	E	_	G	G	_	8	MWE
 8	que	_	G	G	_	12	_
@@ -43187,14 +43187,14 @@
 8	pedindo	_	A	A	_	9	_
 9	pros	_	N	N	_	11	_
 10	seus	_	G	G	_	0	_
-11	amigos	_	N	N	_	0	_
+11	amigos	_	N	N	_	18	_
 12	te	_	P	P	_	11	_
 13	darem	_	N	N	_	12	_
-14	as	_	P	P	_	11	_
-15	coisas	_	^	^	_	18	_
-16	é	_	G	G	_	17	_
-17	muito	_	G	G	_	14	_
-18	pró-bullying	_	V	V	_	14	_
+14	as	_	P	P	_	13	_
+15	coisas	_	^	^	_	14	_
+16	é	_	G	G	_	15	MWE
+17	muito	_	G	G	_	16	_
+18	pró-bullying	_	V	V	_	0	_
 19	.	_	,	,	_	-1	_
 
 1	Esses	_	^	^	_	6	MWE
@@ -43217,8 +43217,8 @@
 6	Bullying	_	^	^	_	7	_
 7	com	_	N	N	_	0	_
 8	a	_	D	D	_	10	_
-9	super	_	A	A	_	10	_
-10	orientação	_	P	P	_	7	_
+9	super	_	A	A	_	0	_
+10	orientação	_	P	P	_	9	_
 11	da	_	D	D	_	10	_
 12	#BarbaraNogueira	_	#	#	_	-1	_
 13	#stopbullying	_	#	#	_	-1	_
@@ -43446,10 +43446,10 @@
 9	in	_	P	P	_	8	_
 10	the	_	D	D	_	11	_
 11	holidays	_	N	N	_	9	_
-12	they	_	O	O	_	15	_
+12	they	_	O	O	_	8	_
 13	all	_	D	D	_	14	_
 14	end	_	N	N	_	23	_
-15	up	_	P	P	_	0	_
+15	up	_	P	P	_	14	_
 16	the	_	D	D	_	18	_
 17	same	_	A	A	_	18	_
 18	way	_	N	N	_	15	_
@@ -43488,7 +43488,7 @@
 7	bullied	_	V	V	_	6	_
 8	.	_	,	,	_	-1	_
 9	Adult	_	A	A	_	10	_
-10	intervention	_	N	N	_	0	_
+10	intervention	_	N	N	_	7	_
 11	-	_	,	,	_	-1	_
 12	4%	_	$	$	_	0	_
 13	.	_	,	,	_	-1	_
@@ -43548,7 +43548,7 @@
 10	annoyin	_	A	A	_	9	_
 11	and	_	&	&	_	0	_
 12	the	_	D	D	_	13	_
-13	human	_	N	N	_	20	_
+13	human	_	N	N	_	15	_
 14	lil	_	A	A	_	15	_
 15	boy	_	N	N	_	0	_
 16	that	_	P	P	_	15	_
@@ -43700,9 +43700,9 @@
 17	Potter	_	^	^	_	18	_
 18	encourages	_	V	V	_	0	_
 19	LOVE	_	V	V	_	18	_
-20	not	_	R	R	_	19	_
+20	not	_	R	R	_	21	_
 21	bullying	_	V	V	_	22	CONJ
-22	or	_	&	&	_	20	_
+22	or	_	&	&	_	19	_
 23	judgment	_	N	N	_	22	CONJ
 24	#geeklove	_	#	#	_	-1	_
 
@@ -44253,9 +44253,9 @@
 
 1	Fred	_	^	^	_	0	_
 2	diz	_	D	D	_	3	_
-3	q	_	G	G	_	0	_
-4	foi	_	G	G	_	3	_
-5	seguido	_	G	G	_	4	_
+3	q	_	G	G	_	5	_
+4	foi	_	G	G	_	5	_
+5	seguido	_	G	G	_	0	_
 6	!!!	_	,	,	_	-1	_
 7	Eita	_	^	^	_	0	_
 8	,,	_	,	,	_	-1	_
@@ -44649,7 +44649,7 @@
 12	Conceded	_	V	V	_	13	_
 13	Bitches	_	N	N	_	22	CONJ
 14	,	_	,	,	_	-1	_
-15	Wanna	_	V	V	_	0	_
+15	Wanna	_	V	V	_	22	CONJ
 16	Be's	_	V	V	_	15	_
 17	,	_	,	,	_	-1	_
 18	Bully	_	N	N	_	16	_
@@ -44733,7 +44733,7 @@
 7	the	_	D	D	_	8	_
 8	stands	_	N	N	_	6	_
 9	.....	_	,	,	_	-1	_
-10	Touchdown	_	N	N	_	0	_
+10	Touchdown	_	N	N	_	6	_
 11	...	_	,	,	_	-1	_
 12	#ImBullcityEvenWhenImInTheLeague	_	#	#	_	-1	_
 13	!!!	_	,	,	_	-1	_
@@ -44772,13 +44772,13 @@
 22	"	_	,	,	_	-1	_
 
 1	Galera	_	^	^	_	2	MWE
-2	RUBRO-NEGRA	_	^	^	_	4	MWE
+2	RUBRO-NEGRA	_	^	^	_	0	_
 3	,	_	,	,	_	-1	_
-4	vamos	_	^	^	_	0	_
+4	vamos	_	^	^	_	8	_
 5	parar	_	G	G	_	4	MWE
 6	de	_	P	P	_	7	_
-7	zoar	_	A	A	_	10	_
-8	os	_	N	N	_	6	_
+7	zoar	_	A	A	_	8	_
+8	os	_	N	N	_	9	MWE
 9	outros	_	N	N	_	10	_
 10	torcedores	_	N	N	_	11	_
 11	pq	_	G	G	_	12	MWE
@@ -44798,7 +44798,7 @@
 
 1	Galera	_	^	^	_	2	MWE
 2	vamos	_	^	^	_	7	MWE
-3	entrar	_	G	G	_	4	_
+3	entrar	_	G	G	_	2	MWE
 4	na	_	G	G	_	5	_
 5	campanha	_	G	G	_	8	_
 6	Nós	_	^	^	_	7	MWE
@@ -45036,7 +45036,7 @@
 9	share	_	V	V	_	0	_
 10	a	_	D	D	_	11	_
 11	book	_	N	N	_	9	_
-12	about	_	P	P	_	11	_
+12	about	_	P	P	_	9	_
 13	bullying	_	N	N	_	12	_
 14	and	_	&	&	_	9	_
 15	how	_	R	R	_	16	_
@@ -45178,7 +45178,7 @@
 5	o	_	G	G	_	6	_
 6	cantor	_	G	G	_	3	_
 7	@justinbieber	_	@	@	_	6	_
-8	fez	_	G	G	_	9	MWE
+8	fez	_	G	G	_	11	_
 9	ao	_	G	G	_	10	_
 10	colcar	_	G	G	_	11	_
 11	o	_	G	G	_	0	_
@@ -45255,7 +45255,7 @@
 10	Bullying	_	N	N	_	11	MWE
 11	Environments	_	N	N	_	8	_
 12	(	_	,	,	_	-1	_
-13	NBC	_	^	^	_	11	_
+13	NBC	_	^	^	_	0	_
 14	)	_	,	,	_	-1	_
 15	http://t.co/pmUr55B	_	U	U	_	-1	_
 16	#news	_	#	#	_	-1	_
@@ -45337,8 +45337,8 @@
 8	que	_	G	G	_	9	_
 9	sofre	_	^	^	_	10	_
 10	bullying	_	V	V	_	0	_
-11	foi	_	G	G	_	10	_
-12	suspensooo	_	G	G	_	11	_
+11	foi	_	G	G	_	12	_
+12	suspensooo	_	G	G	_	10	_
 13	coitadoo	_	N	N	_	10	_
 14	=(	_	E	E	_	-1	_
 
@@ -45494,12 +45494,12 @@
 6	"	_	,	,	_	-1	_
 7	(:	_	E	E	_	-1	_
 8	haha	_	!	!	_	0	_
-9	Nickname	_	N	N	_	8	_
-10	that	_	P	P	_	9	_
+9	Nickname	_	N	N	_	14	_
+10	that	_	P	P	_	14	_
 11	Jake	_	^	^	_	12	CONJ
-12	&	_	&	&	_	14	_
+12	&	_	&	&	_	10	_
 13	Noah	_	^	^	_	12	CONJ
-14	made	_	V	V	_	10	_
+14	made	_	V	V	_	0	_
 15	up	_	T	T	_	14	MWE
 16	for	_	P	P	_	14	_
 17	her	_	O	O	_	16	_
@@ -45515,9 +45515,9 @@
 27	?	_	,	,	_	-1	_
 28	"	_	,	,	_	-1	_
 29	there	_	R	R	_	30	_
-30	nice	_	A	A	_	32	_
+30	nice	_	A	A	_	0	_
 31	haha	_	!	!	_	0	_
-32	-Alyssa	_	^	^	_	0	_
+32	-Alyssa	_	^	^	_	30	_
 33	...	_	,	,	_	-1	_
 
 1	Haha	_	!	!	_	0	_
@@ -45830,7 +45830,7 @@
 19	or	_	&	&	_	21	_
 20	verbal	_	A	A	_	19	CONJ
 21	harm	_	N	N	_	17	_
-22	on	_	P	P	_	21	_
+22	on	_	P	P	_	17	_
 23	someone	_	N	N	_	22	_
 24	#Idiots	_	#	#	_	-1	_
 
@@ -46265,10 +46265,10 @@
 16	é	_	G	G	_	18	_
 17	dizer	_	G	G	_	18	_
 18	q	_	G	G	_	0	_
-19	o	_	G	G	_	22	_
+19	o	_	G	G	_	18	_
 20	professor	_	N	N	_	21	_
-21	deu	_	G	G	_	22	_
-22	uma	_	G	G	_	0	_
+21	deu	_	G	G	_	0	_
+22	uma	_	G	G	_	21	_
 23	"	_	,	,	_	-1	_
 24	carada	_	^	^	_	26	MWE
 25	na	_	^	^	_	26	MWE
@@ -46294,8 +46294,8 @@
 8	o	_	P	P	_	9	_
 9	professor	_	N	N	_	10	_
 10	tiro	_	G	G	_	11	MWE
-11	foto	_	G	G	_	0	_
-12	nossa	_	G	G	_	11	MWE
+11	foto	_	G	G	_	12	MWE
+12	nossa	_	G	G	_	0	_
 13	USHAUSHAUHSUA	_	G	G	_	-1	_
 
 1	Hj	_	^	^	_	2	MWE
@@ -46410,7 +46410,7 @@
 6	falar	_	G	G	_	7	_
 7	que	_	G	G	_	8	_
 8	gosta	_	G	G	_	0	_
-9	do	_	V	V	_	8	_
+9	do	_	V	V	_	0	_
 10	Neymar	_	^	^	_	13	MWE
 11	você	_	^	^	_	13	MWE
 12	sofre	_	^	^	_	13	MWE
@@ -46936,7 +46936,7 @@
 9	:	_	,	,	_	-1	_
 10	Bullying	_	V	V	_	0	_
 11	no	_	D	D	_	12	_
-12	longer	_	N	N	_	10	_
+12	longer	_	N	N	_	13	_
 13	happens	_	V	V	_	0	_
 14	just	_	R	R	_	13	_
 15	on	_	P	P	_	13	_
@@ -46945,7 +46945,7 @@
 18	playground	_	N	N	_	15	_
 19	.	_	,	,	_	-1	_
 20	The	_	D	D	_	21	_
-21	probl	_	N	N	_	13	_
+21	probl	_	N	N	_	10	_
 22	...	_	~	~	_	-1	_
 23	http://bit.ly/oEuF3G	_	U	U	_	-1	_
 
@@ -46975,7 +46975,7 @@
 12	Sun	_	^	^	_	13	MWE
 13	Meilan	_	^	^	_	11	_
 14	-	_	,	,	_	-1	_
-15	Helium	_	N	N	_	6	_
+15	Helium	_	N	N	_	0	_
 16	http://t.co/0JAz5bT	_	U	U	_	-1	_
 
 1	How	_	R	R	_	4	_
@@ -47106,7 +47106,7 @@
 5	in	_	P	P	_	4	_
 6	Jackson	_	^	^	_	7	_
 7	Schools	_	N	N	_	5	_
-8	|	_	G	G	_	0	_
+8	|	_	G	G	_	5	_
 9	Jackson	_	^	^	_	10	MWE
 10	NJ	_	^	^	_	8	_
 11	Regional	_	A	A	_	12	_
@@ -47115,9 +47115,9 @@
 14	Toms	_	^	^	_	15	MWE
 15	River	_	^	^	_	0	_
 16	,	_	,	,	_	-1	_
-17	Brick	_	^	^	_	15	_
+17	Brick	_	^	^	_	19	MWE
 18	,	_	,	,	_	-1	_
-19	Howell	_	^	^	_	17	_
+19	Howell	_	^	^	_	0	_
 20	,	_	,	,	_	-1	_
 21	New	_	A	A	_	22	_
 22	Egypt	_	^	^	_	0	_
@@ -47643,15 +47643,15 @@
 2	don't	_	V	V	_	0	_
 3	care	_	V	V	_	2	_
 4	,	_	,	,	_	-1	_
-5	if	_	P	P	_	19	_
+5	if	_	P	P	_	3	_
 6	someone	_	N	N	_	7	_
 7	bullying	_	V	V	_	5	_
 8	our	_	D	D	_	9	_
 9	idol	_	N	N	_	7	_
 10	,	_	,	,	_	-1	_
-11	SM*SH	_	^	^	_	0	_
+11	SM*SH	_	^	^	_	7	_
 12	..	_	,	,	_	-1	_
-13	Because	_	P	P	_	3	_
+13	Because	_	P	P	_	7	_
 14	,	_	,	,	_	-1	_
 15	I	_	O	O	_	16	_
 16	think	_	V	V	_	0	_
@@ -47669,8 +47669,8 @@
 3	know	_	V	V	_	2	_
 4	why	_	R	R	_	3	_
 5	she's	_	L	L	_	4	_
-6	always	_	R	R	_	5	_
-7	bullying	_	V	V	_	6	_
+6	always	_	R	R	_	7	_
+7	bullying	_	V	V	_	5	_
 8	me	_	O	O	_	7	_
 9	when	_	R	R	_	5	_
 10	I'm	_	L	L	_	9	_
@@ -47952,7 +47952,7 @@
 22	ill	_	L	L	_	21	_
 23	of	_	P	P	_	22	_
 24	any1	_	O	O	_	23	_
-25	w/	_	P	P	_	24	_
+25	w/	_	P	P	_	21	_
 26	a	_	D	D	_	27	_
 27	nose	_	N	N	_	25	_
 28	up	_	P	P	_	27	_
@@ -48204,8 +48204,8 @@
 10	like	_	P	P	_	9	_
 11	2v1	_	N	N	_	12	_
 12	is	_	V	V	_	10	_
-13	just	_	R	R	_	15	_
-14	not	_	R	R	_	15	_
+13	just	_	R	R	_	14	_
+14	not	_	R	R	_	12	_
 15	fair	_	A	A	_	12	_
 16	!!	_	,	,	_	-1	_
 17	That's	_	L	L	_	0	_
@@ -48551,7 +48551,7 @@
 5	now	_	R	R	_	4	_
 6	I	_	O	O	_	8	_
 7	deliberately	_	R	R	_	8	_
-8	bullied	_	V	V	_	4	_
+8	bullied	_	V	V	_	0	_
 9	a	_	D	D	_	12	_
 10	poor	_	A	A	_	12	_
 11	little	_	A	A	_	12	_
@@ -48819,9 +48819,9 @@
 10	Sec9Gaming	_	^	^	_	11	MWE
 11	Edition	_	^	^	_	0	_
 12	(	_	,	,	_	-1	_
-13	CYBORG	_	^	^	_	15	MWE
-14	vs	_	P	P	_	15	_
-15	D1ZZ	_	^	^	_	11	_
+13	CYBORG	_	^	^	_	11	_
+14	vs	_	P	P	_	13	_
+15	D1ZZ	_	^	^	_	14	_
 16	)	_	,	,	_	-1	_
 
 1	I	_	O	O	_	2	_
@@ -49026,8 +49026,8 @@
 22	man	_	N	N	_	18	_
 23	without	_	P	P	_	22	_
 24	reason's	_	N	N	_	18	_
-25	not	_	R	R	_	27	_
-26	that	_	R	R	_	27	_
+25	not	_	R	R	_	26	_
+26	that	_	R	R	_	23	_
 27	funny	_	A	A	_	24	_
 28	.	_	,	,	_	-1	_
 29	#knockandrun	_	#	#	_	-1	_
@@ -49523,8 +49523,8 @@
 4	bully	_	V	V	_	3	_
 5	@ThatKidSonya	_	@	@	_	4	_
 6	so	_	R	R	_	7	_
-7	much	_	R	R	_	8	_
-8	in	_	P	P	_	4	_
+7	much	_	R	R	_	4	_
+8	in	_	P	P	_	7	_
 9	class	_	N	N	_	8	_
 10	lmfao	_	!	!	_	0	_
 11	she	_	O	O	_	12	_
@@ -49572,7 +49572,7 @@
 8	push	_	V	V	_	12	CONJ
 9	me	_	O	O	_	8	_
 10	around	_	R	R	_	8	_
-11	sometimes	_	R	R	_	8	_
+11	sometimes	_	R	R	_	0	_
 12	and	_	&	&	_	7	_
 13	bully	_	V	V	_	12	CONJ
 14	me	_	O	O	_	13	_
@@ -49738,7 +49738,7 @@
 9	at	_	P	P	_	8	_
 10	Phillies	_	^	^	_	11	MWE
 11	High	_	^	^	_	9	_
-12	will	_	V	V	_	0	_
+12	will	_	V	V	_	2	_
 13	be	_	V	V	_	12	_
 14	addressing	_	V	V	_	19	CONJ
 15	the	_	D	D	_	16	_
@@ -49748,7 +49748,7 @@
 19	and	_	&	&	_	13	_
 20	fighting	_	V	V	_	19	CONJ
 21	.	_	,	,	_	-1	_
-22	Detentions	_	N	N	_	20	_
+22	Detentions	_	N	N	_	0	_
 23	?	_	,	,	_	-1	_
 
 1	I'll	_	L	L	_	0	_
@@ -49842,7 +49842,7 @@
 11	http://ow.ly/5WL1y	_	U	U	_	0	_
 12	A	_	D	D	_	14	_
 13	compelling	_	A	A	_	14	_
-14	story	_	N	N	_	0	_
+14	story	_	N	N	_	10	_
 15	about	_	P	P	_	14	_
 16	the	_	D	D	_	17	_
 17	reality	_	N	N	_	15	_
@@ -49866,7 +49866,7 @@
 11	http://ow.ly/5WL2G	_	U	U	_	0	_
 12	A	_	D	D	_	14	_
 13	compelling	_	A	A	_	14	_
-14	story	_	N	N	_	0	_
+14	story	_	N	N	_	10	_
 15	about	_	P	P	_	14	_
 16	the	_	D	D	_	17	_
 17	reality	_	N	N	_	15	_
@@ -49897,7 +49897,7 @@
 12	Vitória	_	^	^	_	15	_
 13	)	_	,	,	_	-1	_
 14	[	_	,	,	_	-1	_
-15	pic	_	N	N	_	0	_
+15	pic	_	N	N	_	6	_
 16	]:	_	,	,	_	-1	_
 17	http://4sq.com/qXuG33	_	U	U	_	-1	_
 
@@ -50346,21 +50346,21 @@
 
 1	I've	_	L	L	_	0	_
 2	never	_	R	R	_	3	_
-3	seen	_	V	V	_	0	_
+3	seen	_	V	V	_	1	_
 4	a	_	D	D	_	5	_
 5	bully	_	N	N	_	3	_
-6	take	_	V	V	_	0	_
+6	take	_	V	V	_	3	_
 7	someone's	_	D	D	_	9	_
 8	lunch	_	N	N	_	9	_
 9	money	_	N	N	_	6	_
-10	like	_	P	P	_	6	_
+10	like	_	P	P	_	9	_
 11	in	_	P	P	_	6	_
 12	the	_	D	D	_	15	_
 13	old	_	A	A	_	14	_
 14	movies	_	N	N	_	15	CONJ
 15	and	_	&	&	_	10	_
-16	television	_	N	N	_	17	_
-17	shows	_	V	V	_	15	CONJ
+16	television	_	N	N	_	15	CONJ
+17	shows	_	V	V	_	0	_
 18	!	_	,	,	_	-1	_
 
 1	INSOMNIA-P	_	^	^	_	2	_
@@ -50369,9 +50369,9 @@
 4	me	_	O	O	_	5	_
 5	be	_	V	V	_	3	_
 6	,	_	,	,	_	-1	_
-7	Why	_	R	R	_	0	_
+7	Why	_	R	R	_	9	_
 8	you	_	O	O	_	9	_
-9	being	_	V	V	_	7	_
+9	being	_	V	V	_	0	_
 10	such	_	X	X	_	11	_
 11	a	_	D	D	_	12	_
 12	bully	_	N	N	_	9	_
@@ -50399,7 +50399,7 @@
 6	and	_	&	&	_	4	_
 7	@JackVidgen	_	@	@	_	6	CONJ
 8	I	_	O	O	_	9	_
-9	am	_	V	V	_	6	CONJ
+9	am	_	V	V	_	0	_
 10	pretty	_	R	R	_	11	_
 11	average	_	A	A	_	9	_
 12	.	_	,	,	_	-1	_
@@ -50416,12 +50416,12 @@
 23	happy	_	A	A	_	21	_
 24	well	_	R	R	_	23	_
 25	i	_	O	O	_	26	_
-26	try	_	V	V	_	24	_
+26	try	_	V	V	_	16	_
 27	..	_	,	,	_	-1	_
 
-1	ISPCC's	_	L	L	_	3	_
+1	ISPCC's	_	L	L	_	0	_
 2	anti-bullying	_	A	A	_	3	_
-3	campaign	_	N	N	_	0	_
+3	campaign	_	N	N	_	1	_
 4	-	_	,	,	_	-1	_
 5	http://t.co/JF5YzgR	_	U	U	_	-1	_
 
@@ -50591,9 +50591,9 @@
 23	Bully	_	N	N	_	21	_
 24	...	_	,	,	_	-1	_
 25	off-shore	_	A	A	_	26	_
-26	accts	_	N	N	_	0	_
+26	accts	_	N	N	_	21	_
 27	the	_	D	D	_	28	_
-28	shoe	_	N	N	_	26	_
+28	shoe	_	N	N	_	0	_
 
 1	If	_	P	P	_	0	_
 2	her	_	D	D	_	4	_
@@ -51178,12 +51178,12 @@
 10	child	_	N	N	_	8	_
 11	the	_	D	D	_	12	_
 12	bully	_	N	N	_	13	_
-13	calls	_	V	V	_	18	CONJ
+13	calls	_	V	V	_	0	_
 14	him	_	O	O	_	13	_
 15	"	_	,	,	_	-1	_
-16	midget	_	N	N	_	0	_
+16	midget	_	N	N	_	18	CONJ
 17	"	_	,	,	_	-1	_
-18	and	_	&	&	_	16	_
+18	and	_	&	&	_	14	_
 19	now	_	R	R	_	18	CONJ
 20	he's	_	L	L	_	19	_
 21	overly	_	R	R	_	22	_
@@ -51589,7 +51589,7 @@
 5	by	_	P	P	_	4	_
 6	same	_	A	A	_	7	_
 7	shit	_	N	N	_	5	_
-8	that	_	P	P	_	2	_
+8	that	_	P	P	_	7	_
 9	got	_	V	V	_	8	_
 10	ya	_	D	D	_	12	_
 11	last	_	A	A	_	12	_
@@ -51651,8 +51651,8 @@
 4	sobre	_	^	^	_	5	_
 5	bullying	_	V	V	_	0	_
 6	em	_	O	O	_	5	_
-7	seu	_	G	G	_	8	_
-8	novo	_	G	G	_	6	_
+7	seu	_	G	G	_	6	_
+8	novo	_	G	G	_	7	MWE
 9	clipe	_	G	G	_	8	_
 10	,	_	,	,	_	-1	_
 11	"	_	,	,	_	-1	_
@@ -52086,10 +52086,10 @@
 11	a	_	D	D	_	13	_
 12	asshole	_	N	N	_	13	_
 13	bully	_	N	N	_	10	_
-14	and	_	&	&	_	0	_
+14	and	_	&	&	_	7	_
 15	@CBS	_	@	@	_	-1	_
 16	#BB13	_	#	#	_	-1	_
-17	isn't	_	V	V	_	14	CONJ
+17	isn't	_	V	V	_	0	_
 18	worth	_	A	A	_	17	_
 19	watching	_	V	V	_	17	_
 20	they've	_	O	O	_	21	_
@@ -52223,7 +52223,7 @@
 10	bully-in	_	V	V	_	0	_
 11	dia	_	G	G	_	10	_
 12	dong	_	G	G	_	13	_
-13	kak	_	G	G	_	0	_
+13	kak	_	G	G	_	10	_
 14	:')	_	E	E	_	-1	_
 
 1	Kalau	_	^	^	_	2	MWE
@@ -52565,7 +52565,7 @@
 18	school	_	N	N	_	17	_
 19	.	_	,	,	_	-1	_
 20	School	_	N	N	_	21	MWE
-21	violence	_	N	N	_	22	MWE
+21	violence	_	N	N	_	23	_
 22	prev	_	N	N	_	23	_
 23	info	_	N	N	_	0	_
 24	@	_	P	P	_	23	_
@@ -52680,12 +52680,12 @@
 13	http://t.co/VUWb1Me	_	U	U	_	-1	_
 
 1	Knp	_	^	^	_	0	_
-2	sih	_	G	G	_	1	MWE
+2	sih	_	G	G	_	3	_
 3	orang2	_	G	G	_	4	_
-4	pada	_	G	G	_	5	MWE
-5	nge	_	G	G	_	0	_
+4	pada	_	G	G	_	0	_
+5	nge	_	G	G	_	4	MWE
 6	bully	_	N	N	_	7	_
-7	anteve	_	N	N	_	0	_
+7	anteve	_	N	N	_	1	_
 8	?	_	,	,	_	-1	_
 9	Mungkin	_	G	G	_	-1	_
 10	@DeeKallista	_	@	@	_	-1	_
@@ -52772,7 +52772,7 @@
 14	JYJ_in	_	^	^	_	15	MWE
 15	부산	_	^	^	_	13	_
 16	http://t.co/KpR7fYI	_	U	U	_	13	_
-17	via	_	P	P	_	15	_
+17	via	_	P	P	_	0	_
 18	@youtube	_	@	@	_	-1	_
 19	"	_	,	,	_	-1	_
 
@@ -52780,10 +52780,10 @@
 2	acabei	_	G	G	_	4	_
 3	de	_	P	P	_	0	_
 4	zerar	_	G	G	_	3	_
-5	o	_	P	P	_	3	_
-6	Bully	_	N	N	_	5	_
+5	o	_	P	P	_	6	_
+6	Bully	_	N	N	_	7	_
 7	q	_	G	G	_	8	_
-8	emoçao	_	G	G	_	5	_
+8	emoçao	_	G	G	_	0	_
 9	(_Ô_)	_	E	E	_	-1	_
 
 1	LOL	_	!	!	_	0	_
@@ -52891,9 +52891,9 @@
 4	no	_	!	!	_	5	_
 5	está	_	N	N	_	0	_
 6	100%	_	$	$	_	7	_
-7	movilizada	_	N	N	_	5	_
+7	movilizada	_	N	N	_	0	_
 8	!	_	,	,	_	-1	_
-9	y	_	R	R	_	12	_
+9	y	_	R	R	_	7	_
 10	el	_	G	G	_	0	_
 11	"	_	,	,	_	-1	_
 12	bullying	_	V	V	_	0	_
@@ -52981,7 +52981,7 @@
 15	5/8/11	_	$	$	_	14	_
 16	(	_	,	,	_	-1	_
 17	This	_	D	D	_	18	_
-18	Friday	_	^	^	_	0	_
+18	Friday	_	^	^	_	13	_
 19	)	_	,	,	_	-1	_
 20	-	_	,	,	_	-1	_
 21	☑	_	~	~	_	-1	_
@@ -52998,8 +52998,8 @@
 9	lo	_	G	G	_	8	_
 10	habrían	_	V	V	_	9	_
 11	dejado	_	R	R	_	12	_
-12	con	_	A	A	_	10	_
-13	miedo	_	^	^	_	12	_
+12	con	_	A	A	_	13	_
+13	miedo	_	^	^	_	10	_
 14	e	_	G	G	_	15	_
 15	inseguridad	_	G	G	_	16	_
 16	toda	_	G	G	_	0	_
@@ -53050,7 +53050,7 @@
 15	si	_	^	^	_	17	MWE
 16	hubieran	_	^	^	_	17	MWE
 17	sido	_	^	^	_	18	MWE
-18	ustedes	_	^	^	_	20	MWE
+18	ustedes	_	^	^	_	21	MWE
 19	los	_	^	^	_	21	MWE
 20	invitados	_	^	^	_	21	MWE
 21	habrían	_	^	^	_	0	_
@@ -53439,7 +53439,7 @@
 5	my	_	D	D	_	6	_
 6	son	_	N	N	_	4	_
 7	"	_	,	,	_	-1	_
-8	get	_	V	V	_	0	_
+8	get	_	V	V	_	4	_
 9	OFF	_	P	P	_	8	_
 10	my	_	D	D	_	11	_
 11	mommy	_	N	N	_	9	_
@@ -53492,7 +53492,7 @@
 9	when	_	R	R	_	6	_
 10	i	_	O	O	_	11	_
 11	say	_	V	V	_	9	_
-12	shit	_	N	N	_	11	_
+12	shit	_	N	N	_	18	CONJ
 13	she	_	O	O	_	14	_
 14	wanna	_	V	V	_	12	_
 15	.	_	,	,	_	-1	_
@@ -53639,7 +53639,7 @@
 12	really	_	R	R	_	13	_
 13	good	_	A	A	_	11	_
 14	you	_	O	O	_	15	_
-15	have	_	V	V	_	13	_
+15	have	_	V	V	_	11	_
 16	to	_	P	P	_	15	_
 17	just	_	R	R	_	18	_
 18	listen	_	V	V	_	16	_
@@ -53931,7 +53931,7 @@
 12	sans	_	G	G	_	11	_
 13	pay	_	V	V	_	11	_
 14	[	_	,	,	_	-1	_
-15	Video	_	N	N	_	13	_
+15	Video	_	N	N	_	0	_
 16	]:	_	,	,	_	-1	_
 17	22	_	$	$	_	19	MWE
 18	,	_	,	,	_	-1	_
@@ -54242,7 +54242,7 @@
 16	le	_	G	G	_	17	_
 17	apliquen	_	G	G	_	0	_
 18	la	_	G	G	_	17	_
-19	mistica	_	N	N	_	9	_
+19	mistica	_	N	N	_	18	_
 20	xD	_	E	E	_	-1	_
 
 1	Me	_	O	O	_	2	_
@@ -54264,8 +54264,8 @@
 5	!	_	,	,	_	-1	_
 6	Si	_	^	^	_	7	MWE
 7	mi	_	^	^	_	8	MWE
-8	tía	_	^	^	_	9	MWE
-9	supiera	_	^	^	_	12	MWE
+8	tía	_	^	^	_	10	MWE
+9	supiera	_	^	^	_	11	MWE
 10	que	_	^	^	_	11	MWE
 11	soy	_	^	^	_	12	MWE
 12	Les	_	^	^	_	0	_
@@ -54287,7 +54287,7 @@
 12	espinacas	_	^	^	_	13	_
 13	y	_	R	R	_	14	_
 14	yo	_	O	O	_	0	_
-15	le	_	G	G	_	18	_
+15	le	_	G	G	_	14	_
 16	dije	_	G	G	_	18	_
 17	mi	_	G	G	_	18	_
 18	mamá	_	G	G	_	0	_
@@ -54718,10 +54718,10 @@
 
 1	Meu	_	G	G	_	2	MWE
 2	isso	_	G	G	_	3	_
-3	é	_	G	G	_	6	_
-4	bullying	_	V	V	_	3	_
+3	é	_	G	G	_	0	_
+4	bullying	_	V	V	_	0	_
 5	,	_	,	,	_	-1	_
-6	não	_	G	G	_	0	_
+6	não	_	G	G	_	4	_
 7	veio	_	G	G	_	6	_
 8	queijo	_	V	V	_	7	_
 9	em	_	O	O	_	8	_
@@ -54737,8 +54737,8 @@
 5	na	_	G	G	_	0	_
 6	lista	_	G	G	_	5	_
 7	de	_	P	P	_	20	_
-8	chamada	_	G	G	_	12	_
-9	e	_	G	G	_	12	MWE
+8	chamada	_	G	G	_	9	_
+9	e	_	G	G	_	0	_
 10	bem	_	G	G	_	13	MWE
 11	consigo	_	G	G	_	13	MWE
 12	usar	_	G	G	_	13	MWE
@@ -54770,7 +54770,7 @@
 13	neesse	_	N	N	_	16	_
 14	exato	_	N	N	_	16	_
 15	momento	_	N	N	_	16	_
-16	HAUHAUAHUHUAHAUHAU	_	N	N	_	12	_
+16	HAUHAUAHUHUAHAUHAU	_	N	N	_	0	_
 
 1	Mi	_	D	D	_	2	_
 2	papá	_	N	N	_	7	_
@@ -55045,7 +55045,7 @@
 8	bulling	_	V	V	_	0	_
 9	:S	_	E	E	_	-1	_
 10	,	_	,	,	_	-1	_
-11	viu	_	G	G	_	14	_
+11	viu	_	G	G	_	12	MWE
 12	umas	_	G	G	_	16	_
 13	conversas	_	G	G	_	16	_
 14	q	_	G	G	_	16	_
@@ -55076,8 +55076,8 @@
 13	shining	_	V	V	_	12	_
 14	above	_	P	P	_	13	_
 15	my	_	D	D	_	16	_
-16	cousin	_	N	N	_	14	_
-17	has	_	V	V	_	0	_
+16	cousin	_	N	N	_	17	_
+17	has	_	V	V	_	14	_
 18	lips	_	N	N	_	17	_
 19	.	_	,	,	_	-1	_
 20	—	_	~	~	_	-1	_
@@ -55090,10 +55090,10 @@
 5	sofrido	_	N	N	_	4	_
 6	pelas	_	N	N	_	7	_
 7	organizações	_	N	N	_	4	_
-8	Globo	_	^	^	_	4	_
-9	e	_	G	G	_	8	MWE
+8	Globo	_	^	^	_	11	_
+9	e	_	G	G	_	10	MWE
 10	por	_	G	G	_	11	_
-11	Ideli	_	^	^	_	9	_
+11	Ideli	_	^	^	_	4	_
 12	.	_	,	,	_	-1	_
 
 1	Minnesota	_	^	^	_	3	_
@@ -55230,9 +55230,9 @@
 1	Moda	_	^	^	_	2	_
 2	do	_	V	V	_	0	_
 3	momento/como	_	^	^	_	2	_
-4	se	_	G	G	_	5	MWE
-5	fazer	_	G	G	_	2	_
-6	de	_	P	P	_	7	_
+4	se	_	G	G	_	3	MWE
+5	fazer	_	G	G	_	4	_
+6	de	_	P	P	_	2	_
 7	coitadinho	_	N	N	_	2	_
 8	:	_	,	,	_	-1	_
 9	Eu	_	^	^	_	10	MWE
@@ -55485,13 +55485,13 @@
 9	anti-bully	_	A	A	_	10	_
 10	efforts	_	N	N	_	7	_
 11	.	_	,	,	_	-1	_
-12	Please	_	V	V	_	0	_
+12	Please	_	V	V	_	13	_
 13	read	_	V	V	_	14	CONJ
-14	and	_	&	&	_	12	_
+14	and	_	&	&	_	0	_
 15	share	_	V	V	_	14	CONJ
 16	!	_	,	,	_	-1	_
 17	http://t.co/v3m8gpc	_	U	U	_	-1	_
-18	/via	_	P	P	_	12	_
+18	/via	_	P	P	_	0	_
 19	@wordpressdotcom	_	@	@	_	-1	_
 
 1	My	_	D	D	_	3	_
@@ -55632,25 +55632,25 @@
 12	fat	_	A	A	_	11	_
 13	,	_	,	,	_	-1	_
 14	now	_	R	R	_	17	_
-15	there's	_	L	L	_	0	_
+15	there's	_	L	L	_	14	_
 16	so	_	R	R	_	17	_
 17	many	_	A	A	_	19	_
 18	fatties	_	N	N	_	19	_
 19	people	_	N	N	_	21	_
 20	only	_	R	R	_	21	_
-21	get	_	V	V	_	15	_
+21	get	_	V	V	_	0	_
 22	bullied	_	V	V	_	21	_
 23	for	_	P	P	_	22	_
 24	proper	_	A	A	_	25	_
 25	reasons	_	N	N	_	23	_
 26	,	_	,	,	_	-1	_
-27	like	_	P	P	_	25	_
+27	like	_	P	P	_	21	_
 28	bein	_	V	V	_	27	_
 29	ginger	_	N	N	_	28	_
 
 1	My	_	D	D	_	2	_
-2	daddy	_	N	N	_	3	_
-3	was	_	V	V	_	0	_
+2	daddy	_	N	N	_	8	CONJ
+3	was	_	V	V	_	8	CONJ
 4	a	_	D	D	_	6	_
 5	bedroom	_	N	N	_	6	MWE
 6	bully	_	N	N	_	3	_
@@ -56492,7 +56492,7 @@
 8	:	_	,	,	_	-1	_
 9	Web	_	^	^	_	10	_
 10	programs	_	N	N	_	11	CONJ
-11	and	_	&	&	_	13	_
+11	and	_	&	&	_	14	_
 12	apps	_	N	N	_	11	CONJ
 13	alert	_	N	N	_	0	_
 14	parents	_	N	N	_	0	_
@@ -56588,14 +56588,14 @@
 3	2011	_	$	$	_	5	_
 4	Hibiscus	_	^	^	_	5	MWE
 5	Festival	_	^	^	_	0	_
-6	to	_	P	P	_	5	_
+6	to	_	P	P	_	0	_
 7	highlight	_	V	V	_	6	_
 8	bullying	_	N	N	_	7	_
 9	:	_	,	,	_	-1	_
 10	Physical	_	N	N	_	11	CONJ
-11	and	_	&	&	_	0	_
+11	and	_	&	&	_	13	_
 12	sexual	_	A	A	_	13	_
-13	abuse	_	N	N	_	11	CONJ
+13	abuse	_	N	N	_	0	_
 14	along	_	P	P	_	13	_
 15	with	_	P	P	_	14	_
 16	bullying	_	V	V	_	15	_
@@ -56687,7 +56687,7 @@
 10	privadas	_	^	^	_	6	_
 11	-	_	,	,	_	-1	_
 12	El	_	^	^	_	13	MWE
-13	Universal	_	^	^	_	0	_
+13	Universal	_	^	^	_	10	_
 14	-	_	,	,	_	-1	_
 15	DF	_	!	!	_	0	_
 16	-	_	,	,	_	-1	_
@@ -57395,7 +57395,7 @@
 9	que	_	G	G	_	10	_
 10	não	_	G	G	_	0	_
 11	para	_	G	G	_	13	_
-12	de	_	G	G	_	16	MWE
+12	de	_	G	G	_	13	_
 13	cantar	_	G	G	_	0	_
 14	a	_	D	D	_	16	_
 15	aula	_	G	G	_	16	_
@@ -57473,9 +57473,9 @@
 4	se	_	G	G	_	3	_
 5	eu	_	G	G	_	6	_
 6	jogar	_	G	G	_	7	_
-7	um	_	G	G	_	0	_
-8	tijolo	_	G	G	_	7	_
-9	na	_	G	G	_	13	_
+7	um	_	G	G	_	8	_
+8	tijolo	_	G	G	_	0	_
+9	na	_	G	G	_	8	_
 10	sua	_	G	G	_	13	_
 11	cara	_	G	G	_	13	_
 12	e	_	G	G	_	13	_
@@ -57495,7 +57495,7 @@
 6	jogar	_	G	G	_	7	_
 7	um	_	G	G	_	0	_
 8	tijolo	_	G	G	_	7	_
-9	na	_	G	G	_	13	_
+9	na	_	G	G	_	8	_
 10	sua	_	G	G	_	13	_
 11	cara	_	G	G	_	13	_
 12	e	_	G	G	_	13	_
@@ -57510,12 +57510,12 @@
 1	Não	_	^	^	_	2	MWE
 2	é	_	^	^	_	3	_
 3	bullying	_	V	V	_	0	_
-4	se	_	G	G	_	5	MWE
+4	se	_	G	G	_	3	_
 5	eu	_	G	G	_	6	_
-6	jogar	_	G	G	_	3	_
+6	jogar	_	G	G	_	7	_
 7	um	_	G	G	_	8	_
 8	tijolo	_	G	G	_	0	_
-9	na	_	G	G	_	8	_
+9	na	_	G	G	_	13	_
 10	sua	_	G	G	_	13	_
 11	cara	_	G	G	_	13	_
 12	e	_	G	G	_	13	_
@@ -57534,10 +57534,10 @@
 3	bullying	_	V	V	_	0	_
 4	se	_	G	G	_	5	MWE
 5	eu	_	G	G	_	6	_
-6	jogar	_	G	G	_	3	_
+6	jogar	_	G	G	_	7	_
 7	um	_	G	G	_	8	_
 8	tijolo	_	G	G	_	0	_
-9	na	_	G	G	_	13	_
+9	na	_	G	G	_	8	_
 10	sua	_	G	G	_	13	_
 11	cara	_	G	G	_	13	_
 12	e	_	G	G	_	13	_
@@ -57553,7 +57553,7 @@
 1	Não	_	^	^	_	2	MWE
 2	é	_	^	^	_	3	_
 3	bullying	_	V	V	_	0	_
-4	se	_	G	G	_	5	MWE
+4	se	_	G	G	_	3	_
 5	eu	_	G	G	_	6	_
 6	jogar	_	G	G	_	7	_
 7	um	_	G	G	_	0	_
@@ -57579,7 +57579,7 @@
 6	jogar	_	G	G	_	7	_
 7	um	_	G	G	_	8	_
 8	tijolo	_	G	G	_	0	_
-9	na	_	G	G	_	8	_
+9	na	_	G	G	_	13	_
 10	sua	_	G	G	_	13	_
 11	cara	_	G	G	_	13	_
 12	e	_	G	G	_	13	_
@@ -57595,12 +57595,12 @@
 1	Não	_	^	^	_	2	MWE
 2	é	_	^	^	_	3	_
 3	bullying	_	V	V	_	0	_
-4	se	_	G	G	_	3	_
+4	se	_	G	G	_	5	MWE
 5	eu	_	G	G	_	6	_
-6	jogar	_	G	G	_	7	_
+6	jogar	_	G	G	_	3	_
 7	um	_	G	G	_	8	_
 8	tijolo	_	G	G	_	0	_
-9	na	_	G	G	_	8	_
+9	na	_	G	G	_	13	_
 10	sua	_	G	G	_	13	_
 11	cara	_	G	G	_	13	_
 12	e	_	G	G	_	13	_
@@ -57618,7 +57618,7 @@
 3	bullying	_	V	V	_	0	_
 4	se	_	G	G	_	5	MWE
 5	eu	_	G	G	_	6	_
-6	jogar	_	G	G	_	7	_
+6	jogar	_	G	G	_	8	_
 7	um	_	G	G	_	8	_
 8	tijolo	_	G	G	_	0	_
 9	na	_	G	G	_	8	_
@@ -57637,12 +57637,12 @@
 1	Não	_	^	^	_	2	MWE
 2	é	_	^	^	_	3	_
 3	bullying	_	V	V	_	0	_
-4	se	_	G	G	_	3	_
+4	se	_	G	G	_	5	MWE
 5	eu	_	G	G	_	6	_
-6	jogar	_	G	G	_	8	_
-7	um	_	G	G	_	8	_
+6	jogar	_	G	G	_	7	_
+7	um	_	G	G	_	0	_
 8	tijolo	_	G	G	_	0	_
-9	na	_	G	G	_	13	_
+9	na	_	G	G	_	8	_
 10	sua	_	G	G	_	13	_
 11	cara	_	G	G	_	13	_
 12	e	_	G	G	_	13	_
@@ -57660,7 +57660,7 @@
 3	bullying	_	V	V	_	0	_
 4	se	_	G	G	_	5	MWE
 5	eu	_	G	G	_	6	_
-6	jogar	_	G	G	_	7	_
+6	jogar	_	G	G	_	3	_
 7	um	_	G	G	_	8	_
 8	tijolo	_	G	G	_	0	_
 9	na	_	G	G	_	13	_
@@ -57680,10 +57680,10 @@
 2	é	_	^	^	_	3	_
 3	bullying	_	V	V	_	0	_
 4	se	_	G	G	_	5	MWE
-5	eu	_	G	G	_	6	_
+5	eu	_	G	G	_	3	_
 6	jogar	_	G	G	_	7	_
-7	um	_	G	G	_	8	_
-8	tijolo	_	G	G	_	0	_
+7	um	_	G	G	_	0	_
+8	tijolo	_	G	G	_	7	_
 9	na	_	G	G	_	8	_
 10	sua	_	G	G	_	13	_
 11	cara	_	G	G	_	13	_
@@ -57702,28 +57702,7 @@
 3	bullying	_	V	V	_	0	_
 4	se	_	G	G	_	5	MWE
 5	eu	_	G	G	_	6	_
-6	jogar	_	G	G	_	8	_
-7	um	_	G	G	_	8	_
-8	tijolo	_	G	G	_	0	_
-9	na	_	G	G	_	13	_
-10	sua	_	G	G	_	13	_
-11	cara	_	G	G	_	13	_
-12	e	_	G	G	_	13	_
-13	fingir	_	G	G	_	0	_
-14	que	_	G	G	_	16	_
-15	estava	_	G	G	_	16	_
-16	brincando	_	G	G	_	0	_
-17	de	_	P	P	_	18	_
-18	pedreiro	_	N	N	_	0	_
-19	.	_	,	,	_	-1	_
-20	http://t.co/XtXNCGV	_	U	U	_	-1	_
-
-1	Não	_	^	^	_	2	MWE
-2	é	_	^	^	_	3	_
-3	bullying	_	V	V	_	0	_
-4	se	_	G	G	_	5	MWE
-5	eu	_	G	G	_	3	_
-6	jogar	_	G	G	_	8	_
+6	jogar	_	G	G	_	7	_
 7	um	_	G	G	_	8	_
 8	tijolo	_	G	G	_	0	_
 9	na	_	G	G	_	8	_
@@ -57737,28 +57716,7 @@
 17	de	_	P	P	_	18	_
 18	pedreiro	_	N	N	_	0	_
 19	.	_	,	,	_	-1	_
-20	http://t.co/dw7yBIx	_	U	U	_	-1	_
-
-1	Não	_	^	^	_	2	MWE
-2	é	_	^	^	_	3	_
-3	bullying	_	V	V	_	0	_
-4	se	_	G	G	_	5	MWE
-5	eu	_	G	G	_	6	_
-6	jogar	_	G	G	_	7	_
-7	um	_	G	G	_	8	_
-8	tijolo	_	G	G	_	0	_
-9	na	_	G	G	_	13	_
-10	sua	_	G	G	_	13	_
-11	cara	_	G	G	_	13	_
-12	e	_	G	G	_	13	_
-13	fingir	_	G	G	_	0	_
-14	que	_	G	G	_	16	_
-15	estava	_	G	G	_	16	_
-16	brincando	_	G	G	_	0	_
-17	de	_	P	P	_	18	_
-18	pedreiro	_	N	N	_	0	_
-19	.	_	,	,	_	-1	_
-20	http://t.co/iAggPQU	_	U	U	_	-1	_
+20	http://t.co/XtXNCGV	_	U	U	_	-1	_
 
 1	Não	_	^	^	_	2	MWE
 2	é	_	^	^	_	3	_
@@ -57779,14 +57737,14 @@
 17	de	_	P	P	_	18	_
 18	pedreiro	_	N	N	_	0	_
 19	.	_	,	,	_	-1	_
-20	http://t.co/lKLJufT	_	U	U	_	-1	_
+20	http://t.co/dw7yBIx	_	U	U	_	-1	_
 
 1	Não	_	^	^	_	2	MWE
 2	é	_	^	^	_	3	_
 3	bullying	_	V	V	_	0	_
 4	se	_	G	G	_	5	MWE
-5	eu	_	G	G	_	6	_
-6	jogar	_	G	G	_	7	_
+5	eu	_	G	G	_	3	_
+6	jogar	_	G	G	_	8	_
 7	um	_	G	G	_	8	_
 8	tijolo	_	G	G	_	0	_
 9	na	_	G	G	_	8	_
@@ -57800,28 +57758,7 @@
 17	de	_	P	P	_	18	_
 18	pedreiro	_	N	N	_	0	_
 19	.	_	,	,	_	-1	_
-20	http://t.co/ngB5koZ	_	U	U	_	-1	_
-
-1	Não	_	^	^	_	2	MWE
-2	é	_	^	^	_	3	_
-3	bullying	_	V	V	_	0	_
-4	se	_	G	G	_	5	MWE
-5	eu	_	G	G	_	6	_
-6	jogar	_	G	G	_	7	_
-7	um	_	G	G	_	0	_
-8	tijolo	_	G	G	_	7	_
-9	na	_	G	G	_	8	_
-10	sua	_	G	G	_	13	_
-11	cara	_	G	G	_	13	_
-12	e	_	G	G	_	13	_
-13	fingir	_	G	G	_	0	_
-14	que	_	G	G	_	16	_
-15	estava	_	G	G	_	16	_
-16	brincando	_	G	G	_	0	_
-17	de	_	P	P	_	18	_
-18	pedreiro	_	N	N	_	0	_
-19	.	_	,	,	_	-1	_
-20	http://t.co/oRxEm8f	_	U	U	_	-1	_
+20	http://t.co/iAggPQU	_	U	U	_	-1	_
 
 1	Não	_	^	^	_	2	MWE
 2	é	_	^	^	_	3	_
@@ -57842,7 +57779,7 @@
 17	de	_	P	P	_	18	_
 18	pedreiro	_	N	N	_	0	_
 19	.	_	,	,	_	-1	_
-20	http://t.co/qlZdxUJ	_	U	U	_	-1	_
+20	http://t.co/lKLJufT	_	U	U	_	-1	_
 
 1	Não	_	^	^	_	2	MWE
 2	é	_	^	^	_	3	_
@@ -57850,9 +57787,72 @@
 4	se	_	G	G	_	5	MWE
 5	eu	_	G	G	_	6	_
 6	jogar	_	G	G	_	7	_
+7	um	_	G	G	_	8	_
+8	tijolo	_	G	G	_	0	_
+9	na	_	G	G	_	13	_
+10	sua	_	G	G	_	13	_
+11	cara	_	G	G	_	13	_
+12	e	_	G	G	_	13	_
+13	fingir	_	G	G	_	0	_
+14	que	_	G	G	_	16	_
+15	estava	_	G	G	_	16	_
+16	brincando	_	G	G	_	0	_
+17	de	_	P	P	_	18	_
+18	pedreiro	_	N	N	_	0	_
+19	.	_	,	,	_	-1	_
+20	http://t.co/ngB5koZ	_	U	U	_	-1	_
+
+1	Não	_	^	^	_	2	MWE
+2	é	_	^	^	_	3	_
+3	bullying	_	V	V	_	0	_
+4	se	_	G	G	_	5	MWE
+5	eu	_	G	G	_	6	_
+6	jogar	_	G	G	_	7	_
+7	um	_	G	G	_	8	_
+8	tijolo	_	G	G	_	0	_
+9	na	_	G	G	_	8	_
+10	sua	_	G	G	_	13	_
+11	cara	_	G	G	_	13	_
+12	e	_	G	G	_	13	_
+13	fingir	_	G	G	_	0	_
+14	que	_	G	G	_	16	_
+15	estava	_	G	G	_	16	_
+16	brincando	_	G	G	_	0	_
+17	de	_	P	P	_	18	_
+18	pedreiro	_	N	N	_	0	_
+19	.	_	,	,	_	-1	_
+20	http://t.co/oRxEm8f	_	U	U	_	-1	_
+
+1	Não	_	^	^	_	2	MWE
+2	é	_	^	^	_	3	_
+3	bullying	_	V	V	_	0	_
+4	se	_	G	G	_	5	MWE
+5	eu	_	G	G	_	6	_
+6	jogar	_	G	G	_	3	_
 7	um	_	G	G	_	0	_
 8	tijolo	_	G	G	_	7	_
-9	na	_	G	G	_	13	_
+9	na	_	G	G	_	8	_
+10	sua	_	G	G	_	13	_
+11	cara	_	G	G	_	13	_
+12	e	_	G	G	_	13	_
+13	fingir	_	G	G	_	0	_
+14	que	_	G	G	_	16	_
+15	estava	_	G	G	_	16	_
+16	brincando	_	G	G	_	0	_
+17	de	_	P	P	_	18	_
+18	pedreiro	_	N	N	_	0	_
+19	.	_	,	,	_	-1	_
+20	http://t.co/qlZdxUJ	_	U	U	_	-1	_
+
+1	Não	_	^	^	_	2	MWE
+2	é	_	^	^	_	3	_
+3	bullying	_	V	V	_	0	_
+4	se	_	G	G	_	3	_
+5	eu	_	G	G	_	6	_
+6	jogar	_	G	G	_	7	_
+7	um	_	G	G	_	0	_
+8	tijolo	_	G	G	_	7	_
+9	na	_	G	G	_	8	_
 10	sua	_	G	G	_	13	_
 11	cara	_	G	G	_	13	_
 12	e	_	G	G	_	13	_
@@ -57914,9 +57914,9 @@
 4	se	_	G	G	_	5	MWE
 5	eu	_	G	G	_	6	_
 6	jogar	_	G	G	_	7	_
-7	um	_	G	G	_	0	_
-8	vaso	_	G	G	_	7	_
-9	na	_	G	G	_	13	_
+7	um	_	G	G	_	8	_
+8	vaso	_	G	G	_	0	_
+9	na	_	G	G	_	8	_
 10	sua	_	G	G	_	13	_
 11	cabeça	_	G	G	_	13	_
 12	e	_	G	G	_	13	_
@@ -58146,9 +58146,9 @@
 11	que	_	G	G	_	13	_
 12	estava	_	G	G	_	13	_
 13	brincando	_	G	G	_	0	_
-14	de	_	P	P	_	15	MWE
+14	de	_	P	P	_	3	_
 15	jogos	_	^	^	_	16	MWE
-16	mortais	_	^	^	_	13	_
+16	mortais	_	^	^	_	14	_
 17	.	_	,	,	_	-1	_
 18	http://t.co/3jJrpJP	_	U	U	_	-1	_
 
@@ -58239,7 +58239,7 @@
 9	,	_	,	,	_	-1	_
 10	Schorstney	_	^	^	_	12	MWE
 11	e	_	^	^	_	12	MWE
-12	Schorstlayne	_	^	^	_	7	_
+12	Schorstlayne	_	^	^	_	0	_
 13	#lardocelar	_	#	#	_	-1	_
 
 1	Não	_	^	^	_	2	MWE
@@ -58464,8 +58464,8 @@
 5	de	_	P	P	_	6	MWE
 6	hoje	_	^	^	_	4	_
 7	,	_	,	,	_	-1	_
-8	é	_	G	G	_	10	_
-9	o	_	G	G	_	8	_
+8	é	_	G	G	_	9	_
+9	o	_	G	G	_	10	_
 10	mais	_	G	G	_	14	_
 11	bem	_	G	G	_	14	_
 12	pago	_	G	G	_	14	_
@@ -58573,9 +58573,9 @@
 11	.	_	,	,	_	-1	_
 12	#leeds	_	#	#	_	-1	_
 
-1	Officials	_	^	^	_	3	_
+1	Officials	_	^	^	_	0	_
 2	,	_	,	,	_	-1	_
-3	teachers	_	N	N	_	0	_
+3	teachers	_	N	N	_	1	MWE
 4	,	_	,	,	_	-1	_
 5	students	_	N	N	_	6	_
 6	discuss	_	V	V	_	0	_
@@ -58867,7 +58867,7 @@
 1	Orra	_	V	V	_	0	_
 2	me	_	O	O	_	1	_
 3	lembrei	_	R	R	_	1	_
-4	de	_	P	P	_	3	_
+4	de	_	P	P	_	1	_
 5	uma	_	G	G	_	4	_
 6	mina	_	G	G	_	5	_
 7	do	_	V	V	_	4	_
@@ -58972,12 +58972,12 @@
 5	el	_	G	G	_	4	MWE
 6	rumor	_	N	N	_	5	_
 7	de	_	P	P	_	6	_
-8	que	_	G	G	_	10	MWE
-9	eras	_	N	N	_	10	_
-10	el	_	G	G	_	7	_
+8	que	_	G	G	_	7	_
+9	eras	_	N	N	_	8	_
+10	el	_	G	G	_	11	_
 11	cacha	_	^	^	_	13	MWE
 12	zapes	_	^	^	_	13	MWE
-13	mayor	_	^	^	_	10	_
+13	mayor	_	^	^	_	0	_
 14	en	_	P	P	_	0	_
 15	el	_	G	G	_	16	MWE
 16	san	_	^	^	_	17	MWE
@@ -59002,18 +59002,18 @@
 6	!!!!!!!!!	_	,	,	_	-1	_
 7	DENUNCIEM	_	!	!	_	0	_
 
-1	POLÍTICA	_	^	^	_	5	MWE
+1	POLÍTICA	_	^	^	_	0	_
 2	:	_	,	,	_	-1	_
 3	Câmara	_	^	^	_	5	MWE
 4	aprova	_	^	^	_	5	MWE
 5	Programa	_	^	^	_	6	MWE
 6	Trote	_	^	^	_	8	MWE
 7	Solidário	_	^	^	_	8	MWE
-8	Cidade	_	^	^	_	0	_
-9	e	_	G	G	_	10	_
+8	Cidade	_	^	^	_	10	_
+9	e	_	G	G	_	8	MWE
 10	Combate	_	^	^	_	0	_
 11	ao	_	D	D	_	12	_
-12	Bullying	_	N	N	_	8	_
+12	Bullying	_	N	N	_	10	_
 13	http://t.co/uKErp0P	_	U	U	_	-1	_
 
 1	PRA	_	G	G	_	-1	_
@@ -59060,7 +59060,7 @@
 9	EMEF	_	^	^	_	11	MWE
 10	Profª	_	^	^	_	11	MWE
 11	Serafina	_	^	^	_	7	_
-12	de	_	P	P	_	7	_
+12	de	_	P	P	_	11	_
 13	Luca	_	^	^	_	14	MWE
 14	Cherfen	_	^	^	_	15	_
 15	http://t.co/xV1igiB	_	U	U	_	12	_
@@ -59110,10 +59110,10 @@
 5	:	_	,	,	_	-1	_
 6	hoje	_	V	V	_	0	_
 7	em	_	O	O	_	6	_
-8	dia	_	G	G	_	10	_
-9	tudo	_	G	G	_	10	_
-10	é	_	G	G	_	0	_
-11	bullying	_	N	N	_	0	_
+8	dia	_	G	G	_	7	_
+9	tudo	_	G	G	_	8	MWE
+10	é	_	G	G	_	9	_
+11	bullying	_	N	N	_	10	_
 12	.	_	,	,	_	-1	_
 
 1	Pareço	_	R	R	_	2	_
@@ -59833,9 +59833,9 @@
 14	,	_	,	,	_	-1	_
 15	and	_	&	&	_	0	_
 16	he	_	O	O	_	17	_
-17	feels	_	V	V	_	19	CONJ
+17	feels	_	V	V	_	15	CONJ
 18	lonely	_	A	A	_	17	_
-19	and	_	&	&	_	15	COORD
+19	and	_	&	&	_	0	_
 20	hasn’t	_	V	V	_	19	CONJ
 21	got	_	V	V	_	20	_
 22	anybody	_	N	N	_	21	_
@@ -60063,10 +60063,10 @@
 3	Seth	_	^	^	_	4	MWE
 4	Matlins	_	^	^	_	2	_
 5	:	_	,	,	_	-1	_
-6	The	_	D	D	_	9	_
+6	The	_	D	D	_	7	_
 7	Self	_	N	N	_	8	_
 8	Esteem	_	N	N	_	9	MWE
-9	Act	_	N	N	_	4	_
+9	Act	_	N	N	_	0	_
 10	:	_	,	,	_	-1	_
 11	It's	_	L	L	_	0	_
 12	Time	_	N	N	_	11	_
@@ -60075,7 +60075,7 @@
 15	the	_	D	D	_	16	_
 16	Bully	_	N	N	_	14	_
 17	That	_	O	O	_	18	_
-18	Is	_	V	V	_	0	_
+18	Is	_	V	V	_	16	_
 19	Our	_	D	D	_	21	_
 20	Beauty	_	N	N	_	21	MWE
 21	Culture	_	N	N	_	18	_
@@ -60588,7 +60588,7 @@
 18	deporte	_	^	^	_	0	_
 19	,	_	,	,	_	-1	_
 20	una	_	^	^	_	21	MWE
-21	pasión	_	^	^	_	0	_
+21	pasión	_	^	^	_	18	_
 22	...	_	,	,	_	-1	_
 23	http://t.co/HdKNpdB	_	U	U	_	-1	_
 24	vía	_	G	G	_	-1	_
@@ -60616,7 +60616,7 @@
 20	qué	_	G	G	_	0	_
 21	pensar	_	G	G	_	20	_
 22	.	_	,	,	_	-1	_
-23	Netito	_	^	^	_	0	_
+23	Netito	_	^	^	_	21	_
 24	.	_	,	,	_	-1	_
 
 1	Quebrando	_	^	^	_	0	_
@@ -61308,7 +61308,7 @@
 17	praticando	_	^	^	_	16	_
 18	o	_	P	P	_	8	_
 19	tal	_	N	N	_	20	_
-20	do	_	V	V	_	18	_
+20	do	_	V	V	_	0	_
 21	bullying	_	V	V	_	20	_
 22	com	_	N	N	_	21	_
 23	a	_	D	D	_	24	_
@@ -61451,9 +61451,9 @@
 4	to	_	P	P	_	1	_
 5	"	_	,	,	_	-1	_
 6	Diga	_	^	^	_	7	MWE
-7	não	_	^	^	_	0	_
+7	não	_	^	^	_	4	_
 8	ao	_	D	D	_	9	_
-9	bullying	_	N	N	_	4	_
+9	bullying	_	N	N	_	0	_
 10	!	_	,	,	_	-1	_
 11	"	_	,	,	_	-1	_
 12	:	_	,	,	_	-1	_
@@ -61686,9 +61686,9 @@
 20	If	_	P	P	_	12	_
 21	not	_	R	R	_	20	_
 22	,	_	,	,	_	-1	_
-23	then	_	R	R	_	13	_
+23	then	_	R	R	_	0	_
 24	I	_	O	O	_	25	_
-25	feel	_	V	V	_	0	_
+25	feel	_	V	V	_	23	_
 26	sorr	_	G	G	_	25	_
 27	…	_	,	,	_	-1	_
 28	"	_	,	,	_	-1	_
@@ -62058,7 +62058,7 @@
 6	After	_	P	P	_	5	_
 7	Bullying	_	N	N	_	6	_
 
-1	Rebecca	_	^	^	_	3	MWE
+1	Rebecca	_	^	^	_	5	_
 2	Black	_	^	^	_	3	MWE
 3	Quits	_	^	^	_	4	MWE
 4	Middle	_	^	^	_	5	_
@@ -62546,10 +62546,10 @@
 8	o	_	G	G	_	7	_
 9	que	_	G	G	_	10	_
 10	é	_	G	G	_	11	_
-11	Humilhação	_	^	^	_	8	_
+11	Humilhação	_	^	^	_	0	_
 12	?	_	,	,	_	-1	_
 13	HEIN	_	^	^	_	14	MWE
-14	W.P.M	_	^	^	_	0	_
+14	W.P.M	_	^	^	_	11	_
 15	?	_	,	,	_	-1	_
 
 1	Retail	_	^	^	_	2	MWE
@@ -62731,9 +62731,9 @@
 19	coming	_	V	V	_	18	_
 20	for	_	P	P	_	19	_
 21	them	_	O	O	_	20	_
-22	if	_	P	P	_	24	_
+22	if	_	P	P	_	19	_
 23	they	_	O	O	_	24	_
-24	went	_	V	V	_	0	_
+24	went	_	V	V	_	22	_
 25	outside	_	R	R	_	24	_
 26	.	_	,	,	_	-1	_
 27	#bully	_	#	#	_	-1	_
@@ -62756,7 +62756,7 @@
 16	their	_	D	D	_	17	_
 17	beatdown	_	N	N	_	15	_
 18	they	_	O	O	_	19	_
-19	apologise	_	V	V	_	0	_
+19	apologise	_	V	V	_	17	_
 20	&	_	&	&	_	19	_
 21	hand	_	N	N	_	20	CONJ
 22	over	_	P	P	_	19	_
@@ -62776,7 +62776,7 @@
 8	A	_	D	D	_	10	_
 9	Pillar	_	N	N	_	10	MWE
 10	Mount	_	N	N	_	1	_
-11	$67.47	_	$	$	_	0	_
+11	$67.47	_	$	$	_	10	_
 12	http://bit.ly/qwpC1I	_	U	U	_	-1	_
 
 1	SEPH	_	G	G	_	-1	_
@@ -62932,9 +62932,9 @@
 17	no	_	D	D	_	18	_
 18	PROCON	_	N	N	_	16	_
 19	,	_	,	,	_	-1	_
-20	pq	_	^	^	_	0	_
+20	pq	_	^	^	_	22	_
 21	"	_	,	,	_	-1	_
-22	freguês	_	N	N	_	20	_
+22	freguês	_	N	N	_	0	_
 23	"	_	,	,	_	-1	_
 24	tem	_	G	G	_	25	MWE
 25	sempre	_	G	G	_	0	_
@@ -63415,7 +63415,7 @@
 8	profesional	_	^	^	_	0	_
 9	bgt	_	G	G	_	10	MWE
 10	biasa	_	G	G	_	11	_
-11	siarin	_	G	G	_	13	_
+11	siarin	_	G	G	_	14	_
 12	bola	_	G	G	_	13	_
 13	antarkampung	_	G	G	_	14	_
 14	sih	_	G	G	_	0	_
@@ -63612,8 +63612,8 @@
 2	Pena	_	^	^	_	3	MWE
 3	sofria	_	^	^	_	4	_
 4	bullying	_	V	V	_	0	_
-5	no	_	D	D	_	6	_
-6	galinheiro	_	N	N	_	7	_
+5	no	_	D	D	_	7	_
+6	galinheiro	_	N	N	_	4	_
 7	e	_	N	N	_	4	_
 8	,	_	,	,	_	-1	_
 9	agora	_	^	^	_	0	_
@@ -63711,7 +63711,7 @@
 5	up	_	T	T	_	4	MWE
 6	with	_	P	P	_	5	_
 7	everyone	_	N	N	_	6	_
-8	calling	_	V	V	_	0	_
+8	calling	_	V	V	_	6	_
 9	me	_	O	O	_	8	_
 10	a	_	D	D	_	11	_
 11	bully	_	N	N	_	8	_
@@ -63740,7 +63740,7 @@
 14	de	_	^	^	_	17	_
 15	50%	_	$	$	_	17	_
 16	dos	_	N	N	_	17	_
-17	bras	_	N	N	_	8	_
+17	bras	_	N	N	_	10	_
 18	.	_	,	,	_	-1	_
 19	fazem	_	G	G	_	0	_
 20	bulling	_	V	V	_	0	_
@@ -63902,9 +63902,9 @@
 8	y	_	R	R	_	5	_
 9	hasta	_	A	A	_	10	_
 10	bully	_	N	N	_	11	MWE
-11	con	_	N	N	_	7	_
+11	con	_	N	N	_	8	_
 12	mi	_	D	D	_	13	_
-13	hermano	_	N	N	_	7	_
+13	hermano	_	N	N	_	11	_
 14	,	_	,	,	_	-1	_
 15	pero	_	R	R	_	0	_
 16	le	_	G	G	_	17	_
@@ -63971,7 +63971,7 @@
 15	shirts	_	N	N	_	12	_
 16	since	_	P	P	_	12	_
 17	the	_	D	D	_	20	_
-18	bully	_	N	N	_	20	_
+18	bully	_	N	N	_	16	_
 19	bully	_	N	N	_	20	_
 20	days	_	N	N	_	12	_
 21	when	_	R	R	_	23	_
@@ -64003,7 +64003,7 @@
 1	Simplemente	_	^	^	_	2	MWE
 2	si	_	^	^	_	4	_
 3	no	_	!	!	_	0	_
-4	quieres	_	N	N	_	0	_
+4	quieres	_	N	N	_	5	_
 5	que	_	G	G	_	6	MWE
 6	te	_	G	G	_	7	_
 7	insulten	_	G	G	_	0	_
@@ -64087,12 +64087,12 @@
 10	eu	_	G	G	_	11	MWE
 11	tenho	_	G	G	_	12	_
 12	dó	_	G	G	_	13	_
-13	de	_	G	G	_	16	_
+13	de	_	G	G	_	14	_
 14	ver	_	G	G	_	18	_
 15	mais	_	G	G	_	18	_
-16	são	_	G	G	_	18	_
+16	são	_	G	G	_	0	_
 17	pessoas	_	G	G	_	21	_
-18	chatas	_	G	G	_	21	_
+18	chatas	_	G	G	_	0	_
 19	mais	_	G	G	_	21	_
 20	que	_	G	G	_	21	_
 21	mereçem	_	G	G	_	0	_
@@ -64323,7 +64323,7 @@
 2	bored	_	A	A	_	1	_
 3	right	_	R	R	_	5	_
 4	now	_	R	R	_	5	_
-5	watchin	_	V	V	_	0	_
+5	watchin	_	V	V	_	1	_
 6	Bully	_	N	N	_	7	MWE
 7	Beatdown	_	N	N	_	5	_
 8	♪	_	,	,	_	-1	_
@@ -64676,9 +64676,9 @@
 10	development	_	N	N	_	0	_
 11	,	_	,	,	_	-1	_
 12	sok	_	^	^	_	13	MWE
-13	tajir	_	^	^	_	10	_
+13	tajir	_	^	^	_	0	_
 14	,	_	,	,	_	-1	_
-15	Bully	_	N	N	_	0	_
+15	Bully	_	N	N	_	13	_
 16	!!	_	,	,	_	-1	_
 17	#hukumtwit	_	#	#	_	-1	_
 
@@ -64734,10 +64734,10 @@
 14	be	_	V	V	_	13	_
 15	bought	_	V	V	_	14	_
 16	,	_	,	,	_	-1	_
-17	bullied	_	V	V	_	0	_
+17	bullied	_	V	V	_	20	CONJ
 18	,	_	,	,	_	-1	_
-19	reasoned	_	A	A	_	20	CONJ
-20	or	_	&	&	_	17	_
+19	reasoned	_	A	A	_	17	_
+20	or	_	&	&	_	0	_
 21	negotiate	_	V	V	_	20	CONJ
 22	with	_	P	P	_	21	_
 23	.	_	,	,	_	-1	_
@@ -64757,7 +64757,7 @@
 10	get	_	V	V	_	13	CONJ
 11	a	_	D	D	_	12	_
 12	life	_	N	N	_	10	_
-13	and	_	&	&	_	0	_
+13	and	_	&	&	_	9	COORD
 14	stop	_	V	V	_	13	CONJ
 15	bullying	_	V	V	_	14	_
 16	people	_	N	N	_	15	_
@@ -64816,7 +64816,7 @@
 12	.	_	,	,	_	-1	_
 
 1	Son	_	^	^	_	2	MWE
-2	mas	_	^	^	_	5	MWE
+2	mas	_	^	^	_	3	MWE
 3	fomes	_	^	^	_	5	MWE
 4	estos	_	^	^	_	5	MWE
 5	wns	_	^	^	_	11	_
@@ -64896,12 +64896,12 @@
 21	#foreverloser	_	#	#	_	-1	_
 
 1	Soy	_	A	A	_	2	_
-2	víctima	_	N	N	_	0	_
+2	víctima	_	N	N	_	4	_
 3	de	_	P	P	_	2	_
-4	bullying	_	V	V	_	3	_
+4	bullying	_	V	V	_	0	_
 5	por	_	G	G	_	6	_
-6	estos	_	G	G	_	3	_
-7	5	_	$	$	_	0	_
+6	estos	_	G	G	_	4	_
+7	5	_	$	$	_	4	_
 8	:/	_	E	E	_	-1	_
 9	http://lockerz.com/s/127029540	_	U	U	_	-1	_
 
@@ -64979,7 +64979,7 @@
 17	all	_	D	D	_	18	_
 18	6	_	$	$	_	19	_
 19	of	_	P	P	_	21	_
-20	us	_	O	O	_	21	_
+20	us	_	O	O	_	19	_
 21	lived	_	V	V	_	25	CONJ
 22	under	_	P	P	_	21	_
 23	one	_	$	$	_	24	_
@@ -65075,7 +65075,7 @@
 7	aged	_	V	V	_	3	_
 8	16-18	_	$	$	_	7	_
 9	who	_	O	O	_	10	_
-10	have	_	V	V	_	7	_
+10	have	_	V	V	_	0	_
 11	you	_	O	O	_	12	_
 12	experienced	_	V	V	_	15	CONJ
 13	homophobic	_	A	A	_	14	_
@@ -65116,9 +65116,9 @@
 10	bullying	_	V	V	_	9	_
 11	them	_	O	O	_	10	_
 12	.	_	,	,	_	-1	_
-13	Instead	_	R	R	_	10	_
+13	Instead	_	R	R	_	0	_
 14	,	_	,	,	_	-1	_
-15	talk	_	V	V	_	0	_
+15	talk	_	V	V	_	13	_
 16	to	_	P	P	_	15	_
 17	someone	_	N	N	_	16	_
 18	about	_	P	P	_	17	_
@@ -65168,8 +65168,8 @@
 18	You	_	O	O	_	19	_
 19	judge	_	V	V	_	0	_
 20	,	_	,	,	_	-1	_
-21	cuz	_	P	P	_	22	_
-22	u	_	O	O	_	19	_
+21	cuz	_	P	P	_	0	_
+22	u	_	O	O	_	21	_
 23	(	_	,	,	_	-1	_
 24	cont	_	~	~	_	-1	_
 25	)	_	,	,	_	-1	_
@@ -65280,11 +65280,11 @@
 10	I	_	O	O	_	11	_
 11	wonder	_	V	V	_	0	_
 12	if	_	P	P	_	11	_
-13	NJ's	_	Z	Z	_	12	_
+13	NJ's	_	Z	Z	_	16	_
 14	new	_	A	A	_	16	_
 15	bullying	_	N	N	_	16	MWE
 16	policy	_	N	N	_	17	_
-17	cover	_	V	V	_	0	_
+17	cover	_	V	V	_	12	_
 18	this	_	O	O	_	17	_
 
 1	Sufro	_	^	^	_	2	_
@@ -65315,9 +65315,9 @@
 11	our	_	D	D	_	12	_
 12	age	_	N	N	_	8	_
 13	.	_	,	,	_	-1	_
-14	Stop	_	V	V	_	0	_
+14	Stop	_	V	V	_	16	CONJ
 15	bullying	_	N	N	_	14	_
-16	&	_	&	&	_	15	_
+16	&	_	&	&	_	11	_
 17	judging	_	V	V	_	16	CONJ
 18	.	_	,	,	_	-1	_
 19	Love	_	V	V	_	0	_
@@ -65444,11 +65444,11 @@
 4	77%	_	$	$	_	6	_
 5	of	_	P	P	_	4	_
 6	students	_	N	N	_	7	_
-7	are	_	V	V	_	13	CONJ
+7	are	_	V	V	_	14	CONJ
 8	bullied	_	V	V	_	7	_
 9	mentally	_	R	R	_	8	_
 10	,	_	,	,	_	-1	_
-11	verbally	_	R	R	_	7	_
+11	verbally	_	R	R	_	13	CONJ
 12	,	_	,	,	_	-1	_
 13	&	_	&	&	_	14	MWE
 14	physically	_	R	R	_	0	_
@@ -65670,7 +65670,7 @@
 16	?	_	,	,	_	-1	_
 17	A	_	D	D	_	22	_
 18	bully	_	N	N	_	19	CONJ
-19	&	_	&	&	_	15	_
+19	&	_	&	&	_	10	_
 20	Just	_	R	R	_	22	_
 21	@diggysimmons	_	@	@	_	22	_
 22	dad	_	N	N	_	19	CONJ
@@ -65996,7 +65996,7 @@
 4	Denounce	_	V	V	_	1	_
 5	anti-	_	N	N	_	6	_
 6	#gay	_	N	N	_	4	_
-7	bullying	_	V	V	_	4	_
+7	bullying	_	V	V	_	6	_
 8	in	_	P	P	_	7	_
 9	your	_	D	D	_	10	_
 10	district	_	N	N	_	8	_
@@ -66012,7 +66012,7 @@
 4	Denounce	_	V	V	_	1	_
 5	anti-	_	N	N	_	6	_
 6	#gay	_	N	N	_	4	_
-7	bullying	_	V	V	_	4	_
+7	bullying	_	V	V	_	6	_
 8	in	_	P	P	_	7	_
 9	your	_	D	D	_	10	_
 10	district	_	N	N	_	8	_
@@ -66044,7 +66044,7 @@
 4	Denounce	_	V	V	_	1	_
 5	anti-	_	N	N	_	6	_
 6	#gay	_	N	N	_	4	_
-7	bullying	_	V	V	_	6	_
+7	bullying	_	V	V	_	4	_
 8	in	_	P	P	_	7	_
 9	your	_	D	D	_	10	_
 10	district	_	N	N	_	8	_
@@ -66060,7 +66060,7 @@
 4	Denounce	_	V	V	_	1	_
 5	anti-	_	N	N	_	6	_
 6	#gay	_	N	N	_	4	_
-7	bullying	_	V	V	_	4	_
+7	bullying	_	V	V	_	6	_
 8	in	_	P	P	_	7	_
 9	your	_	D	D	_	10	_
 10	district	_	N	N	_	8	_
@@ -66076,7 +66076,7 @@
 4	Denounce	_	V	V	_	1	_
 5	anti-	_	N	N	_	6	_
 6	#gay	_	N	N	_	4	_
-7	bullying	_	V	V	_	4	_
+7	bullying	_	V	V	_	6	_
 8	in	_	P	P	_	7	_
 9	your	_	D	D	_	10	_
 10	district	_	N	N	_	8	_
@@ -66092,7 +66092,7 @@
 4	Denounce	_	V	V	_	1	_
 5	anti-	_	N	N	_	6	_
 6	#gay	_	N	N	_	4	_
-7	bullying	_	V	V	_	6	_
+7	bullying	_	V	V	_	4	_
 8	in	_	P	P	_	7	_
 9	your	_	D	D	_	10	_
 10	district	_	N	N	_	8	_
@@ -66108,7 +66108,7 @@
 4	Denounce	_	V	V	_	1	_
 5	anti-	_	N	N	_	6	_
 6	#gay	_	N	N	_	4	_
-7	bullying	_	V	V	_	6	_
+7	bullying	_	V	V	_	4	_
 8	in	_	P	P	_	7	_
 9	your	_	D	D	_	10	_
 10	district	_	N	N	_	8	_
@@ -66125,7 +66125,7 @@
 5	Denounce	_	V	V	_	1	_
 6	anti-	_	N	N	_	7	_
 7	#gay	_	N	N	_	8	_
-8	bullying	_	V	V	_	5	_
+8	bullying	_	V	V	_	0	_
 9	in	_	P	P	_	8	_
 10	your	_	D	D	_	11	_
 11	district	_	N	N	_	9	_
@@ -66300,11 +66300,11 @@
 9	dodge	_	V	V	_	6	_
 10	a	_	D	D	_	11	_
 11	bullied	_	A	A	_	9	_
-12	so	_	R	R	_	1	_
+12	so	_	R	R	_	11	_
 13	over	_	P	P	_	9	_
 14	u	_	O	O	_	13	_
 15	good	_	A	A	_	13	_
-16	looking	_	V	V	_	12	_
+16	looking	_	V	V	_	19	_
 17	out	_	T	T	_	16	MWE
 18	Lmao	_	!	!	_	0	_
 19	so	_	P	P	_	0	_
@@ -66514,7 +66514,7 @@
 4	PINK	_	A	A	_	5	_
 5	CAMPAIGN	_	N	N	_	3	_
 6	"	_	,	,	_	-1	_
-7	for	_	P	P	_	5	_
+7	for	_	P	P	_	3	_
 8	Self	_	N	N	_	9	_
 9	Love	_	N	N	_	7	_
 10	,	_	,	,	_	-1	_
@@ -66526,7 +66526,7 @@
 16	,	_	,	,	_	-1	_
 17	and	_	&	&	_	0	_
 18	NOH8	_	^	^	_	19	_
-19	COMIN	_	V	V	_	17	CONJ
+19	COMIN	_	V	V	_	0	_
 20	SOON	_	R	R	_	19	_
 21	!!!!!!!	_	,	,	_	-1	_
 22	#TEAMISP	_	#	#	_	-1	_
@@ -66607,9 +66607,9 @@
 15	Speccy	_	A	A	_	18	_
 16	the	_	D	D	_	17	_
 17	beautiful	_	A	A	_	18	_
-18	underdog	_	N	N	_	0	_
-19	with	_	P	P	_	18	_
-20	its	_	L	L	_	19	_
+18	underdog	_	N	N	_	19	_
+19	with	_	P	P	_	20	_
+20	its	_	L	L	_	0	_
 21	charming	_	A	A	_	23	_
 22	colour	_	N	N	_	23	_
 23	clash	_	N	N	_	19	_
@@ -66674,7 +66674,7 @@
 10	1	_	$	$	_	9	MWE
 11	:	_	,	,	_	-1	_
 12	The	_	D	D	_	13	_
-13	Section	_	N	N	_	0	_
+13	Section	_	N	N	_	10	_
 14	of	_	P	P	_	13	_
 15	State	_	^	^	_	16	CONJ
 16	and	_	&	&	_	14	_
@@ -67252,7 +67252,7 @@
 9	loved	_	V	V	_	7	_
 10	me	_	O	O	_	9	_
 11	,	_	,	,	_	-1	_
-12	but	_	&	&	_	1	_
+12	but	_	&	&	_	0	_
 13	he	_	O	O	_	14	_
 14	prooved	_	V	V	_	12	CONJ
 15	I	_	O	O	_	16	_
@@ -67430,9 +67430,9 @@
 32	...	_	~	~	_	-1	_
 
 1	Thinking	_	V	V	_	0	_
-2	how	_	R	R	_	1	_
+2	how	_	R	R	_	4	_
 3	I	_	O	O	_	4	_
-4	get	_	V	V	_	2	_
+4	get	_	V	V	_	1	_
 5	betrayed	_	V	V	_	6	CONJ
 6	and	_	&	&	_	4	_
 7	bullied	_	V	V	_	6	CONJ
@@ -67556,7 +67556,7 @@
 7	on	_	P	P	_	4	_
 8	this	_	O	O	_	7	_
 9	here	_	R	R	_	4	_
-10	twitter	_	^	^	_	8	_
+10	twitter	_	^	^	_	9	_
 11	.	_	,	,	_	-1	_
 12	Tryna	_	V	V	_	0	_
 13	cyber-bully	_	V	V	_	12	_
@@ -67947,7 +67947,7 @@
 10	Sims	_	^	^	_	8	_
 11	,	_	,	,	_	-1	_
 12	vou	_	G	G	_	13	_
-13	sofrer	_	G	G	_	15	_
+13	sofrer	_	G	G	_	16	_
 14	bullying	_	V	V	_	0	_
 15	por	_	G	G	_	14	_
 16	isso	_	G	G	_	14	_
@@ -68183,7 +68183,7 @@
 14	,	_	,	,	_	-1	_
 15	não	_	G	G	_	16	_
 16	posso	_	G	G	_	0	_
-17	trabalhar	_	V	V	_	0	_
+17	trabalhar	_	V	V	_	16	_
 18	em	_	O	O	_	19	_
 19	supermercado	_	V	V	_	0	_
 20	em	_	O	O	_	19	_
@@ -68484,15 +68484,15 @@
 16	se	_	G	G	_	17	_
 17	iluda	_	^	^	_	0	_
 18	,	_	,	,	_	-1	_
-19	o	_	P	P	_	0	_
+19	o	_	P	P	_	17	_
 20	enem	_	G	G	_	22	_
 21	nunca	_	G	G	_	22	_
-22	aborda	_	G	G	_	19	_
+22	aborda	_	G	G	_	0	_
 23	temas	_	G	G	_	22	_
 24	óbvios	_	N	N	_	23	_
 25	!	_	,	,	_	-1	_
-26	É	_	G	G	_	0	_
-27	sempre	_	G	G	_	26	_
+26	É	_	G	G	_	27	_
+27	sempre	_	G	G	_	0	_
 28	assim	_	G	G	_	27	_
 29	..	_	,	,	_	-1	_
 
@@ -68578,7 +68578,7 @@
 
 1	Todo	_	^	^	_	0	_
 2	o	_	P	P	_	1	_
-3	santo	_	^	^	_	5	MWE
+3	santo	_	^	^	_	6	MWE
 4	recreio	_	^	^	_	5	MWE
 5	toca	_	^	^	_	6	MWE
 6	castelhana	_	^	^	_	2	_
@@ -68592,14 +68592,14 @@
 14	sei	_	G	G	_	15	_
 15	cantar	_	G	G	_	0	_
 16	)	_	,	,	_	-1	_
-17	mas	_	^	^	_	19	MWE
+17	mas	_	^	^	_	0	_
 18	as	_	P	P	_	17	_
-19	pessoas	_	^	^	_	22	MWE
-20	não	_	^	^	_	18	_
-21	gostam	_	^	^	_	22	MWE
+19	pessoas	_	^	^	_	20	MWE
+20	não	_	^	^	_	21	MWE
+21	gostam	_	^	^	_	18	_
 22	que	_	^	^	_	23	MWE
 23	eu	_	^	^	_	24	MWE
-24	cante	_	^	^	_	0	_
+24	cante	_	^	^	_	21	_
 25	'	_	,	,	_	-1	_
 26	HASUH	_	^	^	_	24	_
 27	#ÉBULLING	_	#	#	_	-1	_
@@ -68812,7 +68812,7 @@
 19	cú	_	G	G	_	17	_
 20	?	_	,	,	_	-1	_
 21	Me	_	O	O	_	22	_
-22	poupem	_	R	R	_	0	_
+22	poupem	_	R	R	_	16	_
 23	.	_	,	,	_	-1	_
 
 1	Tuesday	_	^	^	_	2	_
@@ -68902,8 +68902,8 @@
 8	i	_	O	O	_	9	_
 9	miss	_	V	V	_	7	CONJ
 10	@Ms_Zubrina	_	@	@	_	9	_
-11	shez	_	L	L	_	9	_
-12	such	_	A	A	_	11	_
+11	shez	_	L	L	_	0	_
+12	such	_	A	A	_	14	_
 13	a	_	D	D	_	14	_
 14	bully	_	N	N	_	11	_
 15	!	_	,	,	_	-1	_
@@ -68918,8 +68918,8 @@
 5	a	_	D	D	_	8	_
 6	Katy	_	^	^	_	7	MWE
 7	E	_	^	^	_	8	_
-8	com	_	N	N	_	0	_
-9	o	_	P	P	_	8	_
+8	com	_	N	N	_	3	_
+9	o	_	P	P	_	3	_
 10	Lil	_	^	^	_	11	MWE
 11	Wayne	_	^	^	_	9	_
 12	?	_	,	,	_	-1	_
@@ -69053,7 +69053,7 @@
 5	over	_	P	P	_	3	_
 6	:(	_	E	E	_	-1	_
 7	I	_	O	O	_	8	_
-8	don't	_	V	V	_	5	_
+8	don't	_	V	V	_	0	_
 9	wanna	_	V	V	_	8	_
 10	go	_	V	V	_	13	CONJ
 11	to	_	P	P	_	10	_
@@ -69311,7 +69311,7 @@
 24	,	_	,	,	_	-1	_
 25	&	_	&	&	_	0	_
 26	B	_	N	N	_	27	_
-27	was	_	V	V	_	0	_
+27	was	_	V	V	_	25	CONJ
 28	on	_	P	P	_	27	_
 29	top	_	N	N	_	28	_
 30	.	_	,	,	_	-1	_
@@ -69365,9 +69365,9 @@
 9	e	_	V	V	_	0	_
 10	II	_	O	O	_	9	_
 11	,	_	,	,	_	-1	_
-12	GRID	_	N	N	_	14	MWE
+12	GRID	_	N	N	_	0	_
 13	,	_	,	,	_	-1	_
-14	FIFA	_	^	^	_	0	_
+14	FIFA	_	^	^	_	12	_
 15	11	_	$	$	_	14	MWE
 16	,	_	,	,	_	-1	_
 17	Batman	_	^	^	_	21	_
@@ -69625,8 +69625,8 @@
 4	de	_	P	P	_	3	_
 5	biscoito	_	^	^	_	4	_
 6	de	_	P	P	_	5	_
-7	polvilho	_	G	G	_	6	_
-8	e	_	G	G	_	7	_
+7	polvilho	_	G	G	_	8	_
+8	e	_	G	G	_	6	_
 9	sofri	_	G	G	_	8	_
 10	bulling	_	V	V	_	0	_
 11	u_u	_	E	E	_	-1	_
@@ -69670,8 +69670,8 @@
 12	corporal	_	^	^	_	13	MWE
 13	e	_	^	^	_	14	MWE
 14	tentativa	_	^	^	_	9	_
-15	de	_	P	P	_	9	_
-16	homicidio	_	N	N	_	15	_
+15	de	_	P	P	_	16	_
+16	homicidio	_	N	N	_	0	_
 
 1	Víctima	_	^	^	_	2	MWE
 2	de	_	^	^	_	3	_
@@ -70055,14 +70055,14 @@
 8	Strong	_	A	A	_	11	_
 9	.	_	,	,	_	-1	_
 10	Great	_	A	A	_	11	_
-11	movie	_	N	N	_	1	_
-12	to	_	P	P	_	1	_
-13	watch	_	V	V	_	18	CONJ
+11	movie	_	N	N	_	18	CONJ
+12	to	_	P	P	_	11	_
+13	watch	_	V	V	_	12	_
 14	with	_	P	P	_	13	_
 15	your	_	D	D	_	17	_
 16	younger	_	A	A	_	17	_
 17	daughter	_	N	N	_	14	_
-18	&	_	&	&	_	12	_
+18	&	_	&	&	_	0	_
 19	talk	_	V	V	_	18	CONJ
 20	about	_	P	P	_	19	_
 21	bullying	_	N	N	_	20	_
@@ -70178,9 +70178,9 @@
 8	economy	_	N	N	_	4	_
 9	.	_	,	,	_	-1	_
 10	S&P	_	N	N	_	11	_
-11	bitch-slaps	_	N	N	_	12	_
-12	Obozo	_	^	^	_	0	_
-13	for	_	P	P	_	3	_
+11	bitch-slaps	_	N	N	_	0	_
+12	Obozo	_	^	^	_	11	_
+13	for	_	P	P	_	11	_
 14	trying	_	V	V	_	13	_
 15	to	_	P	P	_	14	_
 16	bully	_	V	V	_	15	_
@@ -70310,8 +70310,8 @@
 11	:	_	,	,	_	-1	_
 12	http://t.co/43WZVFD	_	U	U	_	-1	_
 
-1	What	_	O	O	_	0	_
-2	happened	_	V	V	_	1	_
+1	What	_	O	O	_	2	_
+2	happened	_	V	V	_	0	_
 3	to	_	P	P	_	2	_
 4	all	_	X	X	_	6	_
 5	those	_	D	D	_	6	_
@@ -70484,7 +70484,7 @@
 6	Eat	_	^	^	_	7	_
 7	paste	_	N	N	_	9	CONJ
 8	"	_	,	,	_	-1	_
-9	AND	_	&	&	_	1	_
+9	AND	_	&	&	_	0	_
 10	you	_	O	O	_	11	_
 11	forgot	_	V	V	_	9	CONJ
 12	to	_	P	P	_	11	_
@@ -70537,13 +70537,13 @@
 13	..	_	,	,	_	-1	_
 14	Now	_	R	R	_	16	_
 15	he's	_	L	L	_	0	_
-16	the	_	D	D	_	17	_
+16	the	_	D	D	_	19	_
 17	neighborhood	_	N	N	_	19	MWE
 18	twitter	_	^	^	_	19	_
 19	bully	_	N	N	_	15	_
 20	lol	_	!	!	_	0	_
 
-1	Whether	_	P	P	_	0	_
+1	Whether	_	P	P	_	8	CONJ
 2	life's	_	L	L	_	0	_
 3	disabilities	_	N	N	_	2	_
 4	left	_	V	V	_	2	_
@@ -70553,7 +70553,7 @@
 8	or	_	&	&	_	6	_
 9	teased	_	V	V	_	8	CONJ
 10	rejoice	_	V	V	_	11	CONJ
-11	and	_	&	&	_	9	_
+11	and	_	&	&	_	0	_
 12	love	_	V	V	_	11	CONJ
 13	yourself	_	O	O	_	12	_
 14	today	_	N	N	_	12	_
@@ -70605,7 +70605,7 @@
 9	The	_	D	D	_	10	_
 10	Other	_	A	A	_	11	_
 11	One	_	$	$	_	12	_
-12	Is	_	V	V	_	0	_
+12	Is	_	V	V	_	8	_
 13	Trying	_	V	V	_	12	_
 14	To	_	P	P	_	13	_
 15	Call	_	V	V	_	14	_
@@ -70684,7 +70684,7 @@
 2	Do	_	V	V	_	0	_
 3	People	_	N	N	_	2	_
 4	Bully	_	N	N	_	2	_
-5	http://twrt.me/c18eb	_	U	U	_	3	_
+5	http://twrt.me/c18eb	_	U	U	_	4	_
 6	via	_	P	P	_	2	_
 7	@JuneBlessings13	_	@	@	_	-1	_
 
@@ -70744,7 +70744,7 @@
 6	on	_	P	P	_	2	_
 7	bully	_	N	N	_	8	_
 8	beatdown	_	N	N	_	6	_
-9	think	_	V	V	_	2	_
+9	think	_	V	V	_	0	_
 10	they	_	O	O	_	11	_
 11	can	_	V	V	_	9	_
 12	win	_	V	V	_	11	_
@@ -70772,8 +70772,8 @@
 19	that	_	D	D	_	20	_
 20	place	_	N	N	_	18	_
 21	.	_	,	,	_	-1	_
-22	More	_	A	A	_	23	_
-23	like	_	P	P	_	0	_
+22	More	_	A	A	_	0	_
+23	like	_	P	P	_	22	_
 24	super	_	R	R	_	25	_
 25	RATCHET	_	A	A	_	26	_
 26	club	_	N	N	_	23	_
@@ -71131,11 +71131,11 @@
 18	aj	_	^	^	_	0	_
 19	dia	_	G	G	_	18	MWE
 20	ngaca	_	G	G	_	24	MWE
-21	dia	_	G	G	_	24	_
-22	sendiri	_	G	G	_	24	MWE
-23	sempurna	_	G	G	_	24	_
-24	apa	_	G	G	_	0	_
-25	ngga	_	G	G	_	24	MWE
+21	dia	_	G	G	_	25	MWE
+22	sendiri	_	G	G	_	25	_
+23	sempurna	_	G	G	_	25	MWE
+24	apa	_	G	G	_	25	_
+25	ngga	_	G	G	_	0	_
 26	!!!	_	,	,	_	-1	_
 
 1	Yahoo	_	^	^	_	2	_
@@ -71281,7 +71281,7 @@
 8	dr	_	^	^	_	9	MWE
 9	desta	_	^	^	_	0	_
 10	..	_	,	,	_	-1	_
-11	ampe	_	G	G	_	12	_
+11	ampe	_	G	G	_	14	_
 12	segitunya	_	G	G	_	14	_
 13	semangatnya	_	G	G	_	14	_
 14	memojokkan	_	G	G	_	0	_
@@ -71485,8 +71485,8 @@
 11	gets	_	V	V	_	8	_
 12	bullied	_	V	V	_	11	_
 13	Your	_	D	D	_	14	_
-14	club	_	N	N	_	12	_
-15	get	_	V	V	_	7	_
+14	club	_	N	N	_	15	_
+15	get	_	V	V	_	11	_
 16	bullied	_	V	V	_	15	_
 17	You	_	O	O	_	18	_
 18	get	_	V	V	_	16	_
@@ -71494,7 +71494,7 @@
 20	The	_	D	D	_	22	_
 21	whole	_	A	A	_	22	_
 22	world	_	N	N	_	19	_
-23	get	_	V	V	_	0	_
+23	get	_	V	V	_	12	_
 24	bullied	_	V	V	_	23	_
 
 1	Your	_	D	D	_	2	_
@@ -71750,8 +71750,8 @@
 
 1	a	_	D	D	_	3	_
 2	@fareipert	_	@	@	_	0	_
-3	tá	_	G	G	_	4	_
-4	praticando	_	G	G	_	0	_
+3	tá	_	G	G	_	2	_
+4	praticando	_	G	G	_	3	_
 5	bullying	_	V	V	_	0	_
 6	no	_	D	D	_	9	_
 7	facebook	_	^	^	_	9	MWE
@@ -72044,9 +72044,9 @@
 6	o	_	P	P	_	5	_
 7	bullying	_	N	N	_	6	_
 8	!	_	,	,	_	-1	_
-9	puta	_	G	G	_	13	MWE
-10	vida	_	N	N	_	11	_
-11	fodida	_	P	P	_	0	_
+9	puta	_	G	G	_	0	_
+10	vida	_	N	N	_	9	_
+11	fodida	_	P	P	_	10	_
 12	a	_	D	D	_	15	_
 13	sua	_	G	G	_	14	_
 14	hein	_	G	G	_	15	MWE
@@ -72100,7 +72100,7 @@
 5	Staring	_	V	V	_	0	_
 6	down	_	P	P	_	5	_
 7	the	_	D	D	_	8	_
-8	bully-boys	_	N	N	_	6	_
+8	bully-boys	_	N	N	_	5	_
 
 1	achei	_	^	^	_	3	MWE
 2	alguém	_	^	^	_	3	MWE
@@ -72148,11 +72148,11 @@
 10	entro	_	G	G	_	12	_
 11	por	_	G	G	_	12	_
 12	lá	_	G	G	_	0	_
-13	vem	_	G	G	_	16	_
-14	menos	_	G	G	_	16	MWE
+13	vem	_	G	G	_	12	_
+14	menos	_	G	G	_	13	_
 15	gente	_	G	G	_	16	_
-16	falar	_	G	G	_	0	_
-17	comigo	_	G	G	_	21	_
+16	falar	_	G	G	_	20	_
+17	comigo	_	G	G	_	20	_
 18	...	_	~	~	_	-1	_
 19	é	_	G	G	_	21	_
 20	tão	_	G	G	_	21	_
@@ -72160,8 +72160,8 @@
 22	que	_	G	G	_	25	MWE
 23	prefiro	_	G	G	_	25	MWE
 24	entrar	_	G	G	_	25	MWE
-25	pelo	_	G	G	_	26	_
-26	msn	_	^	^	_	0	_
+25	pelo	_	G	G	_	0	_
+26	msn	_	^	^	_	25	_
 
 1	acho	_	^	^	_	2	MWE
 2	que	_	^	^	_	3	MWE
@@ -72186,9 +72186,9 @@
 
 1	af	_	R	R	_	3	_
 2	que	_	G	G	_	0	_
-3	bullying	_	V	V	_	4	_
+3	bullying	_	V	V	_	0	_
 4	vcs	_	N	N	_	5	_
-5	ficam	_	V	V	_	0	_
+5	ficam	_	V	V	_	3	_
 6	me	_	O	O	_	5	_
 7	dando	_	^	^	_	8	_
 8	unfollow	_	V	V	_	5	_
@@ -72476,11 +72476,11 @@
 3	vou	_	G	G	_	2	MWE
 4	sofrer	_	G	G	_	3	_
 5	bullying	_	V	V	_	0	_
-6	depois	_	N	N	_	5	_
-7	do	_	V	V	_	5	_
+6	depois	_	N	N	_	7	_
+7	do	_	V	V	_	0	_
 8	meu	_	O	O	_	7	_
 9	próximo	_	N	N	_	10	_
-10	tweet	_	V	V	_	7	_
+10	tweet	_	V	V	_	0	_
 
 1	apparently	_	R	R	_	0	_
 2	I'm	_	L	L	_	1	_
@@ -72573,7 +72573,7 @@
 12	,	_	,	,	_	-1	_
 13	estão	_	^	^	_	14	MWE
 14	todos	_	^	^	_	0	_
-15	se	_	G	G	_	16	_
+15	se	_	G	G	_	17	_
 16	bulinando	_	G	G	_	18	_
 17	lá	_	G	G	_	18	_
 18	JDOIASJIODJAODJSOJO	_	G	G	_	0	_
@@ -72599,7 +72599,7 @@
 6	contra	_	^	^	_	7	MWE
 7	mim	_	^	^	_	5	_
 8	,	_	,	,	_	-1	_
-9	vê	_	P	P	_	5	_
+9	vê	_	P	P	_	0	_
 10	se	_	G	G	_	9	_
 11	pode	_	G	G	_	-1	_
 
@@ -72677,7 +72677,7 @@
 15	feinho	_	G	G	_	13	_
 16	://	_	E	E	_	-1	_
 
-1	ball	_	N	N	_	9	CONJ
+1	ball	_	N	N	_	0	_
 2	,	_	,	,	_	-1	_
 3	he's	_	L	L	_	0	_
 4	pretty	_	R	R	_	5	_
@@ -72754,17 +72754,17 @@
 22	a	_	D	D	_	24	_
 23	second	_	A	A	_	24	_
 24	chance	_	N	N	_	20	_
-25	for	_	P	P	_	24	_
+25	for	_	P	P	_	20	_
 26	nothing	_	N	N	_	25	_
 27	!	_	,	,	_	-1	_
 
 1	biar	_	G	G	_	-1	_
-2	itu	_	G	G	_	6	_
-3	club	_	N	N	_	0	_
+2	itu	_	G	G	_	0	_
+3	club	_	N	N	_	2	_
 4	yg	_	,	,	_	-1	_
 5	sangat	_	G	G	_	6	MWE
-6	gak	_	G	G	_	0	_
-7	saya	_	G	G	_	6	MWE
+6	gak	_	G	G	_	7	MWE
+7	saya	_	G	G	_	0	_
 8	sukai	_	N	N	_	7	_
 9	,	_	,	,	_	-1	_
 10	tp	_	G	G	_	11	MWE
@@ -72814,7 +72814,7 @@
 25	feel	_	V	V	_	0	_
 26	sorry	_	A	A	_	25	_
 27	just	_	R	R	_	28	_
-28	imagining	_	V	V	_	0	_
+28	imagining	_	V	V	_	25	_
 29	it	_	O	O	_	28	_
 
 1	bit.ly/9sQiZi	_	U	U	_	-1	_
@@ -72835,7 +72835,7 @@
 16	tired	_	A	A	_	15	_
 17	of	_	P	P	_	16	_
 18	facebook	_	^	^	_	19	_
-19	bitches	_	N	N	_	17	_
+19	bitches	_	N	N	_	20	_
 20	bullying	_	V	V	_	26	CONJ
 21	me	_	O	O	_	20	_
 22	so	_	R	R	_	0	_
@@ -72858,7 +72858,7 @@
 9	cry	_	V	V	_	10	CONJ
 10	&	_	&	&	_	8	_
 11	cry	_	V	V	_	10	CONJ
-12	forever	_	R	R	_	10	COORD
+12	forever	_	R	R	_	8	_
 13	their	_	D	D	_	14	_
 14	bullying	_	V	V	_	11	_
 15	me	_	O	O	_	14	_
@@ -73023,7 +73023,7 @@
 
 1	bullying	_	V	V	_	0	_
 2	é	_	G	G	_	1	_
-3	o	_	G	G	_	2	_
+3	o	_	G	G	_	4	_
 4	oq	_	G	G	_	5	_
 5	passa	_	G	G	_	6	MWE
 6	o	_	G	G	_	0	_
@@ -73061,7 +73061,7 @@
 3	a	_	D	D	_	4	_
 4	bully	_	N	N	_	2	_
 5	anyway	_	R	R	_	4	_
-6	so	_	P	P	_	4	_
+6	so	_	P	P	_	0	_
 7	i	_	O	O	_	8	_
 8	have	_	V	V	_	6	_
 9	no	_	D	D	_	10	_
@@ -73110,7 +73110,7 @@
 5	com	_	N	N	_	6	_
 6	a(o	_	N	N	_	4	_
 7	)	_	,	,	_	-1	_
-8	pereirão	_	N	N	_	4	_
+8	pereirão	_	N	N	_	0	_
 9	DDDDDDDD:	_	E	E	_	-1	_
 
 1	can	_	V	V	_	0	_
@@ -73189,8 +73189,8 @@
 5	sekolahan	_	G	G	_	4	_
 6	bully	_	N	N	_	7	_
 7	anjir	_	G	G	_	8	_
-8	asik	_	G	G	_	0	_
-9	pisan	_	G	G	_	8	MWE
+8	asik	_	G	G	_	9	MWE
+9	pisan	_	G	G	_	0	_
 10	!	_	,	,	_	-1	_
 
 1	coitado	_	^	^	_	2	_
@@ -73279,12 +73279,12 @@
 9	ALUMNOS	_	^	^	_	11	MWE
 10	QUEDAN	_	^	^	_	11	MWE
 11	EXPULSADOS	_	^	^	_	12	_
-12	y	_	R	R	_	5	_
+12	y	_	R	R	_	1	_
 13	eso	_	G	G	_	14	_
 14	que	_	G	G	_	15	_
-15	trabajo	_	G	G	_	18	MWE
+15	trabajo	_	G	G	_	19	MWE
 16	en	_	G	G	_	18	MWE
-17	un	_	G	G	_	18	_
+17	un	_	G	G	_	19	MWE
 18	colegio	_	G	G	_	0	_
 19	MUY	_	G	G	_	18	_
 20	GRANDE	_	^	^	_	21	MWE
@@ -73347,7 +73347,7 @@
 
 1	cuidado	_	V	V	_	0	_
 2	em	_	O	O	_	1	_
-3	garota	_	G	G	_	1	_
+3	garota	_	G	G	_	2	_
 4	isso	_	G	G	_	3	MWE
 5	é	_	G	G	_	4	_
 6	bulling	_	V	V	_	0	_
@@ -73673,8 +73673,8 @@
 2	com	_	N	N	_	7	_
 3	saudade	_	G	G	_	4	_
 4	até	_	G	G	_	5	_
-5	de	_	G	G	_	6	_
-6	fazer	_	G	G	_	0	_
+5	de	_	G	G	_	0	_
+6	fazer	_	G	G	_	5	_
 7	bullying	_	V	V	_	0	_
 8	com	_	N	N	_	7	_
 9	a	_	D	D	_	11	_
@@ -73723,7 +73723,7 @@
 3	bullying	_	V	V	_	0	_
 4	na	_	P	P	_	3	_
 5	escola	_	G	G	_	6	MWE
-6	por	_	G	G	_	3	_
+6	por	_	G	G	_	4	_
 7	@luuana_silvaa	_	@	@	_	6	_
 8	kkkkk	_	!	!	_	0	_
 
@@ -73756,7 +73756,7 @@
 
 1	eu	_	^	^	_	3	MWE
 2	cometendo	_	^	^	_	3	MWE
-3	atos	_	^	^	_	0	_
+3	atos	_	^	^	_	5	_
 4	de	_	P	P	_	5	_
 5	bullying	_	V	V	_	0	_
 
@@ -73965,9 +73965,9 @@
 20	.	_	,	,	_	-1	_
 21	Not	_	R	R	_	22	_
 22	sure	_	A	A	_	0	_
-23	what	_	O	O	_	0	_
+23	what	_	O	O	_	25	_
 24	2	_	P	P	_	25	_
-25	do	_	V	V	_	23	_
+25	do	_	V	V	_	22	_
 26	@cruzinruby	_	@	@	_	-1	_
 
 1	feels	_	V	V	_	0	_
@@ -74078,11 +74078,11 @@
 10	hay	_	N	N	_	9	_
 11	lugar	_	G	G	_	0	_
 12	.	_	,	,	_	-1	_
-13	Si	_	^	^	_	15	MWE
-14	ese	_	^	^	_	15	MWE
+13	Si	_	^	^	_	18	MWE
+14	ese	_	^	^	_	19	MWE
 15	tema	_	^	^	_	19	MWE
 16	salía	_	^	^	_	19	MWE
-17	un	_	^	^	_	19	MWE
+17	un	_	^	^	_	18	MWE
 18	tiempo	_	^	^	_	19	MWE
 19	antes	_	^	^	_	0	_
 20	,	_	,	,	_	-1	_
@@ -74172,8 +74172,8 @@
 11	ja	_	G	G	_	12	_
 12	sabem	_	G	G	_	13	_
 13	o	_	G	G	_	14	_
-14	que	_	G	G	_	15	_
-15	fazer	_	G	G	_	0	_
+14	que	_	G	G	_	0	_
+15	fazer	_	G	G	_	14	_
 16	Bully	_	V	V	_	0	_
 17	corretivo	_	R	R	_	16	_
 
@@ -74221,8 +74221,8 @@
 2	eu	_	^	^	_	3	MWE
 3	ja	_	^	^	_	4	MWE
 4	tive	_	^	^	_	5	MWE
-5	cabelo	_	^	^	_	0	_
-6	de	_	P	P	_	5	MWE
+5	cabelo	_	^	^	_	7	MWE
+6	de	_	P	P	_	0	_
 7	cleopatra	_	^	^	_	8	_
 8	com	_	N	N	_	6	_
 9	aquela	_	G	G	_	10	_
@@ -74327,7 +74327,7 @@
 4	uma	_	^	^	_	6	MWE
 5	passeada	_	^	^	_	6	MWE
 6	pelo	_	^	^	_	0	_
-7	fake	_	A	A	_	10	_
+7	fake	_	A	A	_	0	_
 8	,	_	,	,	_	-1	_
 9	me	_	O	O	_	10	_
 10	deparo	_	V	V	_	0	_
@@ -74381,7 +74381,7 @@
 6	,	_	,	,	_	-1	_
 7	beruntung	_	V	V	_	0	_
 8	kalian	_	^	^	_	11	MWE
-9	internisti	_	^	^	_	10	MWE
+9	internisti	_	^	^	_	11	MWE
 10	ga	_	^	^	_	11	MWE
 11	nonton	_	^	^	_	12	_
 12	team	_	N	N	_	7	_
@@ -74686,7 +74686,7 @@
 15	&	_	&	&	_	13	_
 16	POWER	_	N	N	_	15	CONJ
 17	105.1	_	$	$	_	18	_
-18	FREE	_	A	A	_	20	_
+18	FREE	_	A	A	_	16	_
 19	B4	_	P	P	_	6	_
 20	12	_	$	$	_	22	_
 21	ADV	_	N	N	_	22	_
@@ -74987,8 +74987,8 @@
 8	bullied	_	V	V	_	5	_
 9	that	_	P	P	_	8	_
 10	LGBT	_	^	^	_	11	_
-11	girl	_	N	N	_	8	_
-12	on	_	P	P	_	11	_
+11	girl	_	N	N	_	9	_
+12	on	_	P	P	_	8	_
 13	#JerseyShore	_	^	^	_	12	_
 14	last	_	A	A	_	15	_
 15	night	_	N	N	_	12	_
@@ -75199,7 +75199,7 @@
 3	this	_	O	O	_	4	_
 4	goes	_	V	V	_	2	_
 5	along	_	T	T	_	4	MWE
-6	with	_	P	P	_	4	_
+6	with	_	P	P	_	5	_
 7	the	_	D	D	_	10	_
 8	whole	_	A	A	_	10	_
 9	bully	_	N	N	_	10	MWE
@@ -75368,7 +75368,7 @@
 9	When	_	R	R	_	0	_
 10	iCatch	_	G	G	_	0	_
 11	The	_	D	D	_	12	_
-12	Person	_	N	N	_	9	_
+12	Person	_	N	N	_	14	_
 13	Who's	_	L	L	_	9	_
 14	Been	_	V	V	_	13	_
 15	Bullying	_	V	V	_	14	_
@@ -75552,7 +75552,7 @@
 30	nevertheless	_	R	R	_	31	_
 31	hanging	_	V	V	_	29	_
 32	[	_	,	,	_	-1	_
-33	c	_	N	N	_	0	_
+33	c	_	N	N	_	31	_
 34	]	_	,	,	_	-1	_
 
 1	ini	_	G	G	_	-1	_
@@ -75609,7 +75609,7 @@
 19	father	_	N	N	_	0	_
 20	,	_	,	,	_	-1	_
 21	a	_	D	D	_	22	_
-22	wave	_	N	N	_	19	_
+22	wave	_	N	N	_	0	_
 23	,	_	,	,	_	-1	_
 24	a	_	D	D	_	25	_
 25	bully	_	N	N	_	0	_
@@ -75759,12 +75759,12 @@
 7	rt	_	~	~	_	-1	_
 8	@agathagalvao	_	@	@	_	-1	_
 9	julia	_	^	^	_	4	_
-10	ta	_	P	P	_	15	_
+10	ta	_	P	P	_	4	_
 11	fazeno	_	N	N	_	12	_
 12	siber	_	G	G	_	10	_
 13	bule	_	G	G	_	12	_
 14	cmg	_	G	G	_	13	_
-15	n	_	&	&	_	4	_
+15	n	_	&	&	_	0	_
 16	to	_	P	P	_	15	CONJ
 17	gostano	_	V	V	_	16	_
 
@@ -75772,8 +75772,8 @@
 2	bully	_	N	N	_	0	_
 3	!	_	,	,	_	-1	_
 
-1	just	_	R	R	_	0	_
-2	cause	_	P	P	_	1	_
+1	just	_	R	R	_	2	_
+2	cause	_	P	P	_	0	_
 3	its	_	L	L	_	2	_
 4	celebrities	_	N	N	_	3	_
 5	your	_	D	D	_	6	_
@@ -75826,7 +75826,7 @@
 7	tahunya	_	G	G	_	8	_
 8	malah	_	G	G	_	0	_
 9	di	_	G	G	_	8	_
-10	bully	_	N	N	_	0	_
+10	bully	_	N	N	_	9	_
 11	SB	_	G	G	_	-1	_
 
 1	kitten's	_	S	S	_	-1	_
@@ -75958,7 +75958,7 @@
 4	ain't	_	V	V	_	6	CONJ
 5	shit	_	N	N	_	4	_
 6	and	_	&	&	_	0	_
-7	you're	_	L	L	_	0	_
+7	you're	_	L	L	_	6	CONJ
 8	a	_	D	D	_	10	_
 9	cyber	_	N	N	_	10	_
 10	bully	_	N	N	_	7	_
@@ -76099,14 +76099,14 @@
 6	mierda	_	^	^	_	0	_
 7	yo	_	!	!	_	0	_
 8	;	_	,	,	_	-1	_
-9	chucha	_	N	N	_	0	_
+9	chucha	_	N	N	_	15	_
 10	:|	_	E	E	_	-1	_
 11	ajdhsajfhsaf	_	E	E	_	-1	_
 12	mi	_	D	D	_	13	_
-13	mamá	_	N	N	_	16	_
+13	mamá	_	N	N	_	15	_
 14	me	_	O	O	_	15	_
-15	hace	_	V	V	_	16	_
-16	bulling	_	V	V	_	0	_
+15	hace	_	V	V	_	0	_
+16	bulling	_	V	V	_	15	_
 17	kajdks	_	^	^	_	16	_
 18	XDDD	_	E	E	_	-1	_
 19	<3	_	E	E	_	-1	_
@@ -76243,10 +76243,10 @@
 10	estilo	_	^	^	_	11	MWE
 11	americano	_	^	^	_	8	_
 12	)	_	,	,	_	-1	_
-13	quando	_	G	G	_	16	_
-14	estou	_	G	G	_	13	MWE
-15	com	_	N	N	_	14	_
-16	crise	_	G	G	_	18	MWE
+13	quando	_	G	G	_	14	MWE
+14	estou	_	G	G	_	16	_
+15	com	_	N	N	_	16	_
+16	crise	_	G	G	_	0	_
 17	de	_	P	P	_	8	_
 18	asma	_	G	G	_	22	MWE
 19	e	_	G	G	_	22	MWE
@@ -76272,7 +76272,7 @@
 10	hatred	_	N	N	_	9	_
 11	(	_	,	,	_	-1	_
 12	et	_	N	N	_	15	_
-13	al	_	N	N	_	0	_
+13	al	_	N	N	_	15	_
 14	)	_	,	,	_	-1	_
 15	substitute	_	N	N	_	0	_
 16	for	_	P	P	_	15	_
@@ -76788,7 +76788,7 @@
 1	nunca	_	G	G	_	-1	_
 2	sofri	_	G	G	_	3	_
 3	tanto	_	G	G	_	0	_
-4	bullying	_	V	V	_	3	_
+4	bullying	_	V	V	_	0	_
 5	na	_	P	P	_	4	_
 6	minha	_	^	^	_	7	MWE
 7	vida	_	^	^	_	5	_
@@ -76798,7 +76798,7 @@
 11	ahuahua	_	G	G	_	-1	_
 
 1	não	_	G	G	_	-1	_
-2	é	_	G	G	_	4	_
+2	é	_	G	G	_	5	_
 3	bullying	_	V	V	_	0	_
 4	quando	_	G	G	_	5	_
 5	é	_	G	G	_	3	_
@@ -76891,7 +76891,7 @@
 3	bullying	_	V	V	_	0	_
 4	se	_	G	G	_	3	_
 5	eu	_	G	G	_	8	_
-6	jogar	_	G	G	_	8	_
+6	jogar	_	G	G	_	7	_
 7	um	_	G	G	_	8	_
 8	tijolo	_	G	G	_	0	_
 9	na	_	G	G	_	13	_
@@ -76914,11 +76914,11 @@
 3	bullying	_	V	V	_	0	_
 4	se	_	G	G	_	3	_
 5	eu	_	G	G	_	6	_
-6	não	_	G	G	_	7	_
-7	aceitar	_	G	G	_	0	_
+6	não	_	G	G	_	10	_
+7	aceitar	_	G	G	_	10	_
 8	seu	_	G	G	_	9	_
-9	depoimento	_	G	G	_	12	_
-10	só	_	G	G	_	12	_
+9	depoimento	_	G	G	_	10	_
+10	só	_	G	G	_	0	_
 11	pq	_	G	G	_	12	_
 12	é	_	G	G	_	0	_
 13	capenga	_	G	G	_	-1	_
@@ -77010,7 +77010,7 @@
 20	,	_	,	,	_	-1	_
 21	eu	_	^	^	_	23	MWE
 22	mereço	_	^	^	_	23	MWE
-23	viu	_	^	^	_	19	_
+23	viu	_	^	^	_	0	_
 24	#liasolitaria	_	#	#	_	-1	_
 
 1	o	_	P	P	_	0	_
@@ -77028,9 +77028,9 @@
 13	de	_	P	P	_	14	_
 14	bulling	_	V	V	_	0	_
 15	morre	_	^	^	_	14	_
-16	no	_	D	D	_	17	_
-17	final	_	A	A	_	18	_
-18	do	_	V	V	_	14	_
+16	no	_	D	D	_	14	_
+17	final	_	A	A	_	16	_
+18	do	_	V	V	_	17	_
 19	filme	_	^	^	_	18	_
 20	.	_	,	,	_	-1	_
 
@@ -77244,8 +77244,8 @@
 10	uma	_	G	G	_	11	_
 11	pessoa	_	G	G	_	12	MWE
 12	que	_	G	G	_	13	_
-13	não	_	G	G	_	17	_
-14	tem	_	G	G	_	15	_
+13	não	_	G	G	_	16	_
+14	tem	_	G	G	_	16	_
 15	é	_	G	G	_	17	_
 16	complicado	_	G	G	_	17	_
 17	né	_	G	G	_	0	_
@@ -77343,18 +77343,18 @@
 22	amiga	_	^	^	_	14	_
 23	@pires_Daniele	_	@	@	_	-1	_
 
-1	parece	_	^	^	_	2	MWE
+1	parece	_	^	^	_	3	MWE
 2	que	_	^	^	_	3	MWE
-3	eu	_	^	^	_	4	_
-4	to	_	P	P	_	0	_
+3	eu	_	^	^	_	0	_
+4	to	_	P	P	_	3	_
 5	sofrendo	_	V	V	_	4	_
 6	bullying	_	V	V	_	5	_
 7	não	_	G	G	_	6	_
 8	usando	_	G	G	_	9	_
 9	avatar	_	G	G	_	6	_
-10	de	_	P	P	_	6	_
+10	de	_	P	P	_	11	MWE
 11	peace	_	N	N	_	12	CONJ
-12	and	_	&	&	_	10	_
+12	and	_	&	&	_	0	_
 13	love	_	N	N	_	12	CONJ
 
 1	parei	_	^	^	_	3	_
@@ -77486,7 +77486,7 @@
 1	porraa	_	G	G	_	-1	_
 2	eu	_	G	G	_	0	_
 3	sofro	_	V	V	_	2	_
-4	bulling	_	V	V	_	0	_
+4	bulling	_	V	V	_	3	_
 5	da	_	D	D	_	7	_
 6	câmera	_	N	N	_	7	_
 7	fotográfica	_	N	N	_	4	_
@@ -77625,11 +77625,11 @@
 10	,	_	,	,	_	-1	_
 11	exclui	_	^	^	_	0	_
 12	,	_	,	,	_	-1	_
-13	empurra	_	N	N	_	9	_
+13	empurra	_	N	N	_	0	_
 14	,	_	,	,	_	-1	_
 15	rouba	_	^	^	_	16	MWE
 16	ou	_	^	^	_	20	_
-17	se	_	G	G	_	16	MWE
+17	se	_	G	G	_	18	_
 18	quebra	_	^	^	_	20	_
 19	os	_	N	N	_	20	_
 20	pertences	_	N	N	_	0	_
@@ -78036,7 +78036,7 @@
 27	or	_	&	&	_	23	_
 28	anything	_	N	N	_	27	CONJ
 29	*	_	,	,	_	-1	_
-30	scoffs	_	V	V	_	27	CONJ
+30	scoffs	_	V	V	_	0	_
 31	*	_	,	,	_	-1	_
 
 1	sobro	_	^	^	_	2	_
@@ -78342,7 +78342,7 @@
 10	@oisoubea	_	@	@	_	12	_
 11	no	_	!	!	_	13	_
 12	telefone	_	N	N	_	13	_
-13	dçksçldskdlk	_	N	N	_	3	_
+13	dçksçldskdlk	_	N	N	_	0	_
 
 1	tear	_	V	V	_	0	_
 2	a	_	D	D	_	3	_
@@ -78386,7 +78386,7 @@
 11	do	_	V	V	_	0	_
 12	mundo	_	^	^	_	11	_
 13	sem	_	G	G	_	11	_
-14	bullying	_	V	V	_	0	_
+14	bullying	_	V	V	_	13	_
 15	na	_	P	P	_	14	_
 16	super	_	R	R	_	15	_
 17	desse	_	G	G	_	18	_
@@ -78695,10 +78695,10 @@
 11	...	_	,	,	_	-1	_
 12	to	_	P	P	_	8	_
 13	jah	_	^	^	_	12	_
-14	pra	_	G	G	_	16	MWE
-15	fuder	_	G	G	_	16	_
-16	ums	_	G	G	_	0	_
-17	caras	_	G	G	_	16	_
+14	pra	_	G	G	_	13	MWE
+15	fuder	_	G	G	_	17	MWE
+16	ums	_	G	G	_	17	MWE
+17	caras	_	G	G	_	0	_
 18	de	_	P	P	_	19	_
 19	lah	_	V	V	_	0	_
 20	...	_	,	,	_	-1	_
@@ -78857,11 +78857,11 @@
 
 1	toda	_	G	G	_	-1	_
 2	hora	_	G	G	_	0	_
-3	as	_	P	P	_	0	_
+3	as	_	P	P	_	4	MWE
 4	meninas	_	^	^	_	6	MWE
 5	gritam	_	^	^	_	6	MWE
-6	gol	_	^	^	_	3	_
-7	do	_	V	V	_	3	_
+6	gol	_	^	^	_	7	_
+7	do	_	V	V	_	0	_
 8	corinthians	_	^	^	_	11	MWE
 9	e	_	^	^	_	10	MWE
 10	eu	_	^	^	_	11	MWE
@@ -78913,10 +78913,10 @@
 3	dias	_	N	N	_	0	_
 4	eu	_	^	^	_	5	MWE
 5	recebo	_	^	^	_	0	_
-6	e-mail/tuítes	_	G	G	_	5	_
-7	de	_	G	G	_	6	_
-8	gente	_	G	G	_	7	_
-9	reclamando	_	G	G	_	8	_
+6	e-mail/tuítes	_	G	G	_	7	_
+7	de	_	G	G	_	8	_
+8	gente	_	G	G	_	9	_
+9	reclamando	_	G	G	_	0	_
 10	da	_	D	D	_	11	_
 11	minha	_	^	^	_	15	MWE
 12	posição	_	^	^	_	15	MWE
@@ -79051,8 +79051,8 @@
 1	valeu	_	G	G	_	-1	_
 2	@carrerarock	_	@	@	_	-1	_
 3	por	_	G	G	_	4	_
-4	ser	_	G	G	_	6	_
-5	o	_	G	G	_	6	_
+4	ser	_	G	G	_	5	MWE
+5	o	_	G	G	_	0	_
 6	único	_	G	G	_	0	_
 7	a	_	D	D	_	8	_
 8	responder	_	N	N	_	0	_
@@ -79159,11 +79159,11 @@
 2	me	_	O	O	_	1	_
 3	meter	_	N	N	_	1	_
 4	mais	_	G	G	_	5	MWE
-5	nessa	_	G	G	_	9	_
-6	brincadeira	_	G	G	_	9	_
+5	nessa	_	G	G	_	6	_
+6	brincadeira	_	G	G	_	8	_
 7	de	_	P	P	_	1	_
 8	criança	_	G	G	_	9	_
-9	não	_	G	G	_	0	_
+9	não	_	G	G	_	7	_
 10	,	_	,	,	_	-1	_
 11	agora	_	G	G	_	14	_
 12	isso	_	G	G	_	14	_
@@ -79399,7 +79399,7 @@
 2	you	_	O	O	_	3	_
 3	are	_	V	V	_	1	_
 4	ugly	_	A	A	_	5	_
-5	children	_	N	N	_	3	_
+5	children	_	N	N	_	6	_
 6	bully	_	V	V	_	0	_
 7	you	_	O	O	_	6	_
 8	when	_	R	R	_	6	_
@@ -79408,7 +79408,7 @@
 11	ugly	_	A	A	_	10	_
 12	no	_	D	D	_	13	_
 13	boy	_	N	N	_	14	_
-14	asks	_	V	V	_	0	_
+14	asks	_	V	V	_	11	_
 15	you	_	O	O	_	14	_
 16	out	_	T	T	_	14	MWE
 
@@ -79446,10 +79446,10 @@
 
 1	y	_	R	R	_	6	_
 2	@cesarockers	_	@	@	_	3	_
-3	me	_	O	O	_	6	_
+3	me	_	O	O	_	0	_
 4	hace	_	^	^	_	5	MWE
 5	hiper	_	^	^	_	6	_
-6	bullying	_	V	V	_	0	_
+6	bullying	_	V	V	_	3	_
 7	!!	_	,	,	_	-1	_
 8	:(	_	E	E	_	-1	_
 
@@ -79501,8 +79501,8 @@
 9	,	_	,	,	_	-1	_
 10	pasti	_	^	^	_	11	MWE
 11	mereka	_	^	^	_	0	_
-12	semua	_	G	G	_	16	_
-13	bakalan	_	G	G	_	14	_
+12	semua	_	G	G	_	11	MWE
+13	bakalan	_	G	G	_	16	_
 14	ngerasain	_	G	G	_	16	_
 15	apa	_	G	G	_	16	_
 16	yg	_	G	G	_	0	_
@@ -79515,7 +79515,7 @@
 4	you	_	O	O	_	5	_
 5	break	_	V	V	_	0	_
 6	,	_	,	,	_	-1	_
-7	you	_	O	O	_	8	_
+7	you	_	O	O	_	5	_
 8	fake	_	A	A	_	5	_
 9	you	_	O	O	_	10	_
 10	fake	_	A	A	_	0	_
@@ -79557,9 +79557,9 @@
 16	honestly	_	R	R	_	17	_
 17	don't	_	V	V	_	0	_
 18	know	_	V	V	_	17	_
-19	what	_	O	O	_	18	_
+19	what	_	O	O	_	20	_
 20	cyber-bullying	_	V	V	_	21	_
-21	can	_	V	V	_	19	_
+21	can	_	V	V	_	18	_
 22	make	_	V	V	_	21	_
 23	a	_	D	D	_	24	_
 24	person	_	N	N	_	25	_
@@ -79593,7 +79593,7 @@
 6	zoar	_	^	^	_	9	MWE
 7	Fluminense	_	^	^	_	8	MWE
 8	é	_	^	^	_	9	MWE
-9	homofobia	_	^	^	_	0	_
+9	homofobia	_	^	^	_	4	_
 10	,	_	,	,	_	-1	_
 11	zoar	_	R	R	_	15	_
 12	Vascaíno	_	^	^	_	13	MWE
@@ -79745,7 +79745,7 @@
 7	sofrendo	_	G	G	_	6	_
 8	bulling	_	V	V	_	0	_
 9	mas	_	^	^	_	8	_
-10	não	_	G	G	_	9	MWE
+10	não	_	G	G	_	8	_
 11	somos	_	G	G	_	12	_
 12	colegas	_	G	G	_	15	_
 13	nem	_	G	G	_	14	_
@@ -79797,7 +79797,7 @@
 1	É	_	G	G	_	2	_
 2	correto	_	G	G	_	3	_
 3	falar	_	G	G	_	0	_
-4	que	_	G	G	_	6	_
+4	que	_	G	G	_	3	_
 5	quem	_	G	G	_	6	_
 6	sofre	_	G	G	_	0	_
 7	de	_	P	P	_	8	_
@@ -79898,7 +79898,7 @@
 6	hoje	_	V	V	_	5	_
 7	no	_	D	D	_	8	_
 8	colégio	_	N	N	_	6	_
-9	eu	_	^	^	_	6	_
+9	eu	_	^	^	_	8	_
 10	e	_	G	G	_	9	MWE
 11	a	_	D	D	_	12	_
 12	lindaaa	_	G	G	_	0	_
@@ -80071,7 +80071,7 @@
 22	on	_	T	T	_	21	MWE
 23	who	_	O	O	_	21	_
 24	a	_	D	D	_	25	_
-25	hoe	_	N	N	_	21	_
+25	hoe	_	N	N	_	0	_
 26	?	_	,	,	_	-1	_
 
 1	“	_	,	,	_	-1	_
@@ -80287,10 +80287,10 @@
 16	check	_	N	N	_	13	_
 17	of	_	P	P	_	16	_
 18	how	_	R	R	_	19	_
-19	much	_	A	A	_	17	_
+19	much	_	A	A	_	22	_
 20	it	_	O	O	_	22	_
 21	really	_	R	R	_	22	_
-22	can	_	V	V	_	0	_
+22	can	_	V	V	_	13	_
 23	tear	_	V	V	_	22	_
 24	someones	_	D	D	_	26	_
 25	life	_	N	N	_	26	_
@@ -80343,9 +80343,9 @@
 17	bullying	_	V	V	_	0	_
 18	diciendo	_	N	N	_	17	_
 19	mi	_	G	G	_	21	MWE
-20	nombre	_	G	G	_	21	MWE
-21	en	_	G	G	_	0	_
-22	diminutivo	_	N	N	_	21	_
+20	nombre	_	G	G	_	17	_
+21	en	_	G	G	_	20	MWE
+22	diminutivo	_	N	N	_	0	_
 23	!	_	,	,	_	-1	_
 24	#Noesdedios	_	#	#	_	-1	_
 
@@ -80507,10 +80507,10 @@
 11	,	_	,	,	_	-1	_
 12	injurias	_	L	L	_	0	_
 13	y	_	R	R	_	12	_
-14	calumnias	_	V	V	_	13	_
+14	calumnias	_	V	V	_	0	_
 15	através	_	G	G	_	14	_
 16	de	_	P	P	_	17	_
-17	twitter	_	^	^	_	14	_
+17	twitter	_	^	^	_	15	_
 18	.	_	,	,	_	-1	_
 19	TWITTER	_	^	^	_	20	_
 20	BULLYING	_	N	N	_	0	_
@@ -80950,21 +80950,21 @@
 16	지키지	_	G	G	_	0	_
 17	않는다면	_	N	N	_	16	_
 18	,	_	,	,	_	-1	_
-19	그냥	_	^	^	_	23	MWE
-20	bullying하는	_	^	^	_	23	MWE
-21	걸	_	^	^	_	23	MWE
-22	즐기고	_	^	^	_	23	MWE
-23	있고	_	^	^	_	0	_
+19	그냥	_	^	^	_	22	MWE
+20	bullying하는	_	^	^	_	22	MWE
+21	걸	_	^	^	_	22	MWE
+22	즐기고	_	^	^	_	0	_
+23	있고	_	^	^	_	22	_
 24	,	_	,	,	_	-1	_
 25	남을	_	^	^	_	26	MWE
 26	깔아뭉개는	_	^	^	_	27	MWE
 27	것을	_	^	^	_	28	MWE
 28	즐기는	_	^	^	_	29	MWE
-29	것	_	^	^	_	34	MWE
+29	것	_	^	^	_	30	MWE
 30	외의	_	^	^	_	34	MWE
-31	아무	_	^	^	_	34	MWE
-32	이유도	_	^	^	_	34	MWE
-33	없다고	_	^	^	_	34	MWE
-34	생각할밖에	_	^	^	_	0	_
+31	아무	_	^	^	_	33	MWE
+32	이유도	_	^	^	_	33	MWE
+33	없다고	_	^	^	_	0	_
+34	생각할밖에	_	^	^	_	33	_
 35	.	_	,	,	_	-1	_
 
