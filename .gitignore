@@ -187,22 +187,5 @@ venv.bak/
 
 # End of https://www.gitignore.io/api/c++,cmake,autotools,python
 
-.deps/
-autom4te.cache/
 pretrained_models/
-working_dir/
-
-# We can't ignore deps/ if we want to include deps/AD3-2.0.2.tar.gz.
-# For some reason, ignoring deps/* does not properly ignore its subdirectories.
-# So we have to ignore each individual dependency.
-AD3-2.0.2/
-gflags/
-glog/
-local/
-
-config.log
-Makefile
 pretrained_models.tar.gz
-stamp-h1
-TurboParser
-TurboTagger
