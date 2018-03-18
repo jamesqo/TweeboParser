@@ -195,8 +195,6 @@ pretrained_models/
 working_dir/
 
 config.log
-config.status
-configure
 Makefile
 pretrained_models.tar.gz
 stamp-h1
