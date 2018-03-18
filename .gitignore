@@ -196,7 +196,6 @@ working_dir/
 config.log
 config.status
 configure
-install-sh
 Makefile
 stamp-h1
 TurboParser
