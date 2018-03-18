@@ -450,7 +450,7 @@ Copyright (C) 2010 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
-ac_pwd='/home/lingpenk/TweeboParser/TBParser'
+ac_pwd='/home/james/code/py/tmp/bdetect-py/deps/TweeboParser/TBParser'
 srcdir='.'
 INSTALL='/usr/bin/install -c'
 MKDIR_P='/bin/mkdir -p'
@@ -660,7 +660,7 @@ S["EXEEXT"]=""
 S["ac_ct_CXX"]="g++"
 S["CPPFLAGS"]="-I../../deps/local/include -I/ad3"
 S["LDFLAGS"]=""
-S["CXXFLAGS"]="-g -O2"
+S["CXXFLAGS"]="-g -O2 -std=c++11"
 S["CXX"]="g++"
 S["am__untar"]="$${TAR-tar} xf -"
 S["am__tar"]="$${TAR-tar} chof - \"$$tardir\""
@@ -672,12 +672,12 @@ S["mkdir_p"]="/bin/mkdir -p"
 S["MKDIR_P"]="/bin/mkdir -p"
 S["INSTALL_STRIP_PROGRAM"]="$(install_sh) -c -s"
 S["STRIP"]=""
-S["install_sh"]="${SHELL} /home/lingpenk/TweeboParser/TBParser/install-sh"
-S["MAKEINFO"]="${SHELL} /home/lingpenk/TweeboParser/TBParser/missing --run makeinfo"
-S["AUTOHEADER"]="${SHELL} /home/lingpenk/TweeboParser/TBParser/missing --run autoheader"
-S["AUTOMAKE"]="${SHELL} /home/lingpenk/TweeboParser/TBParser/missing --run automake-1.11"
-S["AUTOCONF"]="${SHELL} /home/lingpenk/TweeboParser/TBParser/missing --run autoconf"
-S["ACLOCAL"]="${SHELL} /home/lingpenk/TweeboParser/TBParser/missing --run aclocal-1.11"
+S["install_sh"]="${SHELL} /home/james/code/py/tmp/bdetect-py/deps/TweeboParser/TBParser/install-sh"
+S["MAKEINFO"]="${SHELL} /home/james/code/py/tmp/bdetect-py/deps/TweeboParser/TBParser/missing --run makeinfo"
+S["AUTOHEADER"]="${SHELL} /home/james/code/py/tmp/bdetect-py/deps/TweeboParser/TBParser/missing --run autoheader"
+S["AUTOMAKE"]="${SHELL} /home/james/code/py/tmp/bdetect-py/deps/TweeboParser/TBParser/missing --run automake-1.11"
+S["AUTOCONF"]="${SHELL} /home/james/code/py/tmp/bdetect-py/deps/TweeboParser/TBParser/missing --run autoconf"
+S["ACLOCAL"]="${SHELL} /home/james/code/py/tmp/bdetect-py/deps/TweeboParser/TBParser/missing --run aclocal-1.11"
 S["VERSION"]="2.1.0"
 S["PACKAGE"]="TurboParser"
 S["CYGPATH_W"]="echo"
@@ -726,7 +726,7 @@ S["SHELL"]="/bin/bash"
 _ACAWK
 cat >>"$ac_tmp/subs1.awk" <<_ACAWK &&
   for (key in S) S_is_set[key] = 1
-  FS = ""
+  FS = ""
 
 }
 {
@@ -787,7 +787,7 @@ D["HAVE__BOOL"]=" 1"
 D["HAVE_STDBOOL_H"]=" 1"
 D["HAVE_GETTIMEOFDAY"]=" 1"
   for (key in D) D_is_set[key] = 1
-  FS = ""
+  FS = ""
 }
 /^[\t ]*#[\t ]*(define|undef)[\t ]+[_abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ][_abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]*([\t (]|$)/ {
   line = $ 0
