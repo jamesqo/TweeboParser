@@ -187,5 +187,16 @@ venv.bak/
 
 # End of https://www.gitignore.io/api/c++,cmake,autotools,python
 
-deps/
 .deps/
+autom4te.cache/
+deps/
+pretrained_models/
+
+config.log
+config.status
+configure
+install-sh
+Makefile
+
+*.pyc
+*.tar.gz
