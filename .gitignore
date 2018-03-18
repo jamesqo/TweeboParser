@@ -191,12 +191,16 @@ venv.bak/
 autom4te.cache/
 deps/
 pretrained_models/
+working_dir/
 
 config.log
 config.status
 configure
 install-sh
 Makefile
+stamp-h1
+TurboParser
+TurboTagger
 
 *.pyc
 *.tar.gz
