@@ -189,10 +189,16 @@ venv.bak/
 
 .deps/
 autom4te.cache/
-deps/*
-!deps/AD3-2.0.2.tar.gz
 pretrained_models/
 working_dir/
+
+# We can't ignore deps/ if we want to include deps/AD3-2.0.2.tar.gz.
+# For some reason, ignoring deps/* does not properly ignore its subdirectories.
+# So we have to ignore each individual dependency.
+deps/AD3-2.0.2/
+deps/gflags/
+deps/glog/
+deps/local/
 
 config.log
 Makefile
