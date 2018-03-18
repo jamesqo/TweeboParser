@@ -206,5 +206,3 @@ pretrained_models.tar.gz
 stamp-h1
 TurboParser
 TurboTagger
-
-*.pyc
