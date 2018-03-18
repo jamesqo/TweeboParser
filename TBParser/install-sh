@@ -104,12 +104,15 @@ Usage: $0 [OPTION]... [-T] SRCFILE DSTFILE
    or: $0 [OPTION]... SRCFILES... DIRECTORY
    or: $0 [OPTION]... -t DIRECTORY SRCFILES...
    or: $0 [OPTION]... -d DIRECTORIES...
+
 In the 1st form, copy SRCFILE to DSTFILE.
 In the 2nd and 3rd, copy all SRCFILES to DIRECTORY.
 In the 4th, create DIRECTORIES.
+
 Options:
      --help     display this help and exit.
      --version  display version info and exit.
+
   -c            (ignored)
   -C            install only if different (preserve the last data modification time)
   -d            create directories instead of installing files.
@@ -119,6 +122,7 @@ Options:
   -s            $stripprog installed files.
   -t DIRECTORY  install into DIRECTORY.
   -T            report an error if DSTFILE is a directory.
+
 Environment variables override the default commands:
   CHGRPPROG CHMODPROG CHOWNPROG CMPPROG CPPROG MKDIRPROG MVPROG
   RMPROG STRIPPROG
