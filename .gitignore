@@ -186,3 +186,6 @@ venv.bak/
 
 
 # End of https://www.gitignore.io/api/c++,cmake,autotools,python
+
+deps/
+.deps/
